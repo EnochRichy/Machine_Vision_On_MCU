@@ -24,7 +24,7 @@ rule C_COMPILER__ML_OV7670_GFX_default_default_XC32_compile_unscanned_
 #############################################
 # Rule for linking C executable.
 
-rule C_EXECUTABLE_LINKER__ML_OV7670_GFX_default_image_yAJDuesN_
+rule C_EXECUTABLE_LINKER__ML_OV7670_GFX_default_image_SBoOX_9b_
   command = cmd.exe /C "$PRE_LINK && c:\PROGRA~1\MICROC~1\xc32\v4.60\bin\xc32-gcc.exe $FLAGS $LINK_FLAGS @$RSP_FILE -o $TARGET_FILE && $POST_BUILD"
   description = Linking C executable $TARGET_FILE; Copying elf to out location
   rspfile = $RSP_FILE
@@ -44,7 +44,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\CMake\bin\cmake.exe" --regenerate-during-build -SD:\ML_OV7670_GFX\cmake\ML_OV7670_GFX\default -BD:\ML_OV7670_GFX\_build\ML_OV7670_GFX\default
+  command = "C:\Program Files\CMake\bin\cmake.exe" --regenerate-during-build -SD:\MV_PIC32CZ_Git\cmake\ML_OV7670_GFX\default -BD:\MV_PIC32CZ_Git\_build\ML_OV7670_GFX\default
   description = Re-running CMake...
   generator = 1
 

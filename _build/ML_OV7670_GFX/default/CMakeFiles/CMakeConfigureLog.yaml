@@ -173,7 +173,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
       
       The C compiler identification is GNU, found in:
-        D:/ML_OV7670_GFX/_build/ML_OV7670_GFX/default/CMakeFiles/4.1.2/CompilerIdC/a.out
+        D:/MV_PIC32CZ_Git/_build/ML_OV7670_GFX/default/CMakeFiles/4.1.2/CompilerIdC/a.out
       
   -
     kind: "find-v1"
@@ -2196,7 +2196,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
       
       The CXX compiler identification is GNU, found in:
-        D:/ML_OV7670_GFX/_build/ML_OV7670_GFX/default/CMakeFiles/4.1.2/CompilerIdCXX/a.out
+        D:/MV_PIC32CZ_Git/_build/ML_OV7670_GFX/default/CMakeFiles/4.1.2/CompilerIdCXX/a.out
       
   -
     kind: "find-v1"

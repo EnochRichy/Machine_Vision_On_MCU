@@ -3,10 +3,12 @@
     "configurations": [
         {
             "name": "default",
-            "id": "conf1",
+            "id": "",
             "device": "PIC32CZ8110CA90208",
+            "imageType": "application",
             "imagePath": "./out/ML_OV7670_GFX/default.elf",
-            "tool": "Curiosity/Starter Kits (PKOB4)",
+            "toolProperties": "default-tool-base",
+            "tool": "Simulator",
             "packs": [
                 {
                     "name": "PIC32CZ-CA90_DFP",
@@ -20,7 +22,9 @@
                 }
             ],
             "fileSet": "default",
-            "toolchain": "default-XC32"
+            "toolchain": "default-XC32",
+            "preBuildSteps": [],
+            "postBuildSteps": []
         }
     ],
     "propertyGroups": [
@@ -38,11 +42,11 @@
                     "\"My_MCC_Config/src/packs/CMSIS\"",
                     "\"My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include\"",
                     "\"My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP\"",
-                    "My_MCC_Config/src",
-                    "My_MCC_Config/src/config/default",
-                    "My_MCC_Config/src/packs/CMSIS",
-                    "My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include",
-                    "My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP"
+                    "\"My_MCC_Config/src\"",
+                    "\"My_MCC_Config/src/config/default\"",
+                    "\"My_MCC_Config/src/packs/CMSIS\"",
+                    "\"My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include\"",
+                    "\"My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP\""
                 ],
                 "compiler++.isolate-each-function": true,
                 "compiler++.optimization-level": "-O1",
@@ -52,20 +56,25 @@
                     "\"My_MCC_Config/src/packs/CMSIS\"",
                     "\"My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include\"",
                     "\"My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP\"",
-                    "My_MCC_Config/src",
-                    "My_MCC_Config/src/config/default",
-                    "My_MCC_Config/src/packs/CMSIS",
-                    "My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include",
-                    "My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP"
+                    "\"My_MCC_Config/src\"",
+                    "\"My_MCC_Config/src/config/default\"",
+                    "\"My_MCC_Config/src/packs/CMSIS\"",
+                    "\"My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include\"",
+                    "\"My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP\""
                 ],
                 "linker.heap-size": "512",
                 "linker.remove-unused-sections": true,
-                "linker.no-device-startup-code": "true",
+                "linker.no-device-startup-code": true,
                 "linker.preprocessor-macros": [
                     "VECTOR_REGION=boot_rom"
                 ],
                 "C32Global.mstacktcm": "false"
             }
+        },
+        {
+            "name": "default-tool-base",
+            "type": "tool",
+            "properties": {}
         }
     ],
     "fileSets": [
