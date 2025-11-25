@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ML_OV7670_GFX_default_project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ML_OV7670_GFX_default_Bin2Hex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ML_OV7670_GFX_default_Bin2Hex-cb149f750e4a65e0c9d3.json",
+					"name" : "ML_OV7670_GFX_default_Bin2Hex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ML_OV7670_GFX_default_default_XC32_compile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ML_OV7670_GFX_default_default_XC32_compile-bb054b75376e09775e8a.json",
+					"name" : "ML_OV7670_GFX_default_default_XC32_compile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ML_OV7670_GFX_default_image__ItcDl0N::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ML_OV7670_GFX_default_image__ItcDl0N-b5eaf01ffa34cbf05557.json",
+					"name" : "ML_OV7670_GFX_default_image__ItcDl0N",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default",
+		"source" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/cmake/ML_OV7670_GFX/default"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

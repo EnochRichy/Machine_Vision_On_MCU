@@ -1,0 +1,11 @@
+configVersion: 1.0.0
+coreVersion: 5.8.3
+device: PIC32CZ8110CA90208
+deviceLibrary: {}
+groupModules: []
+modules:
+- cmsis
+- core
+- dfp
+- evsys
+generatedFileHashHistoryMap: []
