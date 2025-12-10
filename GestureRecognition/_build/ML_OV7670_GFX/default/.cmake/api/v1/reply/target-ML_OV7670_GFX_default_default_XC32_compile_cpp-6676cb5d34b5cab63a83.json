@@ -1,0 +1,1985 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/app_ml.cpp.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/5f176e829041afd0984750dcf575dbdc/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/compiler/mlir/lite/schema/schema_utils.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/core/api/flatbuffer_conversions.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/core/api/tensor_utils.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/core/c/common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/kernels/kernel_util.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/kernels/internal/common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/5f176e829041afd0984750dcf575dbdc/src/tensorflow/lite/kernels/internal/portable_tensor_utils.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/kernels/internal/quantization_util.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/kernels/internal/runtime_shape.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/kernels/internal/tensor_ctypes.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/kernels/internal/tensor_utils.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/5f176e829041afd0984750dcf575dbdc/src/tensorflow/lite/kernels/internal/reference/comparisons.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/5f176e829041afd0984750dcf575dbdc/src/tensorflow/lite/kernels/internal/reference/portable_tensor_utils.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/debug_log.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/fake_micro_context.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/flatbuffer_utils.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/hexdump.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/memory_helpers.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/micro_allocation_info.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/micro_allocator.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/micro_context.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/micro_interpreter.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/micro_interpreter_context.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/micro_interpreter_graph.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_log.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/micro_op_resolver.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/micro_profiler.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/micro_resource_variable.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_time.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_utils.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/mock_micro_graph.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/recording_micro_allocator.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/system_setup.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/test_helpers.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/test_helper_custom_ops.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/55710b40d851139a8c828b336f598024/lite/micro/arena_allocator/non_persistent_arena_buffer_allocator.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/55710b40d851139a8c828b336f598024/lite/micro/arena_allocator/persistent_arena_buffer_allocator.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/55710b40d851139a8c828b336f598024/lite/micro/arena_allocator/recording_single_arena_buffer_allocator.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/30efd0943aac2313994f20f5d62d6360/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/activations.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/activations_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/add_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/add_n.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/arg_min_max.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/assign_variable.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_to_space_nd.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/broadcast_args.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/broadcast_to.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/call_once.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cast.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/ceil.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/circular_buffer.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/5f176e829041afd0984750dcf575dbdc/src/tensorflow/lite/micro/kernels/circular_buffer_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/comparisons.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/concatenation.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/cumsum.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode_state.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode_state_huffman.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode_state_lut.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode_state_prune.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/decompress.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/decompress_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/depth_to_space.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/dequantize.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/dequantize_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/detection_postprocess.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/div.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/dynamic_update_slice.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/elementwise.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/elu.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/embedding_lookup.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/ethosu.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/exp.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/expand_dims.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fill.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/floor.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/floor_div.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/floor_mod.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/5f176e829041afd0984750dcf575dbdc/src/tensorflow/lite/micro/kernels/fully_connected_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/gather.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/gather_nd.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/hard_swish.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/hard_swish_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/if.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/kernel_runner.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/kernel_util.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/l2norm.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/l2_pool_2d.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/leaky_relu.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/leaky_relu_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/logical.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/logical_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/logistic.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/logistic_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/log_softmax.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/lstm_eval.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/lstm_eval_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/mirror_pad.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/neg.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pack.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/prelu.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/prelu_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/quantize.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/quantize_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/read_variable.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/reduce.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/reduce_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/reshape.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/reshape_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/resize_bilinear.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/5f176e829041afd0984750dcf575dbdc/src/tensorflow/lite/micro/kernels/resize_nearest_neighbor.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/reverse.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/round.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/select.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/shape.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/slice.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/space_to_batch_nd.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/space_to_depth.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/split.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/split_v.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/squared_difference.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/squeeze.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/strided_slice.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/strided_slice_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/sub.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/sub_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/tanh.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/5f176e829041afd0984750dcf575dbdc/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/unpack.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/var_handle.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/while.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/fba2cb3ab630ce0e1fd39ad30db99989/My_MCC_Config/src/tensorflow/lite/micro/kernels/zeros_like.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/5f176e829041afd0984750dcf575dbdc/src/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/5f176e829041afd0984750dcf575dbdc/src/tensorflow/lite/micro/memory_planner/linear_memory_planner.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/55710b40d851139a8c828b336f598024/lite/micro/memory_planner/non_persistent_buffer_planner_shim.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/5f176e829041afd0984750dcf575dbdc/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.cc.obj"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/5f176e829041afd0984750dcf575dbdc/src/tensorflow/lite/micro/tflite_bridge/micro_error_reporter.cc.obj"
+		}
+	],
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include",
+			"target_compile_options",
+			"ML_OV7670_GFX_default_default_XC32_compile_cpp_rule",
+			"target_compile_definitions",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			".generated/main.cmake",
+			"CMakeLists.txt",
+			".generated/rule.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 80,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 81,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 84,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"backtrace" : 5,
+					"fragment" : "-g"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-mprocessor=32CZ8110CA90208"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-frtti"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fexceptions"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-check-new"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fenforce-eh-specs"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-O1"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-common"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-mdfp=C:/Users/I41645/.mchp_packs/Microchip/PIC32CZ-CA90_DFP/1.7.168/CA90"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 6,
+					"define" : "XPRJ_default=default"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "__DEBUG"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 7,
+					"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/config/default"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/CMSIS"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/I41645/.mchp_packs/ARM/CMSIS/6.2.0/CMSIS/Core/Include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/third_party/flatbuffers/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/third_party/gemmlowp"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/third_party/ruy"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162
+			]
+		}
+	],
+	"id" : "ML_OV7670_GFX_default_default_XC32_compile_cpp::@6890427a1f51a3e7e1df",
+	"name" : "ML_OV7670_GFX_default_default_XC32_compile_cpp",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/app_ml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/compiler/mlir/lite/schema/schema_utils.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/core/api/flatbuffer_conversions.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/core/api/tensor_utils.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/core/c/common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/kernel_util.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/portable_tensor_utils.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/quantization_util.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/runtime_shape.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/tensor_ctypes.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/tensor_utils.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/reference/comparisons.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/reference/portable_tensor_utils.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/debug_log.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/fake_micro_context.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/flatbuffer_utils.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/hexdump.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/memory_helpers.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_allocation_info.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_allocator.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_context.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_interpreter.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_interpreter_context.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_interpreter_graph.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_log.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_op_resolver.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_profiler.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_resource_variable.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_time.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_utils.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/mock_micro_graph.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/recording_micro_allocator.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/system_setup.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/test_helpers.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/test_helper_custom_ops.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/arena_allocator/non_persistent_arena_buffer_allocator.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/arena_allocator/persistent_arena_buffer_allocator.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/arena_allocator/recording_single_arena_buffer_allocator.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/activations.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/activations_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add_n.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/arg_min_max.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/assign_variable.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_to_space_nd.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/broadcast_args.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/broadcast_to.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/call_once.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cast.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/ceil.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/circular_buffer.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/circular_buffer_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/comparisons.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/concatenation.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cumsum.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode_state.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode_state_huffman.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode_state_lut.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode_state_prune.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/decompress.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/decompress_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depth_to_space.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/dequantize.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/dequantize_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/detection_postprocess.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/div.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/dynamic_update_slice.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/elementwise.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/elu.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/embedding_lookup.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/ethosu.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/exp.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/expand_dims.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fill.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/floor.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/floor_div.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/floor_mod.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/gather.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/gather_nd.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/hard_swish.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/hard_swish_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/if.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/kernel_runner.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/kernel_util.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/l2norm.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/l2_pool_2d.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/leaky_relu.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/leaky_relu_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/logical.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/logical_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/logistic.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/logistic_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/log_softmax.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/lstm_eval.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/lstm_eval_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mirror_pad.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/neg.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pack.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/prelu.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/prelu_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/quantize.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/quantize_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/read_variable.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/reduce.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/reduce_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/reshape.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/reshape_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/resize_bilinear.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/resize_nearest_neighbor.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/reverse.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/round.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/select.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/shape.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/slice.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/space_to_batch_nd.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/space_to_depth.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/split.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/split_v.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/squared_difference.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/squeeze.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/strided_slice.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/strided_slice_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/sub.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/sub_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/tanh.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unpack.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/var_handle.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/while.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/zeros_like.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/memory_planner/linear_memory_planner.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/memory_planner/non_persistent_buffer_planner_shim.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/tflite_bridge/micro_error_reporter.cc",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

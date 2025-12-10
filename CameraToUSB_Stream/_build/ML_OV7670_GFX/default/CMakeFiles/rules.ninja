@@ -25,7 +25,7 @@ rule C_COMPILER__ML_OV7670_GFX_default_default_XC32_compile_unscanned_
 # Rule for linking C executable.
 
 rule C_EXECUTABLE_LINKER__ML_OV7670_GFX_default_image__ItcDl0N_
-  command = cmd.exe /C "$PRE_LINK && c:\PROGRA~1\MICROC~1\xc32\v4.60\bin\xc32-gcc.exe $FLAGS $LINK_FLAGS @$RSP_FILE -o $TARGET_FILE && $POST_BUILD"
+  command = C:\windows\system32\cmd.exe /C "$PRE_LINK && c:\PROGRA~1\MICROC~1\xc32\v4.60\bin\xc32-gcc.exe $FLAGS $LINK_FLAGS @$RSP_FILE -o $TARGET_FILE && $POST_BUILD"
   description = Linking C executable $TARGET_FILE; Copying elf to out location
   rspfile = $RSP_FILE
   rspfile_content = $in $LINK_PATH $LINK_LIBRARIES

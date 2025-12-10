@@ -36,12 +36,17 @@
 #define LINE_BYTES      (IMG_WIDTH*2)    // 2 byte per pixel, rgb565
 #define FRAME_BYTES     (IMG_WIDTH * IMG_HEIGHT *2) 
 
+#define DST_W 64
+#define DST_H 64
+
 
 volatile bool frame_ready = false;
 
 volatile uint32_t line_index = 0;
 
 extern uint8_t panda_scaled_data[38400];
+
+uint8_t greyscale_img[64*64];   // output grayscale downscaled image
 
 #define SRC_PORT_ADDR ((const void *)((uint8_t *)&PORT_REGS->GROUP[2].PORT_IN + 1)) // keep +1 if that reads correct bits
 
@@ -198,6 +203,44 @@ void ov7670_set_rgb565_QQVGA_Working(void)
 
 }
 
+void rgb565_to_gray64(void)
+{
+    // fixed-point scaling (1000x)
+    const int x_scale = (IMG_WIDTH * 1000) / DST_W; // 160000/64 = 2500
+    const int y_scale = (IMG_HEIGHT * 1000) / DST_H; // 120000/64 = 1875
+
+    for (int dy = 0; dy < DST_H; dy++)
+    {
+        int sy = (dy * y_scale) / 1000;
+
+        for (int dx = 0; dx < DST_W; dx++)
+        {
+            int sx = (dx * x_scale) / 1000;
+
+            // pixel index
+            int src_index = (sy * IMG_WIDTH + sx) * 2;
+
+            uint16_t p = panda_scaled_data[src_index] | (panda_scaled_data[src_index + 1] << 8);
+
+            // extract R,G,B
+            uint8_t r = (p >> 11) & 0x1F;
+            uint8_t g = (p >> 5)  & 0x3F;
+            uint8_t b = (p      ) & 0x1F;
+
+            // scale to 8-bit
+            r <<= 3;
+            g <<= 2;
+            b <<= 3;
+
+            // grayscale Y = 0.299R + 0.587G + 0.114B
+            // MCU-optimized formula:
+            uint8_t y = (r*30 + g*59 + b*11) / 100;
+
+            greyscale_img[dy * DST_W + dx] = y;
+        }
+    }
+}
+
 // *****************************************************************************
 // *****************************************************************************
 // Section: Main Entry Point
@@ -229,6 +272,7 @@ int main ( void )
 
         if (frame_ready) {
             frame_ready = false;
+            rgb565_to_gray64();
             legato_showScreen(screenID_Screen0);
             // If sending via other DMA (to LCD), ensure caches are cleaned
             DCACHE_CLEAN_BY_ADDR((uint32_t *)panda_scaled_data, FRAME_BYTES);
