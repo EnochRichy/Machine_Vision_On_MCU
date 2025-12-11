@@ -20,5 +20,7 @@
         "cstdint": "cpp",
         "app_ml.h": "c"
     },
-    "mplab.project.workspace.removeDeletedSourceFiles": "Always"
+    "mplab.project.workspace.removeDeletedSourceFiles": "Always",
+    "cmake.configureOnOpen": false,
+    "cmake.configureOnEdit": false
 }

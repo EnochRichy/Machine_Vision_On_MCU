@@ -53,10 +53,10 @@ RM = "C:/Program Files/CMake/bin/cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default
+CMAKE_SOURCE_DIR = D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default
+CMAKE_BINARY_DIR = D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default
 
 # Utility rule file for ML_OV7670_GFX_default_Bin2Hex.
 
@@ -67,8 +67,8 @@ include CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/compiler_depend.make
 include CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/progress.make
 
 CMakeFiles/ML_OV7670_GFX_default_Bin2Hex:
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Convert build file to .hex"
-	cd D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/out/ML_OV7670_GFX && "c:/Program Files/Microchip/xc32/v4.60/bin/xc32-bin2hex.exe" default.elf
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Convert build file to .hex"
+	cd D:/MV_PIC32CZ_Git/GestureRecognition/out/ML_OV7670_GFX && "c:/Program Files/Microchip/xc32/v4.60/bin/xc32-bin2hex.exe" default.elf
 
 CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/codegen:
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/codegen
@@ -86,6 +86,6 @@ CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/clean:
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/clean
 
 CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/depend
 

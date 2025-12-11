@@ -36,7 +36,7 @@ limitations under the License.
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <strings.h>
+#include <string.h>
 
 #ifdef FIXED_POINT
 #include <sys/types.h>

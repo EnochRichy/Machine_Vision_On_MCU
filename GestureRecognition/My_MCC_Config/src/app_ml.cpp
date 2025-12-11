@@ -22,6 +22,8 @@
 #include "tensorflow/lite/micro/micro_mutable_op_resolver.h"
 #include "tensorflow/lite/micro/micro_log.h"
 #include "tensorflow/lite/micro/system_setup.h"
+#include "gfx/legato/generated/screen/le_gen_screen_Screen0.h"
+
 
 
 // *****************************************************************************
@@ -37,8 +39,16 @@ extern int8_t greyscale_img[];
 extern bool ml_input_ready;
 extern bool inference_complete;
 
+extern leImage gesture;
+
+extern uint8_t Fist_data[21210];
+extern uint8_t palm_data[23108];
+
+extern leImageWidget* Screen0_ImageWidget_0;
+
 int number[10];
 
+int8_t prev_best = -1;
 
 // *****************************************************************************
 // TensorFlow Lite Micro Configuration
@@ -169,7 +179,66 @@ int predict_gesture_from_frame()
                 best_score = scores[1];
             }
 
-   
+    if (best)
+    {
+            gesture =
+                {
+                    {
+                        LE_STREAM_LOCATION_ID_INTERNAL, // data location id
+                        (void*)Fist_data, // data variable pointer
+                        21210, // data size
+                    },
+                    LE_IMAGE_FORMAT_RAW,
+                    {
+                        LE_COLOR_MODE_RGB_565,
+                        {
+                            105,
+                            101
+                        },
+                        10605,
+                        21210,
+                        (void*)Fist_data, // data variable pointer
+                        0, // flags
+                    },
+                    0, // image flags
+                    {
+                        0x0, // color mask
+                    },
+                    NULL, // alpha mask
+                    NULL, // palette
+                };
+    }
+    else
+    {
+        gesture =
+                {
+                    {
+                        LE_STREAM_LOCATION_ID_INTERNAL, // data location id
+                        (void*)palm_data, // data variable pointer
+                        23108, // data size
+                    },
+                    LE_IMAGE_FORMAT_RAW,
+                    {
+                        LE_COLOR_MODE_RGB_565,
+                        {
+                            109,
+                            106
+                        },
+                        11554,
+                        23108,
+                        (void*)palm_data, // data variable pointer
+                        0, // flags
+                    },
+                    0, // image flags
+                    {
+                        0x0, // color mask
+                    },
+                    NULL, // alpha mask
+                    NULL, // palette
+                };
+    }
+
+    prev_best = best;
 
     float out_scale = output_tensor->params.scale;
     int32_t out_zero_point = output_tensor->params.zero_point;

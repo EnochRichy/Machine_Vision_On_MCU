@@ -1,0 +1,23 @@
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/pcan_argc_fixed.cpp.obj: \
+ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/pcan_argc_fixed.cpp \
+ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/pcan_argc_fixed.h \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\c++\8.3.1\cstdint \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\c++\8.3.1\pic32c\thumb\v7e-m+dp\hard\bits\c++config.h \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\c++\8.3.1\pic32c\thumb\v7e-m+dp\hard\bits\os_defines.h \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\c++\8.3.1\pic32c\thumb\v7e-m+dp\hard\bits\cpu_defines.h \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\stdint.h \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\bits\alltypes.h \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\bits\stdint.h \
+ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/msb.h \
+ d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\tensorflow\lite\kernels\internal\compatibility.h \
+ d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\tensorflow\lite\kernels\op_macros.h \
+ d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\tensorflow\lite\micro\micro_log.h \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\c++\8.3.1\cstdarg \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\stdarg.h \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\c++\8.3.1\cstddef \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\stddef.h \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\c++\8.3.1\cstdlib \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\stdlib.h \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\features.h \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\alloca.h \
+ c:\program\ files\microchip\xc32\v4.60\pic32c\include\c++\8.3.1\bits\std_abs.h

@@ -108,12 +108,23 @@ extern leImage panda_scaled;
 
 /*********************************
  * Legato Image Asset
- * Name:   custom_res
- * Size:   302x120 pixels
+ * Name:   Fist
+ * Size:   105x101 pixels
  * Type:   RGB Data
  * Format: RGB_565
  ***********************************/
-extern leImage custom_res;
+extern leImage Fist;
+
+/*********************************
+ * Legato Image Asset
+ * Name:   palm
+ * Size:   109x106 pixels
+ * Type:   RGB Data
+ * Format: RGB_565
+ ***********************************/
+extern leImage palm;
+
+extern leImage gesture;
 
 /*****************************************************************************
  * Legato Graphics Font Assets
@@ -142,16 +153,16 @@ extern leRasterFont NotoSans_Regular;
 
 // string IDs
 #define stringID_Fast    0
-#define stringID_Smart    1
-#define stringID_Easy    2
+#define stringID_Easy    1
+#define stringID_Smart    2
 
 extern const leStringTable stringTable;
 
 
 // string list
 extern leTableString string_Fast;
-extern leTableString string_Smart;
 extern leTableString string_Easy;
+extern leTableString string_Smart;
 
 void initializeStrings(void);
 //DOM-IGNORE-BEGIN

@@ -49,7 +49,7 @@ generatedFileHashHistoryMap:
 - file: ..\src\config\default\configuration.h
   hash: 7edfb16a6fe0383ebc1b284dc7bc5c9564df3524e68cc5d653b51140f7385077
 - file: ..\src\config\default\definitions.h
-  hash: 9143a0aee7379e56c1ac96d4d0c50f92fd5ed79a72d7b446c37c6be08a50f101
+  hash: 5ca249f45e4d43d9ab01460a73b705957979ed814ff97abade5dd55cfe4ef0de
 - file: ..\src\config\default\device.h
   hash: dc53d76f68355827fd146558b23bffb156697207880ccc4cc8946bf55258fbc8
 - file: ..\src\config\default\device_cache.h
@@ -235,9 +235,9 @@ generatedFileHashHistoryMap:
 - file: ..\src\config\default\gfx\legato\generated\font\le_gen_fonts.c
   hash: 46f1500d35be7d335c1ed6942aa3d570d7ac7446047fec34c2f3873349eda675
 - file: ..\src\config\default\gfx\legato\generated\image\le_gen_images.c
-  hash: d6aa9f469a18b3d8cb2eb18fd1a2cfbd2a5b75dfa3a7488821305a09c0686393
+  hash: 58be88984d81147434a93c277d413f151ab4c58d514438cf7f8c7c2fdb28bd06
 - file: ..\src\config\default\gfx\legato\generated\le_gen_assets.h
-  hash: 87260f012bc7eebd4fc0d5838d82cd008bdb951f243c417804ba123d1e108c89
+  hash: d8f697c4b56f9b9f8c5139ce48791d4526d393be5c55dee5f4757fdafeb05cc0
 - file: ..\src\config\default\gfx\legato\generated\le_gen_globalpalette.c
   hash: 5f0dec9b5b1be59e8f4a5851209d3d08d155accd7dae2f486bb4f5235605f740
 - file: ..\src\config\default\gfx\legato\generated\le_gen_harmony.c
@@ -253,11 +253,11 @@ generatedFileHashHistoryMap:
 - file: ..\src\config\default\gfx\legato\generated\le_gen_scheme.h
   hash: 21c6f25ee167e7946221d8e248bc4a414a440b96fffecb8ebd74cd6b162fbfd4
 - file: ..\src\config\default\gfx\legato\generated\le_gen_stringtable.c
-  hash: ddbc4ac7aa13b746fd77f4c12426575739034d8bd47e37d7909fccd4c443d2ca
+  hash: 0af5414db6eb333167d2024f535c6a90539545cf0c6ce7fd0c85f225fe4ca6e1
 - file: ..\src\config\default\gfx\legato\generated\screen\le_gen_screen_Screen0.c
-  hash: d02c9453b44e2ebd2a40eb8f2e052064a1963691c6ae6eb7992f9f441f55b31e
+  hash: 0a6dcfc1471600b5f499f68207193c5b86ff894a41b548e786938bfac5b58592
 - file: ..\src\config\default\gfx\legato\generated\screen\le_gen_screen_Screen0.h
-  hash: 5507257291aab0d86b9c1a51e78e43216314b7f49dd2793908c319267f892baa
+  hash: 413d1bf399d731c34f21bf3746c66673abdd788a9e59a67899b021ed752aa019
 - file: ..\src\config\default\gfx\legato\image\jpeg\jidctint.c
   hash: 8997d893fe52e5702acd160837989e558b8ee3b3c918055eef8647b2d0a8e7d3
 - file: ..\src\config\default\gfx\legato\image\jpeg\legato_imagedecoder_jpeg.c
@@ -331,7 +331,7 @@ generatedFileHashHistoryMap:
 - file: ..\src\config\default\gfx\legato\legato.h
   hash: b4ce875200132b2bf0aa6b5a3271b8bc363107741378e3079cbaa14037fbf807
 - file: ..\src\config\default\gfx\legato\legato_config.h
-  hash: 56cd1fe6b957fc5c7956f1f5a32f63f646dac9b83cfef254acbcd8c52ceaa9c1
+  hash: 81fe32fa89c1483835fac5250041077d8229c57ac72c8b611daa3add8e78d62a
 - file: ..\src\config\default\gfx\legato\memory\legato_fixedheap.c
   hash: 197174ddbc7c7ef5c966bee36da8114e64dec8ce734d374c0b31401f800e21bf
 - file: ..\src\config\default\gfx\legato\memory\legato_fixedheap.h

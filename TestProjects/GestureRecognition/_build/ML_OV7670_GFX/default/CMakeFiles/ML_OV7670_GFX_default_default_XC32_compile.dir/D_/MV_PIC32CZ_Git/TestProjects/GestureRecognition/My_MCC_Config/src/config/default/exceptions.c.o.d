@@ -155,8 +155,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Test
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\usb\usb_host_hub_interface.h \
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\usb\src\usb_device_mapping.h \
  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/config/default/peripheral/rtc/plib_rtc.h \
- D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/config/default/system/time/sys_time.h \
- D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/config/default/system/time/sys_time_definitions.h \
  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/drv_i2c.h \
  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/drv_i2c_definitions.h \
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\driver\driver.h \
@@ -167,6 +165,8 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Test
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\osal\osal_impl_basic.h \
  c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\stdlib.h \
  c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\alloca.h \
+ D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/config/default/system/time/sys_time.h \
+ D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/config/default/system/time/sys_time_definitions.h \
  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/config/default/peripheral/ebi/plib_ebi.h \
  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/config/default/driver/usb/usbhs/drv_usbhs.h \
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\usb\usb_hub.h \
@@ -234,9 +234,7 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Test
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\vector\legato_obb.h \
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\vector\legato_plane.h \
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\vector\legato_rectf.h \
- d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\widget\button\legato_widget_button.h \
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\widget\image\legato_widget_image.h \
- d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\widget\label\legato_widget_label.h \
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\generated\le_gen_scheme.h \
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\generated\le_gen_assets.h \
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\generated\screen\le_gen_screen_screen0.h \
@@ -259,5 +257,4 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Test
  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc0.h \
  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc9.h \
  d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\app.h \
- d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\definitions.h \
- d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\app_ml.h
+ d:\mv_pic32cz_git\testprojects\gesturerecognition\my_mcc_config\src\config\default\definitions.h

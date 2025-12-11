@@ -16,10 +16,7 @@ extern "C" {
 extern leWidget* Screen0_BackgroundPanel;
 extern leImageWidget* Screen0_mchpLogo;
 extern leImageWidget* Screen0_mhgsLogo;
-extern leLabelWidget* Screen0_fastLabel;
-extern leLabelWidget* Screen0_easyLabel;
-extern leLabelWidget* Screen0_smartLabel;
-extern leButtonWidget* Screen0_qsButton;
+extern leImageWidget* Screen0_ImageWidget_0;
 
 // screen lifecycle functions
 // DO NOT CALL THESE DIRECTLY
