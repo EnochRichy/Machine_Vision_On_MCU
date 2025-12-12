@@ -3,13 +3,13 @@
 
 # compile C with c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe
 # compile CXX with c:/Program Files/Microchip/xc32/v4.60/bin/xc32-g++.exe
-C_DEFINES = -DXPRJ_default=default
+C_DEFINES = -DCMSIS_NN -DXPRJ_default=default
 
 C_INCLUDES = 
 
 C_FLAGS = 
 
-CXX_DEFINES = -DXPRJ_default=default
+CXX_DEFINES = -DCMSIS_NN -DXPRJ_default=default
 
 CXX_INCLUDES = 
 

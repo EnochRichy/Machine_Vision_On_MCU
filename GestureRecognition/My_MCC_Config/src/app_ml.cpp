@@ -24,7 +24,7 @@
 #include "tensorflow/lite/micro/system_setup.h"
 #include "gfx/legato/generated/screen/le_gen_screen_Screen0.h"
 
-
+#include "peripheral/port/plib_port.h"
 
 // *****************************************************************************
 // Global Data
@@ -76,13 +76,14 @@ void RegisterOps(tflite::MicroMutableOpResolver<10> &resolver)
 {
     // Add only the ops your model needs:
     resolver.AddQuantize();          // builtin op 114
-    resolver.AddConv2D();            // builtin op 3
-    resolver.AddDepthwiseConv2D();   // builtin op 17
-    resolver.AddFullyConnected();    // builtin op 22
+    resolver.AddConv2D(tflite::Register_CONV_2D_INT8());            // builtin op 3
+    resolver.AddDepthwiseConv2D(tflite::Register_DEPTHWISE_CONV_2D_INT8());   // builtin op 17
+    resolver.AddFullyConnected(tflite::Register_FULLY_CONNECTED_INT8());    // builtin op 22
     resolver.AddReshape();           // builtin op 9
-    resolver.AddSoftmax();           // builtin op 25
+    resolver.AddSoftmax(tflite::Register_SOFTMAX_INT8());           // builtin op 25
+    resolver.AddAveragePool2D();
     resolver.AddMaxPool2D();
-
+    resolver.AddMean();
 }
 
 
@@ -151,6 +152,7 @@ int predict_gesture_from_frame()
 {
     if (!interpreter) return -1;
 
+    GPIO_PA13_Set(); // ML Inference indicator ON
 
     inference_complete = false;
 
@@ -243,6 +245,8 @@ int predict_gesture_from_frame()
     float out_scale = output_tensor->params.scale;
     int32_t out_zero_point = output_tensor->params.zero_point;
     float confidence = (best_score - out_zero_point) * out_scale;
+
+    GPIO_PA13_Clear(); // ML Inference indicator OFF
 
    printf("Pred: %s (score=%u, conf=%.2f)\r\n",
            labels[best], best_score, confidence);

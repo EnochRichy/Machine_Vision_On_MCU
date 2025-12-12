@@ -689,6 +689,222 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/2d3237d3206a7e05a2
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
 
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/portable_tensor_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/fully_connected.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/lstm_eval.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/lstm_shared.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
+
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/memory_planner/non_persistent_buffer_planner_shim.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/memory_planner/non_persistent_buffer_planner_shim.cpp \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
@@ -1148,6 +1364,7 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/image/legato_widget_image.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/legato_editwidget.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/legato_widget.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/port/plib_port.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/toolchain_specifics.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/user.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cachel1_armv7.h \
@@ -7115,223 +7332,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
 
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/add.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/add.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/process_broadcast_shapes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/add.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_helpers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
-
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add_common.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add_common.cpp \
   D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
@@ -8181,222 +8181,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
-
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/portable_tensor_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/batch_matmul.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/transpose.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/batch_matmul.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
 
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul_common.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul_common.cpp \
   D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
@@ -10262,6 +10046,2869 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
 
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/add.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/add.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/process_broadcast_shapes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_helpers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/portable_tensor_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/batch_matmul.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/transpose.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/batch_matmul.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_arena_constants.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/conv.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/padding.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/conv.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/depthwiseconv_float.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/depthwise_conv.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/padding.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/conv.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/depthwise_conv.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/portable_tensor_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/fully_connected.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/fully_connected.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/fully_connected.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_arena_constants.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/ruy/ruy/profiler/instrumentation.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/maximum_minimum.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/maximum_minimum.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/sstream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/complex \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/sstream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/mul.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/mul.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/process_broadcast_shapes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/mul.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_helpers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/ruy/ruy/profiler/instrumentation.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/pad.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/pad.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/micro/kernels/irfft.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/micro/kernels/rfft.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/pooling.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/pooling.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/padding.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/micro_ops.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/pooling.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/softmax.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/softmax.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/max.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/min.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/activation_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/svdf.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/transpose.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/transpose.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp \
+  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/transpose_conv.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/transpose_conv.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/padding.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/transpose_conv.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
+
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/comparisons.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/comparisons.cpp \
   D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
@@ -10655,221 +13302,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
-
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/portable_tensor_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/conv.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/conv.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/conv.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
@@ -12571,222 +15003,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
-
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/portable_tensor_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/depthwiseconv_float.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/depthwise_conv.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/conv.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/depthwise_conv.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
 
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv_common.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv_common.cpp \
   D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
@@ -15988,222 +18204,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
-
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/portable_tensor_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/fully_connected.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/fully_connected.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/fully_connected.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/ruy/ruy/profiler/instrumentation.h
 
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected_common.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected_common.cpp \
   D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
@@ -20235,220 +22235,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
 
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/maximum_minimum.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/maximum_minimum.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
-
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.cpp \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
@@ -20779,227 +22565,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
-
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/sstream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/complex \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/sstream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/mul.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/mul.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/process_broadcast_shapes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/mul.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_helpers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/ruy/ruy/profiler/instrumentation.h
 
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul_common.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul_common.cpp \
   D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
@@ -21631,213 +23196,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
 
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/pad.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/pad.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
-
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.cpp \
   D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
@@ -22044,225 +23402,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
-
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/micro/kernels/irfft.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/micro/kernels/rfft.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/pooling.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/pooling.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/padding.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/micro_ops.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/pooling.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
 
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling_common.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling_common.cpp \
   D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
@@ -25853,220 +26992,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
 
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/softmax.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/softmax.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
-
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax_common.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax_common.cpp \
   D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
@@ -28396,224 +29321,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/ruy/ruy/profiler/instrumentation.h
 
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/max.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/min.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/activation_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/svdf.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
-
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf_common.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf_common.cpp \
   D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
@@ -29047,213 +29754,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
 
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/transpose.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/transpose.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
-
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.cpp \
   D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
@@ -29432,431 +29932,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/transpose.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h
-
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cassert \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/cppmath.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/optimized/neon_check.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/transpose_conv.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/transpose_conv.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/padding.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/transpose_conv.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_context.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_log.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/schema/schema_generated.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/array.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/base.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/buffer_ref.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/default_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/detached_buffer.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffer_builder.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/struct.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/table.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/vector_downward.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/verifier.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixedpoint/fixedpoint.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h
-
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.obj: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp \
-  D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/algorithm \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/array \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/auto_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/backward/binders.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/algorithmfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/atomic_lockfree_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_string.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/char_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/concept_check.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cpp_type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_forced.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/cxxabi_init_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/exception_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functional_hash.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/istream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_classes.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/localefwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/memoryfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/move.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/nested_exception.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ostream_insert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/postypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/predefined_ops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ptr_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/range_access.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/refwrap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_atomic.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/shared_ptr_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_abs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/std_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algo.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_algobase.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_bvector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_construct.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_function.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_heap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_funcs.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_iterator_base_types.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multiset.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_pair.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_relops.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tempbuf.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_tree.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_uninitialized.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_vector.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stream_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/streambuf_iterator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stringfwd.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uniform_int_dist.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/unique_ptr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/uses_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/vector.tcc \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cerrno \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/clocale \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cmath \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdarg \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstddef \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdint \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdlib \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstring \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwchar \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cwctype \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/assertions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/debug/debug.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/exception \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/aligned_buffer.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/atomicity.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/concurrence.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/new_allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/numeric_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/string_conversions.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/type_traits.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/functional \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/initializer_list \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ios \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iosfwd \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/istream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/iterator \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/limits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/memory \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/new \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/atomic_word.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++allocator.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_inline.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/os_defines.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/set \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/streambuf \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/system_error \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/tuple \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/type_traits \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/typeinfo \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/utility \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/vector \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/errno.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/locale.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/math.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wchar.h \
-  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/wctype.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/tflite_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/c_api_types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/common.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/runtime_shape.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/types.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/op_macros.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/ibuffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/compatibility.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/fully_connected.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/lstm_eval.h \
-  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/lstm_shared.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/memory_planner/micro_memory_planner.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h \
@@ -33901,6 +33976,8 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/cstdio:
 
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h:
+
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/functexcept.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/hash_bytes.h:
@@ -33912,6 +33989,8 @@ c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ext/alloc_traits
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/compiler/mlir/lite/schema/schema_utils.cpp:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/ethosu.cpp:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/invoke.h:
 
@@ -34053,13 +34132,17 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/ker
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mirror_pad.cpp:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp:
+
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/c++config.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/schema/schema_generated.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/cpu_defines.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cmsis_gcc.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/schema/schema_generated.h:
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/lstm_shared.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/gthr-default.h:
 
@@ -34071,9 +34154,9 @@ c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdexcept:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/string:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/rtc.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/c/builtin_op_data.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/rtc.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/micro_allocator.cpp:
 
@@ -34115,8 +34198,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/errno.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/kernels/internal/compatibility_macros.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/tanh.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/ctype.h:
@@ -34150,6 +34231,8 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/micro/kernels/fft_
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/memory_planner/non_persistent_buffer_planner_shim.cpp:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/reverse.h:
 
@@ -34205,13 +34288,13 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/fixe
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/gemmlowp/internal/detect_platform.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/wdt.h:
-
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/complex:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/arena_allocator/non_persistent_arena_buffer_allocator.cpp:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/tcc9.h:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/complex:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/wdt.h:
 
 D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:
 
@@ -34219,9 +34302,9 @@ c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/allocated_p
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/sdmmc.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/font/legato_font.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_allocator.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/font/legato_font.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.h:
 
@@ -34229,13 +34312,11 @@ c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/basic_ios.t
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/tensor_ctypes.cpp:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/energy.cpp:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/core/c/common.cpp:
 
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/energy.cpp:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp:
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/ios_base.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/pm.h:
 
@@ -34252,6 +34333,8 @@ c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/math.h:
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/logical.cpp:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/locale_facets.tcc:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/port/plib_port.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/irfft_int16.cpp:
 
@@ -34280,10 +34363,6 @@ c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multise
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/datastructure/legato_list.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_raw_storage_iter.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/hard_swish_common.cpp:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/core/api/flatbuffer_conversions.cpp:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_set.h:
 
@@ -34335,11 +34414,11 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/i
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/ostream:
 
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/ptc.h:
+
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/ctype_base.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/fully_connected.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/ptc.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/pic32c/thumb/v7e-m+dp/hard/bits/error_constants.h:
 
@@ -34365,11 +34444,11 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/error_reporter.h:
 
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/common/legato_utils.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sercom7.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_profiler_interface.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/c_api_types.h:
 
@@ -34423,6 +34502,8 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/i
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/rfft_int16.cpp:
 
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h:
+
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/filter_bank_square_root_common.cpp:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/strings.h:
@@ -34463,7 +34544,87 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.cpp:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/square_root_64.cpp:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/sub_common.cpp:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/mpu_armv7.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/mlb.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/mclk.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/portable_tensor_utils.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/src/energy.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/dsu.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/maximum_minimum.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/log.cpp:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/sstream:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/filter_bank_square_root.cpp:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/lstm_eval.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/can0.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/micro_ops.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/round.cpp:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/prelu.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/tcc0.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/toolchain_specifics.h:
 
@@ -34479,20 +34640,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/mic
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.cpp:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.h:
-
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/flatbuffer_conversions.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/mclk.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/round.cpp:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/prelu.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/wdt.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/gesture_int8.h:
@@ -34501,17 +34648,9 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/mic
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/system_setup.h:
 
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_map.h:
-
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/bits/stl_multimap.h:
-
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/map:
-
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/stdlib.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/endian.h:
-
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/float.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/sys/types.h:
 
@@ -34522,6 +34661,8 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/configuration.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/device_cache.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/driver/gfx_driver.h:
 
@@ -34603,6 +34744,8 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/ener
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/string/legato_tablestring.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/vector/legato_aabb.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/vector/legato_obb.h:
@@ -34633,10 +34776,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/in
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/core_cm7.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/mpu_armv7.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/core/c/builtin_op_data.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/ac.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/adc.h:
@@ -34644,12 +34783,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/can.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/drmtcm.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/dsu.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/kernel_util.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/maximum_minimum.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/ebi.h:
 
@@ -34674,10 +34807,6 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/hsm.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/mcramc.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/mlb.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/c/builtin_op_data.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/pac.h:
 
@@ -34712,12 +34841,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/src/circular_buffe
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/ac.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/adc.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_resource_variable.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/can0.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/micro_ops.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/can3.h:
 
@@ -34787,10 +34910,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/spi_ixs0.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/tcc0.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/flexbuffers.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/tcc2.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/tcc3.h:
@@ -34809,17 +34928,9 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/micro/kernels/rfft.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/quantization_util.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/maximum_minimum.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/src/energy.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/tensor_ctypes.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/padding.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/flatbuffer_utils.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/add.h:
 
@@ -34832,10 +34943,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/ker
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/decode_state_lut.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/conv.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/log.cpp:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/kernel_util.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/quantization_util.cpp:
 
@@ -34865,13 +34972,7 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/ker
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_common.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_graph.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/micro_interpreter_context.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/flatbuffers/include/flatbuffers/util.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/delay.cpp:
 
@@ -34890,10 +34991,6 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/filt
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/filter_bank_log.cpp:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/src/filter_bank_log.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/filter_bank_square_root.cpp:
-
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/c++/8.3.1/sstream:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/l2normalization.h:
 
@@ -34921,6 +35018,8 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/src/pcan_argc_fixe
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/window.cpp:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp:
+
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/circular_buffer.cpp:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/src/max_abs.h:
@@ -34930,10 +35029,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/src/log.h:
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/filter_bank_spectral_subtraction.cpp:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/filter_bank_square_root.cpp:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/sub_common.cpp:
-
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/signal/src/kiss_fft_wrappers/kiss_fft_common.h:
 
@@ -34963,25 +35058,25 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/i
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/rfft_int32.cpp:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/square_root_64.cpp:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/src/window.cpp:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/compiler/mlir/lite/core/api/error_reporter.cpp:
 
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/kernels/internal/compatibility_macros.h:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/compiler/mlir/lite/schema/schema_utils.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/core/api/tensor_utils.cpp:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/hard_swish_common.cpp:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/core/api/flatbuffer_conversions.cpp:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/core/api/tensor_utils.cpp:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/core/api/tensor_utils.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/common.cpp:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/portable_tensor_utils.cpp:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/portable_tensor_utils.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/kernels/internal/reference/comparisons.cpp:
 
@@ -35009,8 +35104,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/ker
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/activations_common.cpp:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/add.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/add.h:
@@ -35024,8 +35117,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/i
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/arg_min_max.cpp:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/assign_variable.cpp:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_to_space_nd.cpp:
 
@@ -35055,15 +35146,59 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/ker
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/circular_buffer_common.cpp:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/strided_slice.cpp:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/squeeze.cpp:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/depthwiseconv_float.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/quantize_common.cpp:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/mul.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/pad.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/pad.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/dequantize.cpp:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/max.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/min.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/activation_utils.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/transpose.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode_state_prune.cpp:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/space_to_depth.cpp:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/transpose_conv.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/transpose_conv.h:
+
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/comparisons.cpp:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/concatenation.cpp:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/concatenation.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/conv.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv_common.cpp:
 
@@ -35087,25 +35222,11 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/i
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode_state_huffman.cpp:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/decode_state_prune.cpp:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/decompress.cpp:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/depth_to_space.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/squeeze.cpp:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/depthwiseconv_float.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv_common.cpp:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/max.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/dequantize.cpp:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/dequantize.h:
 
@@ -35187,29 +35308,11 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/i
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/logistic.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/mul.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/tanh.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/lstm_eval.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/lstm_shared.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/lstm_eval_common.cpp:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/neg.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/pad.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/pad.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/prelu.cpp:
 
@@ -35217,11 +35320,7 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/quantize.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/quantize_common.cpp:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/reduce.cpp:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/min.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/reduce.h:
 
@@ -35239,21 +35338,13 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/shape.cpp:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/space_to_batch_nd.cpp:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/integer_ops/transpose_conv.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/space_to_depth.cpp:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/split.cpp:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/split_v.cpp:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/squared_difference.cpp:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/strided_slice.cpp:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/strided_slice.h:
 
@@ -35265,17 +35356,7 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/mic
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/sub.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/activation_utils.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/micro/kernels/transpose.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.cpp:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/tensorflow/lite/kernels/internal/reference/transpose_conv.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unpack.cpp:
 

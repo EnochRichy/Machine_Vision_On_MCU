@@ -50,6 +50,23 @@ print(f"Each capture will store {CAPTURE_FRAMES} frames.\n")
 last_time = time.time()
 frame_count = 0
 
+def get_next_start_index(folder, prefix):
+    existing = [f for f in os.listdir(folder) if f.startswith(prefix) and f.endswith(".png")]
+    if not existing:
+        return 0
+
+    # Extract numeric index from filenames
+    numbers = []
+    for f in existing:
+        try:
+            num = int(f.split("_")[1].split(".")[0])
+            numbers.append(num)
+        except:
+            pass
+
+    return max(numbers) + 1 if numbers else 0
+
+
 while True:
 
     # ---------- SYNC TO FRAME HEADER ----------
@@ -118,14 +135,20 @@ while True:
 
     if key in [ord("p"), ord("f"), ord("t")] and not recording:
         recording = True
-        frames_collected = 0
         record_label = chr(key)
-        print(f"\n >>> Recording {CAPTURE_FRAMES} frames for label '{record_label}'...\n")
+
+        folder = save_folders[record_label]
+        start_index = get_next_start_index(folder, record_label)
+
+        frames_collected = 0
+
+        print(f"\n >>> Recording {CAPTURE_FRAMES} frames for label '{record_label}' "
+              f"starting at index {start_index}...\n")
 
     # ---------- Save frames if recording ----------
     if recording:
         folder = save_folders[record_label]
-        filename = f"{record_label}_{frames_collected:04d}.png"
+        filename = f"{record_label}_{start_index + frames_collected:04d}.png"
         filepath = os.path.join(folder, filename)
 
         cv2.imwrite(filepath, frame_gray)

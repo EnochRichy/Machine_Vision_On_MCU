@@ -375,6 +375,441 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cmsis_compiler.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cmsis_gcc.h
 
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_tables.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/26434e8bb5678545079953e540a9cad0/default/gfx/legato/widget/circularslider/legato_widget_circular_slider_skin_classic.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/circularslider/legato_widget_circular_slider_skin_classic.c \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
@@ -1327,6 +1762,957 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cmsis_compiler.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cmsis_gcc.h
 
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/internal/arm_nn_compiler.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/internal/arm_nn_compiler.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/internal/arm_nn_compiler.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_tables.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_tables.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h
+
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge_skin_classic.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge_skin_classic.c \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h \
   c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
@@ -1364,6 +2750,132 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db7
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/toolchain_specifics.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cmsis_compiler.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cmsis_gcc.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/internal/arm_nn_compiler.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
 
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c \
   D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.h \
@@ -11234,6 +12746,454 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Gest
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/pic32cz8110ca90208.h \
   d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/pio/pic32cz8110ca90208.h
 
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/features.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdint.h \
+  c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h \
+  d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h
+
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/kiss_fft.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/kiss_fft.c \
   D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/_kiss_fft_guts.h \
   D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/kiss_fft.h \
@@ -11270,23 +13230,21 @@ c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/alltypes.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/vector/legato_plane.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/circle/legato_widget_circle.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/vector/legato_point.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/sercom/usart/plib_sercom4_usart.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/circle/legato_widget_circle.c:
-
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/string.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_convert.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/jpeg/legato_imagedecoder_jpeg_common.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/image/legato_widget_image.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/sys/select.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_aabb.c:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/assert.h:
 
@@ -11308,9 +13266,9 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/common/legato_pixelbuffer.h:
 
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/image/legato_widget_image.c:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/stdint.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stddef.h:
 
@@ -11324,6 +13282,8 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/label/legato_widget_label.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c:
+
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/sys/sysmacros.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/legato_widget.h:
@@ -11332,7 +13292,13 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/sys/types.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c:
+
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/port/plib_port.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/tools/kiss_fftr.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/usb/usb_common.h:
 
@@ -11360,6 +13326,10 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/core/legato_stream.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc1.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_point.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/datastructure/legato_array.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/circle/legato_widget_circle.h:
@@ -11368,21 +13338,21 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/driver.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_point.c:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc1.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/usb_device_init_data_0.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/image/jpeg/legato_imagedecoder_jpeg_common.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/input/sys_input_keyboard.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/image/legato_image.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/usb/usbhs/src/drv_usbhs_device.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/legato_palette.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/imagescale/legato_widget_imagescale.c:
 
@@ -11392,35 +13362,35 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/legato_config.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/eic.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/rectangle/legato_widget_rectangle.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/eic.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/legato_widget_skin_classic_common.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/memory/legato_memory.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/image/le_gen_images.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/memory/legato_memory.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/toolchain_specifics.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cmsis_compiler.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/renderer/legato_gpu.h:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.h:
 
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/renderer/legato_gpu.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cmsis_compiler.h:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/datastructure/legato_list.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge_skin_classic.c:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_setup.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge_skin_classic.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cmsis_gcc.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/drawsurface/legato_widget_drawsurface.c:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_point.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/string/legato_stringtable.h:
 
@@ -11440,9 +13410,9 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/driver
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/common/legato_error.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/core/legato_event.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/slider/legato_widget_slider.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/core/legato_event.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/string/legato_string.h:
 
@@ -11462,6 +13432,8 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/drv_i2c.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/imagescale/legato_widget_imagescale.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/imagerotate/legato_widget_imagerotate.h:
@@ -11476,25 +13448,29 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/label/legato_widget_label_skin_classic.c:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/input/sys_input_touch.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/cache/sys_cache.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/line/legato_widget_line_skin_classic.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/gradient/legato_widget_gradient_skin_classic.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/string/legato_stringutils.c:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/gradient/legato_widget_gradient_skin_classic.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/line/legato_widget_line_skin_classic.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sercom3.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/line/legato_widget_line.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/listwheel/legato_widget_listwheel.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/progressbar/legato_widget_progressbar.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/generated/le_gen_harmony.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/listwheel/legato_widget_listwheel.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_read_stream_color.c:
 
@@ -11518,6 +13494,8 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/vector/legato_obb.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/spi_ixs.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/vector/legato_rectf.h:
@@ -11532,13 +13510,17 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/_kiss
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/usb/src/usb_device_function_driver.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_harmony.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/progressbar/legato_widget_progressbar.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_harmony.c:
+c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_intrinsics_xc32_compat.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/radialmenu/legato_widget_radial_menu.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/radialmenu/legato_widget_radial_menu.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/radiobutton/legato_radiobutton_group.c:
 
@@ -11548,13 +13530,137 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/radiobutton/legato_radiobutton_group.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/radiobutton/legato_widget_radiobutton.c:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_convexpoly_fill.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/radiobutton/legato_widget_radiobutton.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/radiobutton/legato_widget_radiobutton.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/spi_ixs1.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/common/legato_error.c:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/jpeg/legato_imagedecoder_jpeg.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sdmmc1.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_math_types.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_tables.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/usb/usb_hub.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nn_types.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/linegraph/legato_widget_line_graph_skin_classic.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnfunctions.h:
+
+c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/pic32cz8110ca90208.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sercom2.h:
+
+c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/spi_ixs0.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/time/sys_time_definitions.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_read_stream_index.c:
+
+c:/program\ files/microchip/xc32/v4.60/lib/gcc/pic32c/8.3.1/include/arm_acle_xc32_v4_compat.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/Internal/arm_nn_compiler.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/arm_nnsupportfunctions.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/imagesequence/legato_widget_imagesequence.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/checkbox/legato_widget_checkbox.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/src/templates/usbhs_interrupts_default.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/textfield/legato_widget_textfield_skin_classic.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/radiobutton/legato_widget_radiobutton_skin_classic.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/cache/sys_cache.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/arc/legato_widget_arc.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/screen/le_gen_screen_Screen0.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/dma.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/piechart/legato_widget_pie_chart.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sdmmc0.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/supc.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/circularslider/legato_widget_circular_slider.h:
 
@@ -11572,17 +13678,15 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_palette_stream.c:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/image/legato_image_utils.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/fuses.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_read_internal.c:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/linegraph/legato_widget_line_graph_skin_classic.c:
-
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdio.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_read_stream_index.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/system.h:
 
@@ -11596,15 +13700,13 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/button/legato_widget_button_skin_classic.c:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/string/legato_string_renderer_stream.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/button/legato_widget_button.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/tcc/plib_tcc9.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/string/legato_string_renderer_stream.c:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/checkbox/legato_widget_checkbox_skin_classic.c:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/checkbox/legato_widget_checkbox.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/circle/legato_widget_circle_skin_classic.c:
 
@@ -11622,13 +13724,15 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/osal/osal_definitions.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/circularslider/legato_widget_circular_slider.c:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/image/jpeg/legato_imagedecoder_jpeg.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/drawsurface/legato_widget_drawsurface_skin_classic.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/gradient/legato_widget_gradient.h:
 
@@ -11640,13 +13744,15 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/imagesequence/legato_widget_imagesequence.c:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/imagesequence/legato_widget_imagesequence.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/keypad/legato_widget_keypad_skin_classic.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/keypad/legato_widget_keypad.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/int/sys_int.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc1.c:
 
@@ -11654,11 +13760,11 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/sercom/usart/plib_sercom4_usart.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_line.c:
+
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/listwheel/legato_widget_listwheel_skin_classic.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/progressbar/legato_widget_progressbar_skin_classic.c:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_line.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/listwheel/legato_widget_listwheel.h:
 
@@ -11672,15 +13778,13 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/radialmenu/legato_widget_radial_menu_state.c:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/radiobutton/legato_widget_radiobutton_skin_classic.c:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/cache/sys_cache.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/rectangle/legato_widget_rectangle_skin_classic.c:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/rectangle/legato_widget_rectangle.h:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/legato_widget_skin_classic_common.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/rectangle/legato_widget_rectangle.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/scrollbar/legato_widget_scrollbar_skin_classic.c:
 
@@ -11694,33 +13798,183 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/input/sys_input_gesture.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/src/templates/usbhs_interrupts_default.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/textfield/legato_widget_textfield_skin_classic.c:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/textfield/legato_widget_textfield.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c:
+
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/touchtest/legato_widget_touchtest_skin_classic.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/nn/include/internal/arm_nn_compiler.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/driver/controller/lcc/drv_gfx_lcc.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/widget/touchtest/legato_widget_touchtest.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/legato_widget_skin_classic.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/mpu_armv7.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_rectf.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_draw_rect.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/fcr.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sercom1.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/groupbox/legato_widget_groupbox.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/tcc9.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/string/legato_tablestring.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/wdt.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/usb/src/usb_device.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/label/legato_widget_label.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/user.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/font/legato_rasterfont_liberationmono1.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/input/sys_input_mouse.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/usb/usb_host_client_driver.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/src/templates/usbhs_clockresetcontrol_default.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/adc.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/osal/osal_impl_basic.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/drv_usb.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/usbhs1.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_rotate.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/textfield/legato_widget_textfield.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/device_vectors.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/i2c/src/drv_i2c_local.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/src/templates/usbhs_endpointfifo_default.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/drmtcm.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/dsu.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/usb/src/usb_device_endpoint_functions.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/osal/osal.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/memory/legato_fixedheap.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/ptc.h:
+
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/imagesequence/legato_widget_imagesequence_skin_classic.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/src/drv_usbhs_local.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/tram.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/alloca.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_write.c:
-
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/bits/limits.h:
-
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/limits.h:
-
-c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdbool.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdlib.h:
 
@@ -11742,13 +13996,13 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/definitions.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/device.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/image/png/lodepng.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/driver/controller/lcc/drv_gfx_lcc.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/driver/gfx_driver.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/image/png/lodepng.h:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/device.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/device_cache.h:
 
@@ -11756,29 +14010,15 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/i2c
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/i2c/drv_i2c_definitions.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/input/drv_maxtouch.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_rect_stroke.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/input/drv_maxtouch.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/drv_usbhs.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/driver_common.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/i2c/src/drv_i2c_local.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/src/templates/usbhs_endpointfifo_default.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/drmtcm.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/drv_usb.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/usbhs1.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/src/plib_usbhs_header.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/src/templates/usbhs_clockresetcontrol_default.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/adc.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/core/legato_real_i16.c:
 
@@ -11800,8 +14040,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/src/templates/usbhs_softreset_default.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/string/legato_stringutils.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/src/templates/usbhs_txepstatus_default.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/drv_usb_external_dependencies.h:
@@ -11818,12 +14056,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/generated/screen/le_gen_screen_screen0.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/memory/legato_fixedheap.c:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/osal/osal.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/osal/osal_impl_basic.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/clock/plib_clock.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/evsys/plib_evsys.h:
@@ -11836,15 +14068,13 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/ebi/plib_ebi.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/eic/plib_eic.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/string/legato_fixedstring.c:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/touchtest/legato_widget_touchtest.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/rtc/plib_rtc.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/legato_image.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/string/legato_fixedstring.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/eic/plib_eic.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/evsys/plib_evsys.h:
 
@@ -11854,15 +14084,13 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/drv_i2c_definitions.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/font/legato_font.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/rtc/plib_rtc.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/eth.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/font/legato_font.c:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/port/plib_port.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/keypad/legato_widget_keypad.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/sercom/i2c_master/plib_sercom0_i2c_master.h:
 
@@ -11886,23 +14114,15 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/inp
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/peripheral/tcc/plib_tcc_common.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/debug/sys_debug.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/bargraph/legato_widget_bar_graph.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/debug/sys_debug.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/input/sys_input.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/input/sys_input_keyboard.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/hsm.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/input/sys_input_mouse.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/usb/usb_host_client_driver.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/spi_ixs0.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/system/time/sys_time_definitions.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/sercom/i2c_master/plib_sercom0_i2c_master.h:
 
@@ -11930,41 +14150,15 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/tim
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/usb/usb_host_hub_interface.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/usb/usb_hub.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/font/legato_rasterfont_liberationmono1.c:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/user.h:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cachel1_armv7.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/png/lodepng.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/cmsis_version.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/cmsis/cmsis/core/include/mpu_armv7.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/legato_widget_skin_classic.c:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_vline.c:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/ac.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_hline.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/adc.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_globalpalette.c:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/can.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/piechart/legato_widget_pie_chart.c:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/dma.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/screen/le_gen_screen_Screen0.c:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/dsu.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/ebi.h:
 
@@ -11975,10 +14169,6 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/libc_sysca
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/fcr.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/freqm.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/stdio/xc32_monitor.c:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector2.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/mclk.h:
 
@@ -11996,6 +14186,8 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/inp
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/port.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/prm.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/ptc.h:
@@ -12008,25 +14200,13 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/sercom.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/font/legato_rasterfont_liberationmono8.c:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/sqi.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/supc.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/tcc.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/trng.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/usbhs.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/component/wdt.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/string/legato_tablestring.c:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/tcc9.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/arc/legato_widget_arc_skin_classic.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/ac.h:
 
@@ -12035,8 +14215,6 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/can3.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/can4.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_blend.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/can5.h:
 
@@ -12050,13 +14228,9 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/rtc/plib_rtc_timer.c:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/evsys.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_plane.c:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/fcr.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_draw_rect.c:
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/evsys.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/usbhs0.h:
 
@@ -12080,43 +14254,27 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/device_cac
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/pac.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_renderer.c:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/pm.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/port.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/prm.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/line/legato_widget_line.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/gradient/legato_widget_gradient.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/src/drv_usbhs_variant_mapping.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/gradient/legato_widget_gradient.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/line/legato_widget_line.c:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/ptc.h:
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/prm.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/rstc.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/rtc.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sdmmc0.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sdmmc1.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/jpeg/legato_imagedecoder_jpeg.c:
-
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sercom0.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sercom1.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/pic32cz8110ca90208.h:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sercom2.h:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sercom4.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/sercom6.h:
 
@@ -12124,11 +14282,11 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/supc.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_linef.c:
+
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/tcc0.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/common/legato_pixelbuffer.c:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_linef.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/tcc1.h:
 
@@ -12144,13 +14302,13 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/configurat
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/tram.h:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/trng.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_draw_arc.c:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/wdt.h:
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/trng.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/list/legato_widget_list.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/instance/wdt.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/packs/pic32cz8110ca90208_dfp/pio/pic32cz8110ca90208.h:
 
@@ -12158,19 +14316,17 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/usb/src/us
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_draw.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/input/drv_maxtouch.c:
-
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/driver/usb/usbhs/src/drv_usbhs_local.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/usb/src/usb_external_dependencies.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/exceptions.c:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/usb/usbhs/drv_usbhs.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/checkbox/legato_widget_checkbox.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/usb/usbhs/drv_usbhs.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/driver/controller/lcc/drv_gfx_lcc.h:
 
@@ -12180,13 +14336,11 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_harmony.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/jpeg/jidctint.c:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/interrupts.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/osal/osal.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_aa.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/osal/osal.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/clock/plib_clock.h:
 
@@ -12194,19 +14348,15 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/eic/plib_eic.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/nvic/plib_nvic.h:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/memory/legato_memory.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/nvic/plib_nvic.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/sercom/i2c_master/plib_sercom5_i2c_master.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/sercom/i2c_master/plib_sercom_i2c_master_common.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_kernel.c:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc0.h:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/font/le_gen_fonts.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/debug/sys_debug.h:
 
@@ -12234,8 +14384,6 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/kiss_
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/common/legato_color_lerp.c:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/common/legato_error.c:
-
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/stdarg.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/common/legato_math.c:
@@ -12250,19 +14398,29 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/datastructure/legato_list.c:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/datastructure/legato_rectarray.c:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_obb.c:
 
-d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/memory/legato_fixedheap.h:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/datastructure/legato_rectarray.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/font/legato_rasterfont_liberationmono8.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/font/legato_rasterfont_stream.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/font/le_gen_fonts.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_globalpalette.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_init.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_scheme.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_stringtable.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/jpeg/jidctint.c:
+
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/image/jpeg/legato_imagedecoder_jpeg.h:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/legato_image.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/legato_image_utils.c:
 
@@ -12272,25 +14430,33 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/image/png/legato_imagedecoder_png.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_mask.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/png/lodepng.c:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_rotate.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_blend.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_convert.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_mask.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_scale.c:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_write.c:
+
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/memory/legato_fixedheap.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/textfield/legato_widget_textfield.c:
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/memory/legato_fixedheap.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/memory/legato_variableheap.h:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/memory/legato_variableheap.c:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_arc_stroke.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_draw.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_draw_line.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_gpu.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_renderer.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/string/legato_dynamicstring.c:
 
@@ -12300,23 +14466,37 @@ d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/string/legato_string_renderer.c:
 
+d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/string/legato_stringutils.h:
+
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/string/legato_stringtable.c:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_rectf.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_aabb.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/stdio/xc32_monitor.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector2.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_arc_fill.c:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/config/default/gfx/legato/vector/legato_vector_kernel.h:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_arc_stroke.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_hline.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_kernel.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_point.c:
+
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_rect_fill.c:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/arc/legato_widget_arc.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_vline.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/arc/legato_widget_arc_skin_classic.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/button/legato_widget_button.c:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/groupbox/legato_widget_groupbox.c:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/label/legato_widget_label.c:
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/keypad/legato_widget_keypad.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/widget/legato_editwidget.c:
 
@@ -12331,8 +14511,6 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/initialization.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/interrupts.c:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/device_vectors.h:
 
 c:/program\ files/microchip/xc32/v4.60/pic32c/include/musl/sys/stat.h:
 
@@ -12362,22 +14540,50 @@ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/inp
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/input/sys_input_listener.c:
 
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c:
+
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/int/src/sys_int.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/time/src/sys_time.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/sys_tasks.h:
 
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/usb/src/usb_device.c:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/usb/src/usb_device_endpoint_functions.c:
-
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/main.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c:
+
+D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/kiss_fft.c:
 
 D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/tools/kiss_fftr.c:
-
-D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/tools/kiss_fftr.h:
 
 d:/mv_pic32cz_git/gesturerecognition/my_mcc_config/src/third_party/kissfft/_kiss_fft_guts.h:

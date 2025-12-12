@@ -71,8 +71,9 @@
 void PORT_Initialize(void)
 {
    /************************** GROUP 0 Initialization *************************/
-   PORT_REGS->GROUP[0].PORT_DIR = 0x4080U;
+   PORT_REGS->GROUP[0].PORT_DIR = 0x6080U;
    PORT_REGS->GROUP[0].PORT_PINCFG[7] = 0x3U;
+   PORT_REGS->GROUP[0].PORT_PINCFG[13] = 0x0U;
    PORT_REGS->GROUP[0].PORT_PINCFG[14] = 0x0U;
    PORT_REGS->GROUP[0].PORT_PINCFG[17] = 0x1U;
    PORT_REGS->GROUP[0].PORT_PINCFG[18] = 0x1U;

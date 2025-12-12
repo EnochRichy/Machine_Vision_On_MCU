@@ -456,6 +456,606 @@ ML_OV7670_GFX_default_Bin2Hex/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/config/default/gfx/legato/widget/radiobutton/legato_widget_radiobutton.c.s
 .PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/config/default/gfx/legato/widget/radiobutton/legato_widget_radiobutton.c.s
 
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.c.s
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.o: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.o
+
+# target to build an object file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.o
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.o
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.i: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.i
+
+# target to preprocess a source file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.i
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.i
+
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.s: 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.s
+
+# target to generate assembly for a file
+1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.s
+.PHONY : 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.c.s
+
 26434e8bb5678545079953e540a9cad0/default/gfx/legato/widget/circularslider/legato_widget_circular_slider_skin_classic.o: 26434e8bb5678545079953e540a9cad0/default/gfx/legato/widget/circularslider/legato_widget_circular_slider_skin_classic.c.o
 .PHONY : 26434e8bb5678545079953e540a9cad0/default/gfx/legato/widget/circularslider/legato_widget_circular_slider_skin_classic.o
 
@@ -1320,6 +1920,1302 @@ ML_OV7670_GFX_default_Bin2Hex/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/config/default/gfx/legato/widget/window/legato_widget_window_skin_classic.c.s
 .PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/config/default/gfx/legato/widget/window/legato_widget_window_skin_classic.c.s
 
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.c.s
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.o: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.o
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.o
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.o
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.i: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.s: 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.c.s
+
 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/kernels/internal/reference/portable_tensor_utils.obj: 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/kernels/internal/reference/portable_tensor_utils.cpp.obj
 .PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/kernels/internal/reference/portable_tensor_utils.obj
 
@@ -1440,6 +3336,30 @@ ML_OV7670_GFX_default_Bin2Hex/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.cpp.s
 .PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.cpp.s
 
+2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.obj: 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.obj
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.obj
+
+# target to build an object file
+2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.obj
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.obj
+
+2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.i: 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.i
+
+# target to preprocess a source file
+2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.i
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.i
+
+2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.s: 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.s
+
+# target to generate assembly for a file
+2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.s
+.PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp.s
+
 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/memory_planner/non_persistent_buffer_planner_shim.obj: 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/memory_planner/non_persistent_buffer_planner_shim.cpp.obj
 .PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/memory_planner/non_persistent_buffer_planner_shim.obj
 
@@ -1488,6 +3408,54 @@ ML_OV7670_GFX_default_Bin2Hex/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.cpp.s
 .PHONY : 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.cpp.s
 
+5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.o: 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.o
+.PHONY : 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.o
+
+# target to build an object file
+5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.o
+.PHONY : 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.o
+
+5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.i: 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.i
+.PHONY : 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.i
+
+# target to preprocess a source file
+5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.i
+.PHONY : 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.i
+
+5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.s: 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.s
+.PHONY : 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.s
+
+# target to generate assembly for a file
+5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.s
+.PHONY : 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.c.s
+
+5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.o: 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.o
+.PHONY : 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.o
+
+# target to build an object file
+5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.o
+.PHONY : 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.o
+
+5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.i: 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.i
+.PHONY : 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.i
+
+# target to preprocess a source file
+5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.i
+.PHONY : 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.i
+
+5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.s: 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.s
+.PHONY : 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.s
+
+# target to generate assembly for a file
+5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.s
+.PHONY : 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c.s
+
 767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge_skin_classic.o: 767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge_skin_classic.c.o
 .PHONY : 767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge_skin_classic.o
 
@@ -1535,6 +3503,174 @@ ML_OV7670_GFX_default_Bin2Hex/fast:
 767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/imagesequence/legato_widget_imagesequence_skin_classic.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/imagesequence/legato_widget_imagesequence_skin_classic.c.s
 .PHONY : 767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/imagesequence/legato_widget_imagesequence_skin_classic.c.s
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.o: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.o
+
+# target to build an object file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.o
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.i: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.i
+
+# target to preprocess a source file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.i
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.s: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.s
+
+# target to generate assembly for a file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.c.s
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.o: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.o
+
+# target to build an object file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.o
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.i: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.i
+
+# target to preprocess a source file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.i
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.s: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.s
+
+# target to generate assembly for a file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.c.s
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.o: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.o
+
+# target to build an object file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.o
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.i: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.i
+
+# target to preprocess a source file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.i
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.s: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.s
+
+# target to generate assembly for a file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.c.s
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.o: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.o
+
+# target to build an object file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.o
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.i: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.i
+
+# target to preprocess a source file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.i
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.s: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.s
+
+# target to generate assembly for a file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.c.s
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.o: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.o
+
+# target to build an object file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.o
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.i: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.i
+
+# target to preprocess a source file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.i
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.s: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.s
+
+# target to generate assembly for a file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.c.s
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.o: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.o
+
+# target to build an object file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.o
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.i: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.i
+
+# target to preprocess a source file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.i
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.s: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.s
+
+# target to generate assembly for a file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.c.s
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.o: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.o
+
+# target to build an object file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.o
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.o
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.i: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.i
+
+# target to preprocess a source file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.i
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.i
+
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.s: 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.s
+
+# target to generate assembly for a file
+767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.s
+.PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.s
 
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.o
@@ -5064,6 +7200,606 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/main.c.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/main.c.s
 
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.c.s
+
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/delay.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/delay.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/delay.obj
 
@@ -6504,30 +9240,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/activations_common.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/activations_common.cpp.s
 
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.cpp.s
-
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add_common.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add_common.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add_common.obj
 
@@ -6623,30 +9335,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/assign_variable.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/assign_variable.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/assign_variable.cpp.s
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.cpp.s
 
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul_common.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul_common.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul_common.obj
@@ -6864,6 +9552,318 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/circular_buffer_common.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/circular_buffer_common.cpp.s
 
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.obj
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.obj
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.obj
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp.s
+
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/comparisons.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/comparisons.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/comparisons.obj
 
@@ -6911,30 +9911,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/concatenation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/concatenation.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/concatenation.cpp.s
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.cpp.s
 
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv_common.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv_common.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv_common.obj
@@ -7175,30 +10151,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depth_to_space.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depth_to_space.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depth_to_space.cpp.s
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.cpp.s
 
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv_common.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv_common.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv_common.obj
@@ -7583,30 +10535,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/floor_mod.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/floor_mod.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/floor_mod.cpp.s
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.cpp.s
 
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected_common.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected_common.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected_common.obj
@@ -8064,30 +10992,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/lstm_eval_common.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/lstm_eval_common.cpp.s
 
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.cpp.s
-
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.obj
 
@@ -8135,30 +11039,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mirror_pad.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mirror_pad.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mirror_pad.cpp.s
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.cpp.s
 
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul_common.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul_common.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul_common.obj
@@ -8232,30 +11112,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pack.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pack.cpp.s
 
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.cpp.s
-
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.obj
 
@@ -8279,30 +11135,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.cpp.s
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.cpp.s
 
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling_common.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling_common.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling_common.obj
@@ -8712,30 +11544,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/slice.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/slice.cpp.s
 
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.cpp.s
-
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax_common.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax_common.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax_common.obj
 
@@ -9000,30 +11808,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/sub_common.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/sub_common.cpp.s
 
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.cpp.s
-
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf_common.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf_common.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf_common.obj
 
@@ -9072,30 +11856,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/tanh.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/tanh.cpp.s
 
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.cpp.s
-
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.obj
 
@@ -9119,54 +11879,6 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/ker
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.cpp.s
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.cpp.s
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.obj
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.obj
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.obj
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp.s
 
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unpack.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unpack.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unpack.obj
@@ -9864,6 +12576,81 @@ help:
 	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/config/default/gfx/legato/widget/radiobutton/legato_widget_radiobutton.o"
 	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/config/default/gfx/legato/widget/radiobutton/legato_widget_radiobutton.i"
 	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/config/default/gfx/legato/widget/radiobutton/legato_widget_radiobutton.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_nn_activation_s16.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s16.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_add_s8.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s8.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s4.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1_x_n_s8.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_even_s4.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_s8.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s8.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s16.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/LSTMFunctions/arm_lstm_unidirectional_s8.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s16.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s4.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s4.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s8.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_get_buffer_sizes_s8.s"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.o"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.i"
+	@echo "... 1f49e7944d88e29e1f5ecd9f25713731/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_nn_softmax_common_s8.s"
 	@echo "... 26434e8bb5678545079953e540a9cad0/default/gfx/legato/widget/circularslider/legato_widget_circular_slider_skin_classic.o"
 	@echo "... 26434e8bb5678545079953e540a9cad0/default/gfx/legato/widget/circularslider/legato_widget_circular_slider_skin_classic.i"
 	@echo "... 26434e8bb5678545079953e540a9cad0/default/gfx/legato/widget/circularslider/legato_widget_circular_slider_skin_classic.s"
@@ -9972,6 +12759,168 @@ help:
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/config/default/gfx/legato/widget/window/legato_widget_window_skin_classic.o"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/config/default/gfx/legato/widget/window/legato_widget_window_skin_classic.i"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/config/default/gfx/legato/widget/window/legato_widget_window_skin_classic.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_acc_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_batch_offset.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_elementwise_mul_s16_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_w.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_x.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_y.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConcatenationFunctions/arm_concatenation_s8_z.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s4_fast.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s4.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s4.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_wrapper_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_3x3_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_fast_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s4_opt.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s8_opt.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s4.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_wrapper_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_depthwise_conv_s8_core.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s4_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_s8_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_wrapper_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_batch_matmul_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s4.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_wrapper_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_vector_sum_s8_s64.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_padded_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s4.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_depthwise_conv_nt_t_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_calculate_gate_s8_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s4.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_1x_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mul_core_4x_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_t_s8_s32.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_transpose_conv_row_s8_s32.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mul_result_acc_s8_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_per_ch_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_svdf_s8.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_with_offset.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_s8_to_s16_unordered_with_offset.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s16.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.o"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_get_buffer_sizes_s8.s"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/kernels/internal/reference/portable_tensor_utils.obj"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/kernels/internal/reference/portable_tensor_utils.i"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/kernels/internal/reference/portable_tensor_utils.s"
@@ -9987,18 +12936,48 @@ help:
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.obj"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.i"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.s"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.obj"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.i"
+	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.s"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/memory_planner/non_persistent_buffer_planner_shim.obj"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/memory_planner/non_persistent_buffer_planner_shim.i"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/memory_planner/non_persistent_buffer_planner_shim.s"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.obj"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.i"
 	@echo "... 2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.s"
+	@echo "... 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.o"
+	@echo "... 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.i"
+	@echo "... 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s16.s"
+	@echo "... 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.o"
+	@echo "... 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.i"
+	@echo "... 5ef6bdf5fefa9aa4fdd53d7701c92161/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.s"
 	@echo "... 767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge_skin_classic.o"
 	@echo "... 767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge_skin_classic.i"
 	@echo "... 767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge_skin_classic.s"
 	@echo "... 767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/imagesequence/legato_widget_imagesequence_skin_classic.o"
 	@echo "... 767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/imagesequence/legato_widget_imagesequence_skin_classic.i"
 	@echo "... 767c907890a8f0d7608db77407014f39/config/default/gfx/legato/widget/imagesequence/legato_widget_imagesequence_skin_classic.s"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.o"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.i"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s16.s"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.o"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.i"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s4.s"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.o"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.i"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_get_buffer_sizes_s8.s"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.o"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.i"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_kernel_row_offset_s8_s16.s"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.o"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.i"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_transpose_conv_get_buffer_sizes_s8.s"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.o"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.i"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_per_channel_s8.s"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.o"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.i"
+	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.o"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.s"
@@ -10440,6 +13419,81 @@ help:
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/main.o"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/main.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/main.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu6_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q15.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ActivationFunctions/arm_relu_q7.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_maximum_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/BasicMathFunctions/arm_minimum_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s16.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s4.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ConvolutionFunctions/arm_nn_mat_mult_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s16.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_lstm_step_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PadFunctions/arm_pad_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s16.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_avgpool_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s16.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/PoolingFunctions/arm_max_pool_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/ReshapeFunctions/arm_reshape_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SVDFunctions/arm_svdf_state_s16_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s16.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_s8_s16.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_u8.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Source/TransposeFunctions/arm_transpose_s8.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/delay.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/delay.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/signal/micro/kernels/delay.s"
@@ -10620,9 +13674,6 @@ help:
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/activations_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/activations_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/activations_common.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/add_common.s"
@@ -10635,9 +13686,6 @@ help:
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/assign_variable.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/assign_variable.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/assign_variable.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/batch_matmul_common.s"
@@ -10665,15 +13713,51 @@ help:
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/circular_buffer_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/circular_buffer_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/circular_buffer_common.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/add.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/batch_matmul.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/conv.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/depthwise_conv.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/maximum_minimum.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/mul.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pad.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/pooling.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/softmax.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.obj"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/comparisons.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/comparisons.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/comparisons.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/concatenation.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/concatenation.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/concatenation.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/conv_common.s"
@@ -10704,9 +13788,6 @@ help:
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depth_to_space.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depth_to_space.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depth_to_space.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/depthwise_conv_common.s"
@@ -10755,9 +13836,6 @@ help:
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/floor_mod.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/floor_mod.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/floor_mod.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/fully_connected_common.s"
@@ -10815,18 +13893,12 @@ help:
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/lstm_eval_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/lstm_eval_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/lstm_eval_common.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/maximum_minimum.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/micro_tensor_utils.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mirror_pad.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mirror_pad.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mirror_pad.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/mul_common.s"
@@ -10836,15 +13908,9 @@ help:
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pack.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pack.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pack.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pad_common.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/pooling_common.s"
@@ -10896,9 +13962,6 @@ help:
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/slice.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/slice.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/slice.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/softmax_common.s"
@@ -10932,27 +13995,15 @@ help:
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/sub_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/sub_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/sub_common.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/svdf_common.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/tanh.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/tanh.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/tanh.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_common.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/transpose_conv.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.obj"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unpack.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unpack.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/kernels/unpack.s"

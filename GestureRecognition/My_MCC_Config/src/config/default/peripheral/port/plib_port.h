@@ -186,6 +186,15 @@
 #define GFX_DISP_INTF_PIN_DE_Get()               (((PORT_REGS->GROUP[2].PORT_IN >> 5U)) & 0x01U)
 #define GFX_DISP_INTF_PIN_DE_PIN                  PORT_PIN_PC05
 
+/*** Macros for GPIO_PA13 pin ***/
+#define GPIO_PA13_Set()               (PORT_REGS->GROUP[0].PORT_OUTSET = ((uint32_t)1U << 13U))
+#define GPIO_PA13_Clear()             (PORT_REGS->GROUP[0].PORT_OUTCLR = ((uint32_t)1U << 13U))
+#define GPIO_PA13_Toggle()            (PORT_REGS->GROUP[0].PORT_OUTTGL = ((uint32_t)1U << 13U))
+#define GPIO_PA13_OutputEnable()      (PORT_REGS->GROUP[0].PORT_DIRSET = ((uint32_t)1U << 13U))
+#define GPIO_PA13_InputEnable()       (PORT_REGS->GROUP[0].PORT_DIRCLR = ((uint32_t)1U << 13U))
+#define GPIO_PA13_Get()               (((PORT_REGS->GROUP[0].PORT_IN >> 13U)) & 0x01U)
+#define GPIO_PA13_PIN                  PORT_PIN_PA13
+
 /*** Macros for GPIO_PA14 pin ***/
 #define GPIO_PA14_Set()               (PORT_REGS->GROUP[0].PORT_OUTSET = ((uint32_t)1U << 14U))
 #define GPIO_PA14_Clear()             (PORT_REGS->GROUP[0].PORT_OUTCLR = ((uint32_t)1U << 14U))
