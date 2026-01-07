@@ -1095,14 +1095,6 @@
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP"
-				},
-				{
-					"backtrace" : 10,
-					"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Include"
-				},
-				{
-					"backtrace" : 10,
 					"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/CMSIS/CMSIS/DSP/Include"
 				},
 				{
@@ -1111,11 +1103,19 @@
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/third_party/kissfft"
+					"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP"
 				},
 				{
 					"backtrace" : 10,
 					"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/third_party/flatbuffers/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/third_party/kissfft"
 				},
 				{
 					"backtrace" : 10,

@@ -9036,26 +9036,6 @@ data:
           type: User
         type: Values
       type: KeyValueSet
-    PIN_174_MODE:
-      attributes:
-        id: PIN_174_MODE
-      children:
-      - children:
-        - attributes:
-            value: ''
-          type: User
-        type: Values
-      type: String
-    PIN_174_FUNCTION_TYPE:
-      attributes:
-        id: PIN_174_FUNCTION_TYPE
-      children:
-      - children:
-        - attributes:
-            value: GCLK_IO6
-          type: User
-        type: Values
-      type: String
     PORT_GROUP_2_PMUX1:
       attributes:
         id: PORT_GROUP_2_PMUX1
@@ -9063,7 +9043,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '0xc'
+            value: '0x0'
           type: Dynamic
         type: Values
       type: String
@@ -9085,7 +9065,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '0x1'
+            value: '0x0'
           type: Dynamic
         type: Values
       type: String
@@ -9096,7 +9076,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: 'true'
+            value: 'false'
           type: Dynamic
         type: Values
       type: Boolean
@@ -9106,7 +9086,7 @@ data:
       children:
       - children:
         - attributes:
-            value: M
+            value: ''
           type: User
         type: Values
       type: String
@@ -9120,16 +9100,6 @@ data:
           type: User
         type: Values
       type: KeyValueSet
-    PIN_174_FUNCTION_NAME:
-      attributes:
-        id: PIN_174_FUNCTION_NAME
-      children:
-      - children:
-        - attributes:
-            value: MCLK
-          type: User
-        type: Values
-      type: String
     PLL0_CLOCK_FREQ2:
       attributes:
         id: PLL0_CLOCK_FREQ2
@@ -9358,6 +9328,16 @@ data:
           type: User
         type: Values
       type: KeyValueSet
+    PIN_204_FUNCTION_NAME:
+      attributes:
+        id: PIN_204_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: MCLK
+          type: User
+        type: Values
+      type: String
   userData:
     children:
     - attributes:

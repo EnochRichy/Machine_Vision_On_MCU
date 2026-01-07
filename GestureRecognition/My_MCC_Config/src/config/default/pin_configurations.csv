@@ -121,7 +121,7 @@ R18,PC04,,EBI_NWE_NWR0,Digital,High Impedance,n/a,No,No,No,FAST
 T1,PA28,,Available,,,,,,No,FAST
 T2,PA29,,Available,,,,,,No,FAST
 T17,PC01,,SERCOM0_PAD1,Digital,High Impedance,n/a,No,No,No,FAST
-T18,PC02,MCLK,GCLK_IO6,Digital,High Impedance,n/a,No,No,No,FAST
+T18,PC02,,Available,,,,,,No,FAST
 U1,PA15,,Available,,,,,,No,FAST
 U2,PA16,,Available,,,,,,No,FAST
 U3,PA18,HREF,EIC_EXTINT2,Digital,High Impedance,n/a,No,No,No,FAST
@@ -151,7 +151,7 @@ V9,PB07,,Available,,,,,,No,FAST
 V10,PB27,,Available,,,,,,No,FAST
 V11,PF03,,Available,,,,,,No,FAST
 V12,PF05,,Available,,,,,,No,FAST
-V13,PB10,,TCC1_WO0,Digital,High Impedance,n/a,No,No,No,FAST
+V13,PB10,MCLK,TCC1_WO0,Digital,High Impedance,n/a,No,No,No,FAST
 V14,PB11,,Available,,,,,,No,FAST
 V15,PB31,,Available,,,,,,No,FAST
 V16,PB25,PWNN_OV,GPIO,Digital,Out,Low,,,No,FAST

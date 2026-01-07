@@ -156,8 +156,6 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Gest
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\usb\usb_host_hub_interface.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\usb\src\usb_device_mapping.h \
  D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/rtc/plib_rtc.h \
- D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/time/sys_time.h \
- D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/time/sys_time_definitions.h \
  D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/drv_i2c.h \
  D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/drv_i2c_definitions.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\driver\driver.h \
@@ -168,6 +166,8 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Gest
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\osal\osal_impl_basic.h \
  c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\stdlib.h \
  c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\alloca.h \
+ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/time/sys_time.h \
+ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/time/sys_time_definitions.h \
  D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/ebi/plib_ebi.h \
  D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/usb/usbhs/drv_usbhs.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\usb\usb_hub.h \
@@ -190,9 +190,9 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Gest
  D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/cache/sys_cache.h \
  D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/osal/osal.h \
  D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/system/debug/sys_debug.h \
- D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/evsys/plib_evsys.h \
  D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/sercom/i2c_master/plib_sercom0_i2c_master.h \
  D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/sercom/i2c_master/plib_sercom_i2c_master_common.h \
+ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/peripheral/evsys/plib_evsys.h \
  D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_harmony.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\generated\le_gen_init.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\legato.h \

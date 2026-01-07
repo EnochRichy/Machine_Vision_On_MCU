@@ -152,8 +152,6 @@ int predict_gesture_from_frame()
 {
     if (!interpreter) return -1;
 
-    GPIO_PA13_Set(); // ML Inference indicator ON
-
     inference_complete = false;
 
     float input_scale = input_tensor->params.scale;
@@ -245,8 +243,6 @@ int predict_gesture_from_frame()
     float out_scale = output_tensor->params.scale;
     int32_t out_zero_point = output_tensor->params.zero_point;
     float confidence = (best_score - out_zero_point) * out_scale;
-
-    GPIO_PA13_Clear(); // ML Inference indicator OFF
 
    printf("Pred: %s (score=%u, conf=%.2f)\r\n",
            labels[best], best_score, confidence);

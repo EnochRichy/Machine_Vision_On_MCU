@@ -186,15 +186,6 @@
 #define GFX_DISP_INTF_PIN_DE_Get()               (((PORT_REGS->GROUP[2].PORT_IN >> 5U)) & 0x01U)
 #define GFX_DISP_INTF_PIN_DE_PIN                  PORT_PIN_PC05
 
-/*** Macros for GPIO_PA13 pin ***/
-#define GPIO_PA13_Set()               (PORT_REGS->GROUP[0].PORT_OUTSET = ((uint32_t)1U << 13U))
-#define GPIO_PA13_Clear()             (PORT_REGS->GROUP[0].PORT_OUTCLR = ((uint32_t)1U << 13U))
-#define GPIO_PA13_Toggle()            (PORT_REGS->GROUP[0].PORT_OUTTGL = ((uint32_t)1U << 13U))
-#define GPIO_PA13_OutputEnable()      (PORT_REGS->GROUP[0].PORT_DIRSET = ((uint32_t)1U << 13U))
-#define GPIO_PA13_InputEnable()       (PORT_REGS->GROUP[0].PORT_DIRCLR = ((uint32_t)1U << 13U))
-#define GPIO_PA13_Get()               (((PORT_REGS->GROUP[0].PORT_IN >> 13U)) & 0x01U)
-#define GPIO_PA13_PIN                  PORT_PIN_PA13
-
 /*** Macros for GPIO_PA14 pin ***/
 #define GPIO_PA14_Set()               (PORT_REGS->GROUP[0].PORT_OUTSET = ((uint32_t)1U << 14U))
 #define GPIO_PA14_Clear()             (PORT_REGS->GROUP[0].PORT_OUTCLR = ((uint32_t)1U << 14U))
@@ -230,10 +221,6 @@
 #define GFX_DISP_INTF_PIN_VSYNC_InputEnable()       (PORT_REGS->GROUP[6].PORT_DIRCLR = ((uint32_t)1U << 4U))
 #define GFX_DISP_INTF_PIN_VSYNC_Get()               (((PORT_REGS->GROUP[6].PORT_IN >> 4U)) & 0x01U)
 #define GFX_DISP_INTF_PIN_VSYNC_PIN                  PORT_PIN_PG04
-
-/*** Macros for MCLK pin ***/
-#define MCLK_Get()               (((PORT_REGS->GROUP[2].PORT_IN >> 2U)) & 0x01U)
-#define MCLK_PIN                  PORT_PIN_PC02
 
 /*** Macros for HREF pin ***/
 #define HREF_Get()               (((PORT_REGS->GROUP[0].PORT_IN >> 18U)) & 0x01U)
@@ -278,6 +265,10 @@
 #define LED1_InputEnable()       (PORT_REGS->GROUP[1].PORT_DIRCLR = ((uint32_t)1U << 22U))
 #define LED1_Get()               (((PORT_REGS->GROUP[1].PORT_IN >> 22U)) & 0x01U)
 #define LED1_PIN                  PORT_PIN_PB22
+
+/*** Macros for MCLK pin ***/
+#define MCLK_Get()               (((PORT_REGS->GROUP[1].PORT_IN >> 10U)) & 0x01U)
+#define MCLK_PIN                  PORT_PIN_PB10
 
 /*** Macros for PWNN_OV pin ***/
 #define PWNN_OV_Set()               (PORT_REGS->GROUP[1].PORT_OUTSET = ((uint32_t)1U << 25U))

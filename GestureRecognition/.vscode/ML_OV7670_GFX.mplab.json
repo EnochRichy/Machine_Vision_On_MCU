@@ -22,9 +22,7 @@
                 }
             ],
             "fileSet": "default",
-            "toolchain": "default-XC32",
-            "preBuildSteps": [],
-            "postBuildSteps": []
+            "toolchain": "default-XC32"
         }
     ],
     "propertyGroups": [
@@ -41,17 +39,17 @@
                     "\"My_MCC_Config/src/config/default\"",
                     "\"My_MCC_Config/src/packs/CMSIS\"",
                     "\"My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include\"",
-                    "\"My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP\"",
-                    "\"My_MCC_Config/src\"",
-                    "\"My_MCC_Config/src/config/default\"",
-                    "\"My_MCC_Config/src/packs/CMSIS\"",
-                    "\"My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include\"",
-                    "\"My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Include\"",
                     "\"My_MCC_Config/src/packs/CMSIS/CMSIS/DSP/Include\"",
                     "\"My_MCC_Config/src/packs/CMSIS/CMSIS/DSP/Lib/GCC\"",
+                    "\"My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Include\"",
                     "\"My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP\"",
+                    "\"My_MCC_Config/src/third_party/flatbuffers/include\"",
                     "\"My_MCC_Config/src/third_party/kissfft\"",
-                    "\"My_MCC_Config/src/third_party/flatbuffers/include\""
+                    "My_MCC_Config/src",
+                    "My_MCC_Config/src/config/default",
+                    "My_MCC_Config/src/packs/CMSIS",
+                    "My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include",
+                    "My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP"
                 ],
                 "compiler++.isolate-each-function": true,
                 "compiler++.optimization-level": "-O1",
@@ -60,22 +58,22 @@
                     "\"My_MCC_Config/src/config/default\"",
                     "\"My_MCC_Config/src/packs/CMSIS\"",
                     "\"My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include\"",
-                    "\"My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP\"",
-                    "\"My_MCC_Config/src\"",
-                    "\"My_MCC_Config/src/config/default\"",
-                    "\"My_MCC_Config/src/packs/CMSIS\"",
-                    "\"My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include\"",
-                    "\"My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Include\"",
                     "\"My_MCC_Config/src/packs/CMSIS/CMSIS/DSP/Include\"",
+                    "\"My_MCC_Config/src/packs/CMSIS/CMSIS/NN/Include\"",
                     "\"My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP\"",
                     "\"My_MCC_Config/src/third_party/flatbuffers/include\"",
                     "\"My_MCC_Config/src/third_party/gemmlowp\"",
                     "\"My_MCC_Config/src/third_party/kissfft\"",
-                    "\"My_MCC_Config/src/third_party/ruy\""
+                    "\"My_MCC_Config/src/third_party/ruy\"",
+                    "My_MCC_Config/src",
+                    "My_MCC_Config/src/config/default",
+                    "My_MCC_Config/src/packs/CMSIS",
+                    "My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include",
+                    "My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP"
                 ],
                 "linker.heap-size": "512",
                 "linker.remove-unused-sections": true,
-                "linker.no-device-startup-code": true,
+                "linker.no-device-startup-code": "true",
                 "linker.preprocessor-macros": [
                     "VECTOR_REGION=boot_rom"
                 ],
