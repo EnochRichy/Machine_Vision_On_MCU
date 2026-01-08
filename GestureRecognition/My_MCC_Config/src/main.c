@@ -146,7 +146,7 @@ void ov7670_set_rgb565_QQVGA_Working(void)
    I2C_Write(0x00, 0x0B); // AGC
 
   // Color settings, recommended defaults
-  I2C_Write(0x11, 0x82);   // CLKRC: Prescaler /4 (slower PCLK, easier for MCU)
+  I2C_Write(0x11, 0x80);   // CLKRC: Prescaler /1
 
   I2C_Write(0x12, 0x14);   // COM7: RGB + QVGA scaling enabled
 
@@ -176,10 +176,10 @@ void ov7670_set_rgb565_QQVGA_Working(void)
 
 
   // QQVGA SCALING (160x120)
-  I2C_Write(0x70, 0x3F);   // SCALING_DCWCTR: Downsample 4x
-  I2C_Write(0x71, 0x35);   // SCALING_PCLK_DIV: Divide pixel clock
-  I2C_Write(0x72, 0x21);   // SCALING_XSC
-  I2C_Write(0x73, 0xF0);   // SCALING_YSC
+  I2C_Write(0x70, 0x3F);   // SCALING_XSC
+  I2C_Write(0x71, 0x35);   // SCALING_YSC
+  I2C_Write(0x72, 0x21);   // SCALING_DCWCTR: Downsample 4x
+  I2C_Write(0x73, 0xF0);   // SCALING_PCLK_DIV: Divide pixel clock
 
   // Windowing (centering the image)
   I2C_Write(0x17, 0x16);   // HSTART
