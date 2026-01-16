@@ -50,6 +50,9 @@ CMAKE_ASM_FLAGS_RELWITHDEBINFO:STRING=-O2 -g -DNDEBUG
 // MinSizeRel ...
 CMAKE_BUILD_TYPE:STRING=
 
+//Enable/Disable color output during build.
+CMAKE_COLOR_MAKEFILE:BOOL=ON
+
 //CXX compiler
 CMAKE_CXX_COMPILER:STRING=c:/Program Files/Microchip/xc32/v4.60/bin/xc32-g++.exe
 
@@ -120,9 +123,6 @@ CMAKE_EXE_LINKER_FLAGS_RELEASE:STRING=
 //Flags used by the linker during RELWITHDEBINFO builds.
 CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 
-//Enable/Disable output of build database during the build.
-CMAKE_EXPORT_BUILD_DATABASE:BOOL=
-
 //No help, variable specified on the command line.
 CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=ON
 
@@ -135,8 +135,8 @@ CMAKE_INSTALL_PREFIX:PATH=C:/Program Files/ML_OV7670_GFX_default_project
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/Program Files/Microchip/xc32/v4.60/bin/xc32-ld.exe
 
-//Program used to build from build.ninja files.
-CMAKE_MAKE_PROGRAM:FILEPATH=C:/Users/I41645/.mplab/app-finder/apps/ninja/v1.13.1/ninja.exe
+//Find a suitable make, avoid gmake
+CMAKE_MAKE_PROGRAM:FILEPATH=C:/Users/I41645/.mplab/app-finder/apps/make/v4.4.1/windows/make.exe
 
 //Flags used by the linker during the creation of modules during
 // all build types.
@@ -260,38 +260,38 @@ ML_OV7670_GFX_default_project_IS_TOP_LEVEL:STATIC=ON
 ML_OV7670_GFX_default_project_SOURCE_DIR:STATIC=D:/MV_PIC32CZ_Git/cmake/ML_OV7670_GFX/default
 
 //Legacy variable from MPLAB X pointing to the archiver binary.
-MP_AR:FILEPATH=c:/Program Files/Microchip/xc32/v4.60/bin/xc32-ar.exe
+MP_AR:STRING=c:\Program Files\Microchip\xc32\v4.60\bin\xc32-ar.exe
 
 //Legacy variable from MPLAB X pointing to the archiver base directory
-MP_AR_DIR:PATH=c:/Program Files/Microchip/xc32/v4.60/bin
+MP_AR_DIR:STRING=c:\Program Files\Microchip\xc32\v4.60\bin
 
 //Legacy variable from MPLAB X pointing to the assembler
-MP_AS:PATH=c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe
+MP_AS:STRING=c:\Program Files\Microchip\xc32\v4.60\bin\xc32-gcc.exe
 
 //Legacy variable from MPLAB X pointing to the assembler base directory
-MP_AS_DIR:PATH=c:/Program Files/Microchip/xc32/v4.60/bin
+MP_AS_DIR:STRING=c:\Program Files\Microchip\xc32\v4.60\bin
 
 //Legacy variable from MPLAB X pointing to the bin2hex binary.
-MP_BIN2HEX:FILEPATH=c:/Program Files/Microchip/xc32/v4.60/bin/xc32-bin2hex.exe
+MP_BIN2HEX:STRING=c:\Program Files\Microchip\xc32\v4.60\bin\xc32-bin2hex.exe
 
 //Legacy variable from MPLAB X pointing to the compiler
-MP_CC:PATH=c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe
+MP_CC:STRING=c:\Program Files\Microchip\xc32\v4.60\bin\xc32-gcc.exe
 
 //Legacy variable from MPLAB X pointing to the compiler base directory
-MP_CC_DIR:PATH=c:/Program Files/Microchip/xc32/v4.60/bin
+MP_CC_DIR:STRING=c:\Program Files\Microchip\xc32\v4.60\bin
 
 //Legacy variable from MPLAB X pointing to the c++ compiler
-MP_CPPC:PATH=c:/Program Files/Microchip/xc32/v4.60/bin/xc32-g++.exe
+MP_CPPC:STRING=c:\Program Files\Microchip\xc32\v4.60\bin\xc32-g++.exe
 
 //Legacy variable from MPLAB X pointing to the c++ compiler base
 // directory
-MP_CPPC_DIR:PATH=c:/Program Files/Microchip/xc32/v4.60/bin
+MP_CPPC_DIR:STRING=c:\Program Files\Microchip\xc32\v4.60\bin
 
 //Legacy variable from MPLAB X pointing to the linker binary.
-MP_LD:FILEPATH=c:/Program Files/Microchip/xc32/v4.60/bin/xc32-ld.exe
+MP_LD:STRING=c:\Program Files\Microchip\xc32\v4.60\bin\xc32-ld.exe
 
 //Legacy variable from MPLAB X pointing to the linker base directory
-MP_LD_DIR:PATH=c:/Program Files/Microchip/xc32/v4.60/bin
+MP_LD_DIR:STRING=c:\Program Files\Microchip\xc32\v4.60\bin
 
 //Path to objcopy executable
 OBJCOPY:FILEPATH=c:/Program Files/Microchip/xc32/v4.60/bin/xc32-objcopy.exe
@@ -336,6 +336,8 @@ CMAKE_CACHE_MAJOR_VERSION:INTERNAL=4
 CMAKE_CACHE_MINOR_VERSION:INTERNAL=1
 //Patch version of cmake used to create the current loaded cache
 CMAKE_CACHE_PATCH_VERSION:INTERNAL=2
+//ADVANCED property for variable: CMAKE_COLOR_MAKEFILE
+CMAKE_COLOR_MAKEFILE-ADVANCED:INTERNAL=1
 //Path to CMake executable.
 CMAKE_COMMAND:INTERNAL=C:/Program Files/CMake/bin/cmake.exe
 //Path to cpack program executable.
@@ -390,12 +392,10 @@ CMAKE_EXE_LINKER_FLAGS_MINSIZEREL-ADVANCED:INTERNAL=1
 CMAKE_EXE_LINKER_FLAGS_RELEASE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO
 CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
-//ADVANCED property for variable: CMAKE_EXPORT_BUILD_DATABASE
-CMAKE_EXPORT_BUILD_DATABASE-ADVANCED:INTERNAL=1
 //Name of external makefile project generator.
 CMAKE_EXTRA_GENERATOR:INTERNAL=
 //Name of generator.
-CMAKE_GENERATOR:INTERNAL=Ninja
+CMAKE_GENERATOR:INTERNAL=Unix Makefiles
 //Generator instance identifier.
 CMAKE_GENERATOR_INSTANCE:INTERNAL=
 //Name of generator platform.
@@ -409,8 +409,6 @@ CMAKE_HOME_DIRECTORY:INTERNAL=D:/MV_PIC32CZ_Git/cmake/ML_OV7670_GFX/default
 CMAKE_LINKER-ADVANCED:INTERNAL=1
 //Name of CMakeLists files to read
 CMAKE_LIST_FILE_NAME:INTERNAL=CMakeLists.txt
-//ADVANCED property for variable: CMAKE_MAKE_PROGRAM
-CMAKE_MAKE_PROGRAM-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MODULE_LINKER_FLAGS
 CMAKE_MODULE_LINKER_FLAGS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MODULE_LINKER_FLAGS_DEBUG

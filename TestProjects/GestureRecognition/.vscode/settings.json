@@ -1,0 +1,26 @@
+{
+    "mplab.clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}\\_build\\ML_OV7670_GFX\\default"
+    ],
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc32\\v4.60\\bin\\xc32-clangd.exe",
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "mplab-core-da"
+    ],
+    "cmake.sourceDirectory": "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/cmake/ML_OV7670_GFX/default",
+    "files.associations": {
+        "stdbool.h": "c",
+        "plib_port.h": "c",
+        "all_ops_resolver.h": "cpp",
+        "micro_interpreter.h": "cpp",
+        "device.h": "c",
+        "definitions.h": "c",
+        "cstdint": "cpp",
+        "app_ml.h": "c"
+    },
+    "mplab.project.workspace.removeDeletedSourceFiles": "Always",
+    "cmake.configureOnOpen": false,
+    "cmake.configureOnEdit": false
+}
