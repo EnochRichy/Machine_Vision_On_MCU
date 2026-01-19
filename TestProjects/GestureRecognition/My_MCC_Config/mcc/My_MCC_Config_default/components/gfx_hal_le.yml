@@ -1,0 +1,218 @@
+configVersion: 1.0.0
+componentName: gfx_hal_le
+coreVersion: 5.8.3
+device: PIC32CZ8110CA90208
+library: []
+dependency:
+- dependencyPackage: class com.microchip.mcc.harmony.HarmonyModule
+  name: gfx_hal_le
+  type: module
+  version: ''
+- dependencyPackage: ''
+  name: gfx
+  type: package
+  version: v3.16.0
+customDataClassName: com.microchip.utils_mh3.utils.persistence.CustomModuleData
+data:
+  attachments: {}
+  elementPosition:
+    attributes:
+      id: __ROOTVIEW
+    children:
+    - children:
+      - attributes:
+          id: gfx_hal_le
+          x: '998'
+          y: '60'
+        type: ElementPosition
+      type: ElementPositions
+    type: ComponentGraph
+  symbols:
+    gfx_driver:
+      attributes:
+        id: gfx_driver
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: le_gfx_driver_lcc
+          type: Dynamic
+        type: Values
+      type: String
+    DriverName:
+      attributes:
+        id: DriverName
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: 'LE LCC '
+          type: Dynamic
+        type: Values
+      type: String
+    RefreshRate:
+      attributes:
+        id: RefreshRate
+      children:
+      - children:
+        - attributes:
+            id: gfx_hal_le
+            value: '99'
+          type: Dynamic
+        type: Values
+      type: Integer
+    PixelClock:
+      attributes:
+        id: PixelClock
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: '15000000'
+          type: Dynamic
+        type: Values
+      type: Integer
+    gfx_display:
+      attributes:
+        id: gfx_display
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: PDA TM4301B
+          type: Dynamic
+        type: Values
+      type: String
+    DisplayName:
+      attributes:
+        id: DisplayName
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: PDA TM4301B
+          type: Dynamic
+        type: Values
+      type: String
+    DisplayWidth:
+      attributes:
+        id: DisplayWidth
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: '480'
+          type: Dynamic
+        type: Values
+      type: Integer
+    DisplayHeight:
+      attributes:
+        id: DisplayHeight
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: '272'
+          type: Dynamic
+        type: Values
+      type: Integer
+    DisplayHorzPulseWidth:
+      attributes:
+        id: DisplayHorzPulseWidth
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: '41'
+          type: Dynamic
+        type: Values
+      type: Integer
+    DisplayHorzBackPorch:
+      attributes:
+        id: DisplayHorzBackPorch
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: Integer
+    DisplayHorzFrontPorch:
+      attributes:
+        id: DisplayHorzFrontPorch
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: Integer
+    DisplayVertPulseWidth:
+      attributes:
+        id: DisplayVertPulseWidth
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: '10'
+          type: Dynamic
+        type: Values
+      type: Integer
+    DisplayVertBackPorch:
+      attributes:
+        id: DisplayVertBackPorch
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: Integer
+    DisplayVertFrontPorch:
+      attributes:
+        id: DisplayVertFrontPorch
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: Integer
+    DisplayDataEnablePolarity:
+      attributes:
+        id: DisplayDataEnablePolarity
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    DisplayVSYNCNegative:
+      attributes:
+        id: DisplayVSYNCNegative
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    DisplayHSYNCNegative:
+      attributes:
+        id: DisplayHSYNCNegative
+      children:
+      - children:
+        - attributes:
+            id: le_gfx_driver_lcc
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+  userData: {}

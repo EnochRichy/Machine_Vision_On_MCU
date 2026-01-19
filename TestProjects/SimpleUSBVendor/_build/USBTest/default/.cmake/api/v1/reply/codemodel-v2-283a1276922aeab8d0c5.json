@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "USBTest_default_project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "USBTest_default_Bin2Hex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USBTest_default_Bin2Hex-98442d4a471b35ad77c4.json",
+					"name" : "USBTest_default_Bin2Hex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "USBTest_default_default_XC32_compile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USBTest_default_default_XC32_compile-54ad87958e4e81616fec.json",
+					"name" : "USBTest_default_default_XC32_compile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "USBTest_default_image_bRE6iwhd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USBTest_default_image_bRE6iwhd-b6c928454a9e769e8233.json",
+					"name" : "USBTest_default_image_bRE6iwhd",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MV_PIC32CZ_Git/TestProjects/_build/USBTest/default",
+		"source" : "D:/MV_PIC32CZ_Git/TestProjects/cmake/USBTest/default"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

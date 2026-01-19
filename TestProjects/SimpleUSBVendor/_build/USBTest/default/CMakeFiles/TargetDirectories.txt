@@ -1,0 +1,5 @@
+D:/MV_PIC32CZ_Git/TestProjects/_build/USBTest/default/CMakeFiles/USBTest_default_default_XC32_compile.dir
+D:/MV_PIC32CZ_Git/TestProjects/_build/USBTest/default/CMakeFiles/USBTest_default_image_bRE6iwhd.dir
+D:/MV_PIC32CZ_Git/TestProjects/_build/USBTest/default/CMakeFiles/USBTest_default_Bin2Hex.dir
+D:/MV_PIC32CZ_Git/TestProjects/_build/USBTest/default/CMakeFiles/edit_cache.dir
+D:/MV_PIC32CZ_Git/TestProjects/_build/USBTest/default/CMakeFiles/rebuild_cache.dir

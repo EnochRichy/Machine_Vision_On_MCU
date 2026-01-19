@@ -1,0 +1,1497 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "default.elf"
+		}
+	],
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"include",
+			"target_link_options",
+			"ML_OV7670_GFX_default_link_rule",
+			"target_compile_definitions"
+		],
+		"files" : 
+		[
+			".generated/main.cmake",
+			"CMakeLists.txt",
+			".generated/rule.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 57,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 69,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 112,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 113,
+				"parent" : 4
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "ML_OV7670_GFX_default_default_XC32_compile::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ML_OV7670_GFX_default_image__ItcDl0N::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"backtrace" : 5,
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-mprocessor=32CZ8110CA90208",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-mno-device-startup-code",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-Wl,--defsym=__MPLAB_BUILD=1,--script=D:/MV_PIC32CZ_Git/CameraToUSB_Stream/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/config/default/PIC32CZ8110CA90208.ld,--defsym=__MPLAB_DEBUG=1,--defsym=__DEBUG=1,--defsym=_min_heap_size=512,--gc-sections,-Map=mem.map,--report-mem,-DVECTOR_REGION=boot_rom,--memorysummary,memoryfile.xml",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-mdfp=C:/Users/I41645/.mchp_packs/Microchip/PIC32CZ-CA90_DFP/1.7.168/CA90",
+				"role" : "flags"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "ML_OV7670_GFX_default_image__ItcDl0N",
+	"nameOnDisk" : "default.elf",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Object Libraries",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				186,
+				187,
+				188,
+				189,
+				190,
+				191,
+				192,
+				193,
+				194,
+				195
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/app.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/driver/input/drv_maxtouch.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/driver/usb/usbhs/src/drv_usbhs.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/driver/usb/usbhs/src/drv_usbhs_device.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/exceptions.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/driver/controller/lcc/drv_gfx_lcc.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/driver/gfx_driver.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/common/legato_color.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/common/legato_color_blend.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/common/legato_color_convert.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/common/legato_color_lerp.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/common/legato_color_value.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/common/legato_error.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/common/legato_math.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/common/legato_pixelbuffer.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/common/legato_rect.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/common/legato_utils.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/core/legato_event.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/core/legato_input.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/core/legato_real_i16.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/core/legato_real_u8.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/core/legato_scheme.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/core/legato_state.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/core/legato_stream.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/datastructure/legato_array.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/datastructure/legato_list.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/datastructure/legato_rectarray.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/font/legato_font.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/font/legato_rasterfont_liberationmono1.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/font/legato_rasterfont_liberationmono8.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/font/legato_rasterfont_stream.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/generated/font/le_gen_fonts.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/generated/image/le_gen_images.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_globalpalette.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_harmony.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_init.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_scheme.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/generated/le_gen_stringtable.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/generated/screen/le_gen_screen_Screen0.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/jpeg/jidctint.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/jpeg/legato_imagedecoder_jpeg.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/image/jpeg/legato_imagedecoder_jpeg_common.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/legato_image.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/legato_image_utils.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/legato_palette.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/mono/legato_imagedecoder_mono.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/image/mono/legato_imagedecoder_mono_read_internal.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/image/mono/legato_imagedecoder_mono_read_stream.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/png/legato_imagedecoder_png.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/png/lodepng.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_blend.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_convert.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_mask.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_palette_internal.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_palette_stream.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_read_internal.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_read_stream_color.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_read_stream_index.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_read_stream_rlecolor.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_read_stream_rleindex.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_rotate.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_scale.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_setup.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/image/raw/legato_imagedecoder_raw_write.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/memory/legato_fixedheap.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/memory/legato_memory.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/memory/legato_variableheap.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_draw.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_draw_arc.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_draw_line.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_draw_rect.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_gpu.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/renderer/legato_renderer.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/string/legato_dynamicstring.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/string/legato_fixedstring.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/string/legato_string.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/string/legato_string_renderer.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/string/legato_string_renderer_stream.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/string/legato_stringtable.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/string/legato_stringutils.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/string/legato_tablestring.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_aa.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_aabb.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_linef.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_obb.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_plane.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_point.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_rectf.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector2.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_arc_fill.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_arc_stroke.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_convexpoly_fill.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_hline.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_kernel.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_line.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_point.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_rect_fill.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_rect_stroke.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/vector/legato_vector_vline.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/arc/legato_widget_arc.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/arc/legato_widget_arc_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/bargraph/legato_widget_bar_graph.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/bargraph/legato_widget_bar_graph_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/button/legato_widget_button.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/button/legato_widget_button_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/checkbox/legato_widget_checkbox.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/checkbox/legato_widget_checkbox_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/circle/legato_widget_circle.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/circle/legato_widget_circle_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/37d86e79a2196d9eccf03f531fb78f88/default/gfx/legato/widget/circulargauge/legato_widget_circular_gauge_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/circularslider/legato_widget_circular_slider.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/37d86e79a2196d9eccf03f531fb78f88/default/gfx/legato/widget/circularslider/legato_widget_circular_slider_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/drawsurface/legato_widget_drawsurface.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/drawsurface/legato_widget_drawsurface_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/gradient/legato_widget_gradient.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/gradient/legato_widget_gradient_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/groupbox/legato_widget_groupbox.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/groupbox/legato_widget_groupbox_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/image/legato_widget_image.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/image/legato_widget_image_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/imagerotate/legato_widget_imagerotate.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/imagerotate/legato_widget_imagerotate_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/imagescale/legato_widget_imagescale.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/imagescale/legato_widget_imagescale_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/imagesequence/legato_widget_imagesequence.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/658f6f2f4c9a23f323b494564d6444f8/config/default/gfx/legato/widget/imagesequence/legato_widget_imagesequence_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/keypad/legato_widget_keypad.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/keypad/legato_widget_keypad_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/label/legato_widget_label.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/label/legato_widget_label_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/legato_editwidget.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/legato_widget.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/legato_widget_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/legato_widget_skin_classic_common.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/line/legato_widget_line.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/line/legato_widget_line_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/linegraph/legato_widget_line_graph.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/linegraph/legato_widget_line_graph_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/list/legato_widget_list.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/list/legato_widget_list_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/listwheel/legato_widget_listwheel.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/listwheel/legato_widget_listwheel_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/piechart/legato_widget_pie_chart.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/piechart/legato_widget_pie_chart_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/progressbar/legato_widget_progressbar.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/progressbar/legato_widget_progressbar_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/radialmenu/legato_widget_radial_menu.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/radialmenu/legato_widget_radial_menu_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/radialmenu/legato_widget_radial_menu_state.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/radiobutton/legato_radiobutton_group.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/radiobutton/legato_widget_radiobutton.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/radiobutton/legato_widget_radiobutton_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/rectangle/legato_widget_rectangle.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/rectangle/legato_widget_rectangle_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/scrollbar/legato_widget_scrollbar.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/scrollbar/legato_widget_scrollbar_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/slider/legato_widget_slider.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/slider/legato_widget_slider_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/textfield/legato_widget_textfield.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/textfield/legato_widget_textfield_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/gfx/legato/widget/touchtest/legato_widget_touchtest.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/touchtest/legato_widget_touchtest_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/gfx/legato/widget/window/legato_widget_window.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/cefc60a9049958244725a771c8d073a3/src/config/default/gfx/legato/widget/window/legato_widget_window_skin_classic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/initialization.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/interrupts.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/libc_syscalls.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/peripheral/clock/plib_clock.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/peripheral/dma/plib_dma.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/peripheral/ebi/plib_ebi.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/peripheral/eic/plib_eic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/peripheral/evsys/plib_evsys.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/peripheral/nvic/plib_nvic.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/peripheral/port/plib_port.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/peripheral/rtc/plib_rtc_timer.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/peripheral/sercom/i2c_master/plib_sercom0_i2c_master.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/afdf58d526796cb9b3df8536effcd3de/My_MCC_Config/src/config/default/peripheral/sercom/i2c_master/plib_sercom5_i2c_master.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/peripheral/sercom/usart/plib_sercom4_usart.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc0.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc1.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc9.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/startup_xc32.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/stdio/xc32_monitor.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/system/cache/sys_cache.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/system/input/sys_input.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/system/input/sys_input_listener.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/system/int/src/sys_int.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/system/time/src/sys_time.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/tasks.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/usb/src/usb_device.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/usb/src/usb_device_endpoint_functions.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/config/default/usb_device_init_data_0.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/CameraToUSB_Stream/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/CameraToUSB_Stream/My_MCC_Config/src/main.c.o",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

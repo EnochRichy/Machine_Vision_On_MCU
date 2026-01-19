@@ -1,0 +1,18 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Launch ML_OV7670_GFX: default",
+            "type": "mplab-core-da",
+            "request": "launch",
+            "project": "ML_OV7670_GFX",
+            "configuration": "default",
+            "stopOnEntry": true,
+            "program": "D:\\MV_PIC32CZ_Git\\TestProjects\\GestureRecognition\\out\\ML_OV7670_GFX\\default.elf"
+        }
+    ]
+}
