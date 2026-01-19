@@ -73,9 +73,9 @@ void TCC7_PWMInitialize(void)
 
 
     /* Configure duty cycle values */
-    TCC7_REGS->TCC_CC[0] = 120U;
+    TCC7_REGS->TCC_CC[0] = 40U;
     TCC7_REGS->TCC_CC[1] = 0U;
-    TCC7_REGS->TCC_PER = 240U;
+    TCC7_REGS->TCC_PER = 100U;
 
 
 

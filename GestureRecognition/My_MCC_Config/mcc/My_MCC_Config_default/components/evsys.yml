@@ -993,4 +993,46 @@ data:
           type: Dynamic
         type: Values
       type: Boolean
+    INTERRUPT_ACTIVE:
+      attributes:
+        id: INTERRUPT_ACTIVE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_INTERRUPT_MODE3:
+      attributes:
+        id: EVSYS_INTERRUPT_MODE3
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_CHANNEL_3_PATH:
+      attributes:
+        id: EVSYS_CHANNEL_3_PATH
+      children:
+      - children:
+        - attributes:
+            value: '1'
+          type: User
+        type: Values
+      type: KeyValueSet
+    EVSYS_CHANNEL_2_EDGE:
+      attributes:
+        id: EVSYS_CHANNEL_2_EDGE
+      children:
+      - children:
+        - attributes:
+            value: '1'
+          type: User
+        type: Values
+      type: KeyValueSet
   userData: {}

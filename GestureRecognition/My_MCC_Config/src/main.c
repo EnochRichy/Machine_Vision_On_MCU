@@ -50,7 +50,13 @@
 #define PIN_D    (1u << 12)
 #define PIN_E    (1u << 13)
 
-#define BCM_BITS        3       // 3-bit BCM = 8 grayscale levels
+#define BCM_BITS        5       // 5-bit BCM = 32 grayscale levels
+#define BCM_BASE_TIME   70   // tune this experimentally
+
+
+// Limit total brightness (tune 48–56)
+#define WHITE_LIMIT 50
+
 #define PANEL_WIDTH     64
 #define PANEL_HEIGHT    64
 #define ROW_PAIRS       32       // HUB75 scans row pairs
@@ -76,6 +82,25 @@ uint8_t buffer_B[PANEL_HEIGHT][PANEL_WIDTH];
 
 uint8_t hub75_dma_buf[DMA_BUF_SIZE];
 
+static const uint8_t gamma5[32] = {
+    0,0,0,0,1,1,2,3,
+    4,5,7,9,11,13,15,17,
+    19,21,23,25,27,28,29,30,
+    31,31,31,31,31,31,31,31
+};
+
+
+static const uint8_t gamma5_boosted[32] = {
+    0,0,0,0,0,1,1,2,
+    3,4,6,8,10,12,14,16,
+    18,20,22,24,26,27,28,29,
+    30,30,31,31,31,31,31,31
+};
+
+
+static const uint16_t bcm_time[5] = {
+    1, 2, 4, 8, 12   
+};
 
 /* Macro definitions */
 
@@ -256,24 +281,51 @@ void ov7670_set_rgb565_QQVGA_Working(void)
 }
 
 
-static inline uint8_t hub75_pixel_to_gpio(
-    uint8_t g_top,
-    uint8_t g_bot,
+static inline uint8_t hub75_pixel_to_gpio_rgb(
+    uint8_t r_top, uint8_t g_top, uint8_t b_top,
+    uint8_t r_bot, uint8_t g_bot, uint8_t b_bot,
     uint8_t bit)
 {
     uint8_t out = 0;
-    uint8_t mask = (1u << bit);
 
-    if (g_top & mask) {
-        out |= PIN_R1 | PIN_G1 | PIN_B1;
-    }
+    if (r_top & (1u << bit)) out |= PIN_R1;
+    if (g_top & (1u << bit)) out |= PIN_G1;
+    if (b_top & (1u << bit)) out |= PIN_B1;
 
-    if (g_bot & mask) {
-        out |= PIN_R2 | PIN_G2 | PIN_B2;
-    }
+    if (r_bot & (1u << bit)) out |= PIN_R2;
+    if (g_bot & (1u << bit)) out |= PIN_G2;
+    if (b_bot & (1u << bit)) out |= PIN_B2;
 
     return out;
 }
+
+void rgb_to_hub75_dma(uint8_t *dma_buf)
+{
+    uint32_t idx = 0;
+
+    for (uint8_t bit = 0; bit < BCM_BITS; bit++) {
+        for (uint8_t row = 0; row < ROW_PAIRS; row++) {
+
+            uint8_t *r_top = buffer_R[row];
+            uint8_t *g_top = buffer_G[row];
+            uint8_t *b_top = buffer_B[row];
+
+            uint8_t *r_bot = buffer_R[row + 32];
+            uint8_t *g_bot = buffer_G[row + 32];
+            uint8_t *b_bot = buffer_B[row + 32];
+
+            for (uint8_t x = 0; x < PANEL_WIDTH; x++) {
+                dma_buf[idx++] =
+                    hub75_pixel_to_gpio_rgb(
+                        r_top[x], g_top[x], b_top[x],
+                        r_bot[x], g_bot[x], b_bot[x],
+                        bit
+                    );
+            }
+        }
+    }
+}
+
 
 
 void greyscale_to_hub75_dma(
@@ -360,12 +412,45 @@ void rgb565_to_gray64(void)
             g <<= 2;
             b <<= 3;
 
+           
             // grayscale Y = 0.299R + 0.587G + 0.114B
             // MCU-optimized formula:
             uint8_t y = (r*30 + g*59 + b*11) / 100;
 
             greyscale_img[dy * DST_W + dx] = y;
             ml_input_ready = true;
+
+            //  if (r < 2) r = 0;
+            // if (g < 2) g = 0;
+            // if (b < 2) b = 0;
+
+             r = (p >> 11) & 0x1F;        // 5-bit (0–31)
+             g = (p >> 6)  & 0x1F;        // 6-bit → 5-bit
+             b =  p        & 0x1F;        // 5-bit
+
+
+            // Scale in 6-bit space to avoid overflow
+            r = (r * 36) >> 5;   // ~1.06x
+            g = (g * 28) >> 5;   // ~0.81x
+            b = (b * 40) >> 5;   // ~1.19x
+
+            if (r > 31) r = 31;
+            if (g > 31) g = 31;
+            if (b > 31) b = 31;
+
+
+
+            buffer_R[dy][dx] = gamma5[r];
+            buffer_G[dy][dx] = gamma5[g];
+            buffer_B[dy][dx] = gamma5[b];
+
+
+
+            /* Reduce directly to 3-bit BCM */
+            // buffer_R[dy][dx] = r;   // 5 → 3 bits
+            // buffer_G[dy][dx] = g >> 1;   // 6 → 3 bits
+            // buffer_B[dy][dx] = b;   // 5 → 3 bits
+
         }
     }
 }
@@ -378,7 +463,8 @@ void DMA_LED_ROW_Complete_cb(DMA_TRANSFER_EVENT event, uintptr_t context)
 
     if (event == DMA_TRANSFER_EVENT_BLOCK_TRANSFER_COMPLETE) {
 
-            uint32_t on_time = (1 << bit) * 200; 
+            uint32_t on_time = bcm_time[bit] * BCM_BASE_TIME;
+
             set_row(row);
             
             LED_PANEL_LAT_Set();
@@ -457,7 +543,9 @@ int main ( void )
             frame_ready = false;
             rgb565_to_gray64();
 
-            greyscale_to_hub75_dma(greyscale_img, hub75_dma_buf);
+            rgb_to_hub75_dma(hub75_dma_buf);
+
+            //greyscale_to_hub75_dma(greyscale_img, hub75_dma_buf);
             legato_showScreen(screenID_Screen0);
             // If sending via other DMA (to LCD), ensure caches are cleaned
             DCACHE_CLEAN_BY_ADDR((uint32_t *)panda_scaled_data, FRAME_BYTES);

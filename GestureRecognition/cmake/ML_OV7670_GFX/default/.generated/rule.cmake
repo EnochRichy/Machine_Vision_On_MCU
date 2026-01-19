@@ -117,7 +117,7 @@ function(ML_OV7670_GFX_default_link_rule target)
         "${DEBUGGER_NAME_AS_MACRO}"
         "-mprocessor=32CZ8110CA90208"
         "-mno-device-startup-code"
-        "-Wl,--defsym=__MPLAB_BUILD=1${MP_EXTRA_LD_POST},--script=${ML_OV7670_GFX_default_LINKER_SCRIPT},--defsym=__MPLAB_DEBUG=1,--defsym=__DEBUG=1,--defsym=_min_heap_size=512,--gc-sections,-Map=mem.map,--report-mem,-DVECTOR_REGION=boot_rom,--memorysummary,memoryfile.xml"
+        "-Wl,--defsym=__MPLAB_BUILD=1${MP_EXTRA_LD_POST},--script=${ML_OV7670_GFX_default_LINKER_SCRIPT},--defsym=__MPLAB_DEBUG=1,--defsym=__DEBUG=1,--defsym=_min_heap_size=0,--gc-sections,-Map=mem.map,--report-mem,-DVECTOR_REGION=boot_rom,--memorysummary,memoryfile.xml"
         "-mdfp=${PACK_REPO_PATH}/Microchip/PIC32CZ-CA90_DFP/1.7.168/CA90")
     list(REMOVE_ITEM options "")
     target_link_options(${target} PRIVATE "${options}")

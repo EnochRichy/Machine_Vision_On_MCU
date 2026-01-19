@@ -71,7 +71,7 @@
                     "My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include",
                     "My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP"
                 ],
-                "linker.heap-size": "512",
+                "linker.heap-size": "0",
                 "linker.remove-unused-sections": true,
                 "linker.no-device-startup-code": "true",
                 "linker.preprocessor-macros": [

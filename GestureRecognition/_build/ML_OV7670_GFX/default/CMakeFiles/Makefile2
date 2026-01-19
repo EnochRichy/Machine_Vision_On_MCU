@@ -54,10 +54,10 @@ RM = "C:/Program Files/CMake/bin/cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default
+CMAKE_SOURCE_DIR = D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default
+CMAKE_BINARY_DIR = D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -65,14 +65,14 @@ CMAKE_BINARY_DIR = D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_O
 # The main recursive "all" target.
 all: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/all
 all: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/all
-all: CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/all
+all: CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/all
 all: CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/all
 .PHONY : all
 
 # The main recursive "codegen" target.
 codegen: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/codegen
 codegen: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/codegen
-codegen: CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/codegen
+codegen: CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/codegen
 codegen: CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/codegen
 .PHONY : codegen
 
@@ -83,7 +83,7 @@ preinstall:
 # The main recursive "clean" target.
 clean: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/clean
 clean: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/clean
-clean: CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/clean
+clean: CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/clean
 clean: CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/clean
 .PHONY : clean
 
@@ -94,14 +94,14 @@ clean: CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/clean
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60 "Built target ML_OV7670_GFX_default_default_XC32_compile"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60 "Built target ML_OV7670_GFX_default_default_XC32_compile"
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 60
+	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 60
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 0
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/rule
 
 # Convenience name for target.
@@ -111,7 +111,7 @@ ML_OV7670_GFX_default_default_XC32_compile: CMakeFiles/ML_OV7670_GFX_default_def
 # codegen rule for target.
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60 "Finished codegen for target ML_OV7670_GFX_default_default_XC32_compile"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60 "Finished codegen for target ML_OV7670_GFX_default_default_XC32_compile"
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/codegen
 
 # clean rule for target.
@@ -126,14 +126,14 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/clean:
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99 "Built target ML_OV7670_GFX_default_default_XC32_compile_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99 "Built target ML_OV7670_GFX_default_default_XC32_compile_cpp"
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 39
+	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 39
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 0
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/rule
 
 # Convenience name for target.
@@ -143,7 +143,7 @@ ML_OV7670_GFX_default_default_XC32_compile_cpp: CMakeFiles/ML_OV7670_GFX_default
 # codegen rule for target.
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99 "Finished codegen for target ML_OV7670_GFX_default_default_XC32_compile_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99 "Finished codegen for target ML_OV7670_GFX_default_default_XC32_compile_cpp"
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/codegen
 
 # clean rule for target.
@@ -152,53 +152,53 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/clean:
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir
+# Target rules for target CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir
 
 # All Build rule for target.
-CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/all: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/all
-CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/all: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/all
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/build.make CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/build.make CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=100 "Built target ML_OV7670_GFX_default_image_kXfU1mUW"
-.PHONY : CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/all
+CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/all: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/all
+CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/all: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/build.make CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/build.make CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=100 "Built target ML_OV7670_GFX_default_image_EhacTyBv"
+.PHONY : CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 100
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 0
-.PHONY : CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/rule
+CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 100
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 0
+.PHONY : CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/rule
 
 # Convenience name for target.
-ML_OV7670_GFX_default_image_kXfU1mUW: CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/rule
-.PHONY : ML_OV7670_GFX_default_image_kXfU1mUW
+ML_OV7670_GFX_default_image_EhacTyBv: CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/rule
+.PHONY : ML_OV7670_GFX_default_image_EhacTyBv
 
 # codegen rule for target.
-CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/build.make CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=100 "Finished codegen for target ML_OV7670_GFX_default_image_kXfU1mUW"
-.PHONY : CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/codegen
+CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/build.make CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=100 "Finished codegen for target ML_OV7670_GFX_default_image_EhacTyBv"
+.PHONY : CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/codegen
 
 # clean rule for target.
-CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/build.make CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/clean
-.PHONY : CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/clean
+CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/build.make CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/clean
+.PHONY : CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir
 
 # All Build rule for target.
-CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/all: CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/all
+CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/all: CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/build.make CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/build.make CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num= "Built target ML_OV7670_GFX_default_Bin2Hex"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num= "Built target ML_OV7670_GFX_default_Bin2Hex"
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 100
+	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 100
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles 0
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/rule
 
 # Convenience name for target.
@@ -206,9 +206,9 @@ ML_OV7670_GFX_default_Bin2Hex: CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/rule
 .PHONY : ML_OV7670_GFX_default_Bin2Hex
 
 # codegen rule for target.
-CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/codegen: CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/all
+CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/codegen: CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/build.make CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num= "Finished codegen for target ML_OV7670_GFX_default_Bin2Hex"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num= "Finished codegen for target ML_OV7670_GFX_default_Bin2Hex"
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/codegen
 
 # clean rule for target.

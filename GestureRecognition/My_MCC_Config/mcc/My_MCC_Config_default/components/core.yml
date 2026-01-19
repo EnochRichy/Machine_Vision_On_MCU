@@ -11071,6 +11071,930 @@ data:
           type: User
         type: Values
       type: Boolean
+    EVSYS_0_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: EVSYS_0_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_43_0_ENABLE:
+      attributes:
+        id: NVIC_43_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_0_INTERRUPT_ENABLE:
+      attributes:
+        id: EVSYS_0_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_43_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_43_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_0_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: EVSYS_0_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_43_0_HANDLER:
+      attributes:
+        id: NVIC_43_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: EVSYS_0_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_0_INTERRUPT_HANDLER:
+      attributes:
+        id: EVSYS_0_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: EVSYS_0_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_1_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: EVSYS_1_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_44_0_ENABLE:
+      attributes:
+        id: NVIC_44_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_1_INTERRUPT_ENABLE:
+      attributes:
+        id: EVSYS_1_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_44_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_44_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_1_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: EVSYS_1_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_44_0_HANDLER:
+      attributes:
+        id: NVIC_44_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: EVSYS_1_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_1_INTERRUPT_HANDLER:
+      attributes:
+        id: EVSYS_1_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: EVSYS_1_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_2_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: EVSYS_2_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_45_0_ENABLE:
+      attributes:
+        id: NVIC_45_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_2_INTERRUPT_ENABLE:
+      attributes:
+        id: EVSYS_2_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_45_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_45_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_2_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: EVSYS_2_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_45_0_HANDLER:
+      attributes:
+        id: NVIC_45_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: EVSYS_2_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_2_INTERRUPT_HANDLER:
+      attributes:
+        id: EVSYS_2_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: EVSYS_2_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_3_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: EVSYS_3_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_46_0_ENABLE:
+      attributes:
+        id: NVIC_46_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_3_INTERRUPT_ENABLE:
+      attributes:
+        id: EVSYS_3_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_46_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_46_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_3_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: EVSYS_3_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_46_0_HANDLER:
+      attributes:
+        id: NVIC_46_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: EVSYS_3_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_3_INTERRUPT_HANDLER:
+      attributes:
+        id: EVSYS_3_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: EVSYS_3_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_4_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: EVSYS_4_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_47_0_ENABLE:
+      attributes:
+        id: NVIC_47_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_4_INTERRUPT_ENABLE:
+      attributes:
+        id: EVSYS_4_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_47_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_47_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_4_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: EVSYS_4_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_47_0_HANDLER:
+      attributes:
+        id: NVIC_47_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: EVSYS_4_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_4_INTERRUPT_HANDLER:
+      attributes:
+        id: EVSYS_4_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: EVSYS_4_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_5_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: EVSYS_5_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_48_0_ENABLE:
+      attributes:
+        id: NVIC_48_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_5_INTERRUPT_ENABLE:
+      attributes:
+        id: EVSYS_5_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_48_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_48_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_5_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: EVSYS_5_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_48_0_HANDLER:
+      attributes:
+        id: NVIC_48_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: EVSYS_5_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_5_INTERRUPT_HANDLER:
+      attributes:
+        id: EVSYS_5_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: EVSYS_5_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_6_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: EVSYS_6_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_49_0_ENABLE:
+      attributes:
+        id: NVIC_49_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_6_INTERRUPT_ENABLE:
+      attributes:
+        id: EVSYS_6_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_49_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_49_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_6_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: EVSYS_6_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_49_0_HANDLER:
+      attributes:
+        id: NVIC_49_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: EVSYS_6_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_6_INTERRUPT_HANDLER:
+      attributes:
+        id: EVSYS_6_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: EVSYS_6_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_7_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: EVSYS_7_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_50_0_ENABLE:
+      attributes:
+        id: NVIC_50_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_7_INTERRUPT_ENABLE:
+      attributes:
+        id: EVSYS_7_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_50_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_50_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_7_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: EVSYS_7_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_50_0_HANDLER:
+      attributes:
+        id: NVIC_50_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: EVSYS_7_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_7_INTERRUPT_HANDLER:
+      attributes:
+        id: EVSYS_7_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: EVSYS_7_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_8_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: EVSYS_8_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_51_0_ENABLE:
+      attributes:
+        id: NVIC_51_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_8_INTERRUPT_ENABLE:
+      attributes:
+        id: EVSYS_8_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_51_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_51_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_8_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: EVSYS_8_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_51_0_HANDLER:
+      attributes:
+        id: NVIC_51_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: EVSYS_8_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_8_INTERRUPT_HANDLER:
+      attributes:
+        id: EVSYS_8_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: EVSYS_8_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_9_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: EVSYS_9_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_52_0_ENABLE:
+      attributes:
+        id: NVIC_52_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_9_INTERRUPT_ENABLE:
+      attributes:
+        id: EVSYS_9_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_52_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_52_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_9_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: EVSYS_9_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_52_0_HANDLER:
+      attributes:
+        id: NVIC_52_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: EVSYS_9_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_9_INTERRUPT_HANDLER:
+      attributes:
+        id: EVSYS_9_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: EVSYS_9_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_10_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: EVSYS_10_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_53_0_ENABLE:
+      attributes:
+        id: NVIC_53_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_10_INTERRUPT_ENABLE:
+      attributes:
+        id: EVSYS_10_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_53_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_53_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_10_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: EVSYS_10_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_53_0_HANDLER:
+      attributes:
+        id: NVIC_53_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: EVSYS_10_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_10_INTERRUPT_HANDLER:
+      attributes:
+        id: EVSYS_10_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: EVSYS_10_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_11_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: EVSYS_11_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_54_0_ENABLE:
+      attributes:
+        id: NVIC_54_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_11_INTERRUPT_ENABLE:
+      attributes:
+        id: EVSYS_11_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_54_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_54_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_11_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: EVSYS_11_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_54_0_HANDLER:
+      attributes:
+        id: NVIC_54_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: EVSYS_11_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    EVSYS_11_INTERRUPT_HANDLER:
+      attributes:
+        id: EVSYS_11_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: EVSYS_11_Handler
+          type: Dynamic
+        type: Values
+      type: String
   userData:
     children:
     - attributes:
