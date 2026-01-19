@@ -48,7 +48,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '2'
+            value: '3'
           type: Dynamic
         type: Values
       type: Integer
@@ -1261,7 +1261,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '0x6e00000'
+            value: '0x1ee00000'
           type: Dynamic
         type: Values
       type: String
@@ -2513,7 +2513,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '0x0'
+            value: '0x3f000000'
           type: Dynamic
         type: Values
       type: String
@@ -3766,7 +3766,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '0x30'
+            value: '0xef0'
           type: Dynamic
         type: Values
       type: String
@@ -3942,7 +3942,7 @@ data:
       children:
       - children:
         - attributes:
-            value: ''
+            value: Out
           type: User
         type: Values
       type: String
@@ -3953,7 +3953,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '0x0'
+            value: '0x2'
           type: Dynamic
         type: Values
       type: String
@@ -3964,7 +3964,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: 'false'
+            value: 'true'
           type: Dynamic
         type: Values
       type: Boolean
@@ -3984,7 +3984,7 @@ data:
       children:
       - children:
         - attributes:
-            value: ''
+            value: 'True'
           type: User
         type: Values
       type: String
@@ -4455,7 +4455,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '0x4080'
+            value: '0x406080'
           type: Dynamic
         type: Values
       type: String
@@ -5000,7 +5000,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '0x0'
+            value: '0x2'
           type: Dynamic
         type: Values
       type: String
@@ -5011,7 +5011,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: 'false'
+            value: 'true'
           type: Dynamic
         type: Values
       type: Boolean
@@ -5043,7 +5043,7 @@ data:
       children:
       - children:
         - attributes:
-            value: ''
+            value: GPIO
           type: User
         type: Values
       type: String
@@ -6713,7 +6713,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: 'false'
+            value: 'true'
           type: Dynamic
         type: Values
       type: Boolean
@@ -6745,7 +6745,7 @@ data:
       children:
       - children:
         - attributes:
-            value: ''
+            value: GPIO
           type: User
         type: Values
       type: String
@@ -6981,7 +6981,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '0x0'
+            value: '0x1'
           type: Dynamic
         type: Values
       type: String
@@ -6992,7 +6992,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: 'false'
+            value: 'true'
           type: Dynamic
         type: Values
       type: Boolean
@@ -7003,7 +7003,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '0x0'
+            value: '0x5'
           type: Dynamic
         type: Values
       type: String
@@ -7024,7 +7024,7 @@ data:
       children:
       - children:
         - attributes:
-            value: ''
+            value: F
           type: User
         type: Values
       type: String
@@ -7035,7 +7035,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '0x0'
+            value: '0x2'
           type: Dynamic
         type: Values
       type: String
@@ -7046,7 +7046,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: 'false'
+            value: 'true'
           type: Dynamic
         type: Values
       type: Boolean
@@ -7067,7 +7067,7 @@ data:
       children:
       - children:
         - attributes:
-            value: ''
+            value: GPIO
           type: User
         type: Values
       type: String
@@ -8536,6 +8536,9 @@ data:
             id: le_gfx_driver_lcc
             value: '1'
           type: Dynamic
+        - attributes:
+            value: '1'
+          type: User
         type: Values
       type: KeyValueSet
     DMA_CHCTRLB_WAS_CH_0:
@@ -8558,6 +8561,9 @@ data:
             id: le_gfx_driver_lcc
             value: '2'
           type: Dynamic
+        - attributes:
+            value: '2'
+          type: User
         type: Values
       type: Integer
     DMA_CHCTRLB_TRIG_CH_0:
@@ -9001,7 +9007,7 @@ data:
       - children:
         - attributes:
             id: core
-            value: '0x8e'
+            value: '0x8d8e'
           type: Dynamic
         type: Values
       type: String
@@ -9338,6 +9344,1733 @@ data:
           type: User
         type: Values
       type: String
+    PORT_GROUP_0_PINCFG0:
+      attributes:
+        id: PORT_GROUP_0_PINCFG0
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x0'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_0_PIN_0_USED:
+      attributes:
+        id: PORT_GROUP_0_PIN_0_USED
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PORT_GROUP_0_PMUX0:
+      attributes:
+        id: PORT_GROUP_0_PMUX0
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x0'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_0_PAD_0:
+      attributes:
+        id: PORT_GROUP_0_PAD_0
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PA00
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_55_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_55_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_0_PINCFG23:
+      attributes:
+        id: PORT_GROUP_0_PINCFG23
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x0'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_0_PIN_23_USED:
+      attributes:
+        id: PORT_GROUP_0_PIN_23_USED
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PORT_GROUP_0_PAD_23:
+      attributes:
+        id: PORT_GROUP_0_PAD_23
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PA23
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_67_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_67_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    TCC7_CLOCK_FREQUENCY:
+      attributes:
+        id: TCC7_CLOCK_FREQUENCY
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '300000000'
+          type: Dynamic
+        type: Values
+      type: Integer
+    GCLK_ID_38_FREQ:
+      attributes:
+        id: GCLK_ID_38_FREQ
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '300000000'
+          type: Dynamic
+        type: Values
+      type: Integer
+    GCLK_ID_38_CHEN:
+      attributes:
+        id: GCLK_ID_38_CHEN
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    TCC7_CLOCK_ENABLE:
+      attributes:
+        id: TCC7_CLOCK_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: tcc7
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PIN_69_MODE:
+      attributes:
+        id: PIN_69_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_69_FUNCTION_TYPE:
+      attributes:
+        id: PIN_69_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: TCC7_WO0
+          type: User
+        type: Values
+      type: String
+    PIN_47_MODE:
+      attributes:
+        id: PIN_47_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_47_FUNCTION_TYPE:
+      attributes:
+        id: PIN_47_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_3_PINCFG24:
+      attributes:
+        id: PORT_GROUP_3_PINCFG24
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x2'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_3_PIN_24_USED:
+      attributes:
+        id: PORT_GROUP_3_PIN_24_USED
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PIN_47_INEN:
+      attributes:
+        id: PIN_47_INEN
+      children:
+      - children:
+        - attributes:
+            value: 'True'
+          type: User
+        type: Values
+      type: String
+    PIN_47_DIR:
+      attributes:
+        id: PIN_47_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_3_PMUX12:
+      attributes:
+        id: PORT_GROUP_3_PMUX12
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x0'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_3_PAD_24:
+      attributes:
+        id: PORT_GROUP_3_PAD_24
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PD24
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_47_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_47_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_47_FUNCTION_NAME:
+      attributes:
+        id: PIN_47_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_R1
+          type: User
+        type: Values
+      type: String
+    PIN_41_MODE:
+      attributes:
+        id: PIN_41_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_41_FUNCTION_TYPE:
+      attributes:
+        id: PIN_41_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_3_PINCFG25:
+      attributes:
+        id: PORT_GROUP_3_PINCFG25
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x2'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_3_PIN_25_USED:
+      attributes:
+        id: PORT_GROUP_3_PIN_25_USED
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PIN_41_INEN:
+      attributes:
+        id: PIN_41_INEN
+      children:
+      - children:
+        - attributes:
+            value: 'True'
+          type: User
+        type: Values
+      type: String
+    PIN_41_DIR:
+      attributes:
+        id: PIN_41_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_3_PAD_25:
+      attributes:
+        id: PORT_GROUP_3_PAD_25
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PD25
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_41_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_41_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_41_FUNCTION_NAME:
+      attributes:
+        id: PIN_41_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_G1
+          type: User
+        type: Values
+      type: String
+    PIN_25_MODE:
+      attributes:
+        id: PIN_25_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_25_FUNCTION_TYPE:
+      attributes:
+        id: PIN_25_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_3_PINCFG26:
+      attributes:
+        id: PORT_GROUP_3_PINCFG26
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x2'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_3_PIN_26_USED:
+      attributes:
+        id: PORT_GROUP_3_PIN_26_USED
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PIN_25_INEN:
+      attributes:
+        id: PIN_25_INEN
+      children:
+      - children:
+        - attributes:
+            value: 'True'
+          type: User
+        type: Values
+      type: String
+    PIN_25_DIR:
+      attributes:
+        id: PIN_25_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_3_PMUX13:
+      attributes:
+        id: PORT_GROUP_3_PMUX13
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x0'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_3_PAD_26:
+      attributes:
+        id: PORT_GROUP_3_PAD_26
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PD26
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_25_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_25_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_25_FUNCTION_NAME:
+      attributes:
+        id: PIN_25_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_B1
+          type: User
+        type: Values
+      type: String
+    PIN_7_MODE:
+      attributes:
+        id: PIN_7_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_7_FUNCTION_TYPE:
+      attributes:
+        id: PIN_7_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_3_PINCFG27:
+      attributes:
+        id: PORT_GROUP_3_PINCFG27
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x2'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_3_PIN_27_USED:
+      attributes:
+        id: PORT_GROUP_3_PIN_27_USED
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PIN_7_INEN:
+      attributes:
+        id: PIN_7_INEN
+      children:
+      - children:
+        - attributes:
+            value: 'True'
+          type: User
+        type: Values
+      type: String
+    PIN_7_DIR:
+      attributes:
+        id: PIN_7_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_3_PAD_27:
+      attributes:
+        id: PORT_GROUP_3_PAD_27
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PD27
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_7_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_7_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_7_FUNCTION_NAME:
+      attributes:
+        id: PIN_7_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_R2
+          type: User
+        type: Values
+      type: String
+    PIN_24_MODE:
+      attributes:
+        id: PIN_24_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_24_FUNCTION_TYPE:
+      attributes:
+        id: PIN_24_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_3_PINCFG28:
+      attributes:
+        id: PORT_GROUP_3_PINCFG28
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x2'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_3_PIN_28_USED:
+      attributes:
+        id: PORT_GROUP_3_PIN_28_USED
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PIN_24_INEN:
+      attributes:
+        id: PIN_24_INEN
+      children:
+      - children:
+        - attributes:
+            value: 'True'
+          type: User
+        type: Values
+      type: String
+    PIN_24_DIR:
+      attributes:
+        id: PIN_24_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_3_PMUX14:
+      attributes:
+        id: PORT_GROUP_3_PMUX14
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x0'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_3_PAD_28:
+      attributes:
+        id: PORT_GROUP_3_PAD_28
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PD28
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_24_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_24_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_24_FUNCTION_NAME:
+      attributes:
+        id: PIN_24_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_G2
+          type: User
+        type: Values
+      type: String
+    PIN_45_MODE:
+      attributes:
+        id: PIN_45_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_45_FUNCTION_TYPE:
+      attributes:
+        id: PIN_45_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_3_PINCFG29:
+      attributes:
+        id: PORT_GROUP_3_PINCFG29
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x2'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_3_PIN_29_USED:
+      attributes:
+        id: PORT_GROUP_3_PIN_29_USED
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PIN_45_INEN:
+      attributes:
+        id: PIN_45_INEN
+      children:
+      - children:
+        - attributes:
+            value: 'True'
+          type: User
+        type: Values
+      type: String
+    PIN_45_DIR:
+      attributes:
+        id: PIN_45_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_3_PAD_29:
+      attributes:
+        id: PORT_GROUP_3_PAD_29
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PD29
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_45_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_45_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_45_FUNCTION_NAME:
+      attributes:
+        id: PIN_45_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_B2
+          type: User
+        type: Values
+      type: String
+    PIN_126_MODE:
+      attributes:
+        id: PIN_126_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_126_FUNCTION_TYPE:
+      attributes:
+        id: PIN_126_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_6_PINCFG6:
+      attributes:
+        id: PORT_GROUP_6_PINCFG6
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x2'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_6_PIN_6_USED:
+      attributes:
+        id: PORT_GROUP_6_PIN_6_USED
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PIN_126_INEN:
+      attributes:
+        id: PIN_126_INEN
+      children:
+      - children:
+        - attributes:
+            value: 'True'
+          type: User
+        type: Values
+      type: String
+    PIN_126_DIR:
+      attributes:
+        id: PIN_126_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_6_PMUX3:
+      attributes:
+        id: PORT_GROUP_6_PMUX3
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x0'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_6_PAD_6:
+      attributes:
+        id: PORT_GROUP_6_PAD_6
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PG06
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_126_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_126_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_126_FUNCTION_NAME:
+      attributes:
+        id: PIN_126_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_A
+          type: User
+        type: Values
+      type: String
+    PIN_125_MODE:
+      attributes:
+        id: PIN_125_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_125_FUNCTION_TYPE:
+      attributes:
+        id: PIN_125_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_6_PAD_7:
+      attributes:
+        id: PORT_GROUP_6_PAD_7
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PG07
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_125_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_125_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_125_FUNCTION_NAME:
+      attributes:
+        id: PIN_125_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_B
+          type: User
+        type: Values
+      type: String
+    PIN_113_MODE:
+      attributes:
+        id: PIN_113_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_113_FUNCTION_TYPE:
+      attributes:
+        id: PIN_113_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_6_PINCFG9:
+      attributes:
+        id: PORT_GROUP_6_PINCFG9
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x2'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_6_PIN_9_USED:
+      attributes:
+        id: PORT_GROUP_6_PIN_9_USED
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PIN_113_INEN:
+      attributes:
+        id: PIN_113_INEN
+      children:
+      - children:
+        - attributes:
+            value: 'True'
+          type: User
+        type: Values
+      type: String
+    PIN_113_DIR:
+      attributes:
+        id: PIN_113_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_6_PMUX4:
+      attributes:
+        id: PORT_GROUP_6_PMUX4
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x0'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_6_PAD_9:
+      attributes:
+        id: PORT_GROUP_6_PAD_9
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PG09
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_113_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_113_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_113_FUNCTION_NAME:
+      attributes:
+        id: PIN_113_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_C
+          type: User
+        type: Values
+      type: String
+    PIN_77_MODE:
+      attributes:
+        id: PIN_77_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_77_FUNCTION_TYPE:
+      attributes:
+        id: PIN_77_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_6_PINCFG10:
+      attributes:
+        id: PORT_GROUP_6_PINCFG10
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x2'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_6_PIN_10_USED:
+      attributes:
+        id: PORT_GROUP_6_PIN_10_USED
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PIN_77_INEN:
+      attributes:
+        id: PIN_77_INEN
+      children:
+      - children:
+        - attributes:
+            value: 'True'
+          type: User
+        type: Values
+      type: String
+    PIN_77_DIR:
+      attributes:
+        id: PIN_77_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_6_PMUX5:
+      attributes:
+        id: PORT_GROUP_6_PMUX5
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x0'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_6_PAD_10:
+      attributes:
+        id: PORT_GROUP_6_PAD_10
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PG10
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_77_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_77_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_77_FUNCTION_NAME:
+      attributes:
+        id: PIN_77_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_D
+          type: User
+        type: Values
+      type: String
+    PORT_GROUP_6_PINCFG11:
+      attributes:
+        id: PORT_GROUP_6_PINCFG11
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0x2'
+          type: Dynamic
+        type: Values
+      type: String
+    PORT_GROUP_6_PIN_11_USED:
+      attributes:
+        id: PORT_GROUP_6_PIN_11_USED
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PORT_GROUP_6_PAD_11:
+      attributes:
+        id: PORT_GROUP_6_PAD_11
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: PG11
+          type: Dynamic
+        type: Values
+      type: String
+    PIN_75_PERIPHERAL_FUNCTION:
+      attributes:
+        id: PIN_75_PERIPHERAL_FUNCTION
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_75_MODE:
+      attributes:
+        id: PIN_75_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_75_FUNCTION_TYPE:
+      attributes:
+        id: PIN_75_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_75_INEN:
+      attributes:
+        id: PIN_75_INEN
+      children:
+      - children:
+        - attributes:
+            value: 'True'
+          type: User
+        type: Values
+      type: String
+    PIN_75_DIR:
+      attributes:
+        id: PIN_75_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PIN_75_FUNCTION_NAME:
+      attributes:
+        id: PIN_75_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_E
+          type: User
+        type: Values
+      type: String
+    PIN_69_FUNCTION_NAME:
+      attributes:
+        id: PIN_69_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_201_MODE:
+      attributes:
+        id: PIN_201_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_201_FUNCTION_TYPE:
+      attributes:
+        id: PIN_201_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_201_INEN:
+      attributes:
+        id: PIN_201_INEN
+      children:
+      - children:
+        - attributes:
+            value: 'True'
+          type: User
+        type: Values
+      type: String
+    PIN_201_DIR:
+      attributes:
+        id: PIN_201_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PIN_201_FUNCTION_NAME:
+      attributes:
+        id: PIN_201_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_LAT
+          type: User
+        type: Values
+      type: String
+    PIN_185_MODE:
+      attributes:
+        id: PIN_185_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_185_FUNCTION_TYPE:
+      attributes:
+        id: PIN_185_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_185_INEN:
+      attributes:
+        id: PIN_185_INEN
+      children:
+      - children:
+        - attributes:
+            value: 'True'
+          type: User
+        type: Values
+      type: String
+    PIN_185_DIR:
+      attributes:
+        id: PIN_185_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PIN_185_FUNCTION_NAME:
+      attributes:
+        id: PIN_185_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_OE
+          type: User
+        type: Values
+      type: String
+    PIN_157_MODE:
+      attributes:
+        id: PIN_157_MODE
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_157_FUNCTION_TYPE:
+      attributes:
+        id: PIN_157_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    PIN_157_INEN:
+      attributes:
+        id: PIN_157_INEN
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_157_DIR:
+      attributes:
+        id: PIN_157_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PIN_157_FUNCTION_NAME:
+      attributes:
+        id: PIN_157_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED_PANEL_CLK
+          type: User
+        type: Values
+      type: String
+    DMA_ENABLE_CH_2:
+      attributes:
+        id: DMA_ENABLE_CH_2
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    DMA_CHCTRLB_CASTEN_CH_2:
+      attributes:
+        id: DMA_CHCTRLB_CASTEN_CH_2
+      children:
+      - children:
+        - attributes:
+            value: '0'
+          type: User
+        type: Values
+      type: KeyValueSet
+    DMA_CHXSIZ_CSZ_CH_2:
+      attributes:
+        id: DMA_CHXSIZ_CSZ_CH_2
+      children:
+      - children:
+        - attributes:
+            value: '1'
+          type: User
+        type: Values
+      type: Integer
+    DMA_CHCTRLB_WAS_CH_2:
+      attributes:
+        id: DMA_CHCTRLB_WAS_CH_2
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '3'
+          type: Dynamic
+        - attributes:
+            value: '3'
+          type: User
+        type: Values
+      type: KeyValueSet
+    DMA_LL_ENABLE:
+      attributes:
+        id: DMA_LL_ENABLE
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    DMA_ENABLE_EVSYS_OUT_2:
+      attributes:
+        id: DMA_ENABLE_EVSYS_OUT_2
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    EVSYS_2_CLOCK_FREQUENCY:
+      attributes:
+        id: EVSYS_2_CLOCK_FREQUENCY
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '150000000'
+          type: Dynamic
+        type: Values
+      type: Integer
+    GCLK_ID_8_FREQ:
+      attributes:
+        id: GCLK_ID_8_FREQ
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '150000000'
+          type: Dynamic
+        type: Values
+      type: Integer
+    GCLK_ID_8_CHEN:
+      attributes:
+        id: GCLK_ID_8_CHEN
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_2_CLOCK_ENABLE:
+      attributes:
+        id: EVSYS_2_CLOCK_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PIN_69_INEN:
+      attributes:
+        id: PIN_69_INEN
+      children:
+      - children:
+        - attributes:
+            value: ''
+          type: User
+        type: Values
+      type: String
+    PIN_69_DIR:
+      attributes:
+        id: PIN_69_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    PORT_0_EVACT1_ENABLE:
+      attributes:
+        id: PORT_0_EVACT1_ENABLE
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    PORT_0_EVACT1_ACTION:
+      attributes:
+        id: PORT_0_EVACT1_ACTION
+      children:
+      - children:
+        - attributes:
+            value: '0'
+          type: User
+        type: Values
+      type: KeyValueSet
+    PORT_0_EVACT1_PIN:
+      attributes:
+        id: PORT_0_EVACT1_PIN
+      children:
+      - children:
+        - attributes:
+            value: '13'
+          type: User
+        type: Values
+      type: KeyValueSet
+    DMA_CHCTRLB_RAS_CH_6:
+      attributes:
+        id: DMA_CHCTRLB_RAS_CH_6
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: KeyValueSet
+    DMA_CHCTRLB_WAS_CH_6:
+      attributes:
+        id: DMA_CHCTRLB_WAS_CH_6
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: KeyValueSet
+    DMA_CHCTRLB_RAS_CH_5:
+      attributes:
+        id: DMA_CHCTRLB_RAS_CH_5
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: KeyValueSet
+    DMA_CHCTRLB_WAS_CH_5:
+      attributes:
+        id: DMA_CHCTRLB_WAS_CH_5
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: KeyValueSet
+    DMA_CHCTRLB_RAS_CH_4:
+      attributes:
+        id: DMA_CHCTRLB_RAS_CH_4
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: KeyValueSet
+    DMA_CHCTRLB_WAS_CH_4:
+      attributes:
+        id: DMA_CHCTRLB_WAS_CH_4
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: KeyValueSet
+    DMA_CHCTRLB_RAS_CH_3:
+      attributes:
+        id: DMA_CHCTRLB_RAS_CH_3
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: KeyValueSet
+    DMA_CHCTRLB_WAS_CH_3:
+      attributes:
+        id: DMA_CHCTRLB_WAS_CH_3
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: KeyValueSet
+    DMA_BTCTRL_EVSYS_EVOMODE_2:
+      attributes:
+        id: DMA_BTCTRL_EVSYS_EVOMODE_2
+      children:
+      - children:
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '1'
+          type: User
+        type: Values
+      type: KeyValueSet
+    GCLK_ID_40_GENSEL:
+      attributes:
+        id: GCLK_ID_40_GENSEL
+      children:
+      - children:
+        - attributes:
+            value: '1'
+          type: User
+        type: Values
+      type: KeyValueSet
+    GCLK_ID_38_GENSEL:
+      attributes:
+        id: GCLK_ID_38_GENSEL
+      children:
+      - children:
+        - attributes:
+            value: '0'
+          type: User
+        type: Values
+      type: KeyValueSet
+    DMA_CHCTRLB_RAS_CH_2:
+      attributes:
+        id: DMA_CHCTRLB_RAS_CH_2
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0'
+          type: Dynamic
+        type: Values
+      type: KeyValueSet
+    DMA_CHCTRLB_TRIG_CH_2:
+      attributes:
+        id: DMA_CHCTRLB_TRIG_CH_2
+      children:
+      - children:
+        - attributes:
+            value: '7'
+          type: User
+        type: Values
+      type: KeyValueSet
+    EVSYS_3_CLOCK_FREQUENCY:
+      attributes:
+        id: EVSYS_3_CLOCK_FREQUENCY
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '150000000'
+          type: Dynamic
+        type: Values
+      type: Integer
+    GCLK_ID_9_FREQ:
+      attributes:
+        id: GCLK_ID_9_FREQ
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '150000000'
+          type: Dynamic
+        type: Values
+      type: Integer
+    GCLK_ID_9_CHEN:
+      attributes:
+        id: GCLK_ID_9_CHEN
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_3_CLOCK_ENABLE:
+      attributes:
+        id: EVSYS_3_CLOCK_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: evsys
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    DMA_ENABLE_EVSYS_IN_2:
+      attributes:
+        id: DMA_ENABLE_EVSYS_IN_2
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
   userData:
     children:
     - attributes:

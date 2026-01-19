@@ -868,7 +868,9 @@
                 "My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/svdf.cpp",
                 "My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose.cpp",
                 "My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp",
-                "My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp"
+                "My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp",
+                "My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc7.h",
+                "My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc7.c"
             ]
         }
     ]

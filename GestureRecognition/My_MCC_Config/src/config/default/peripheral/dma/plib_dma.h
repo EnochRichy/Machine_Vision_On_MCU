@@ -81,6 +81,8 @@ typedef enum
     DMA_CHANNEL_0 = 0,
     /* DMA Channel 1 */
     DMA_CHANNEL_1 = 1,
+    /* DMA Channel 2 */
+    DMA_CHANNEL_2 = 2,
 } DMA_CHANNEL;
 
 typedef uint32_t DMA_TRANSFER_EVENT;
@@ -179,6 +181,153 @@ typedef struct
 
 } DMA_CRC_SETUP;
 
+#if !(defined(__ASSEMBLER__) || defined(__IAR_SYSTEMS_ASM__))
+
+typedef union
+{
+    struct
+    {
+        unsigned int CTRLB      :1;
+        unsigned int EVCTRL     :1;
+        unsigned int SSA        :1;
+        unsigned int DSA        :1;
+        unsigned int SSTRD      :1;
+        unsigned int DSTRD      :1;
+        unsigned int XSIZ       :1;
+        unsigned int PDAT       :1;
+        unsigned int CTRLCRC    :1;
+        unsigned int CTRLDAT    :1;
+        unsigned int            :14;
+        unsigned int ENABLE     :1;
+        unsigned int LLEN       :1;
+        unsigned int SWFRC      :1;
+        unsigned int RUNSTDBY   :1;
+        unsigned int            :4;
+    };
+    struct
+    {
+        unsigned int w          :32;
+    };
+} DMA_BDCFGbits_t;
+
+typedef union
+{
+  struct
+    {
+        unsigned int WAS        :3;
+        unsigned int            :1;
+        unsigned int RAS        :3;
+        unsigned int            :1;
+        unsigned int PRI        :2;
+        unsigned int            :3;
+        unsigned int WBOEN      :1;
+        unsigned int BYTORD     :2;
+        unsigned int TRIG       :8;
+        unsigned int PIGNEN     :1;
+        unsigned int PATLEN     :1;
+        unsigned int PATEN      :1;
+        unsigned int            :2;
+        unsigned int CASTEN     :1;
+        unsigned int            :1;
+        unsigned int CRCEN      :1;
+    };
+    struct
+    {
+        unsigned int w          :32;
+    };
+} DMA_BDCTRLBbits_t;
+
+/* MISRA C-2012 Rule 6.1 deviated:16 Deviation record ID -  H3_MISRAC_2012_R_6_1_DR_1 */
+
+typedef union
+{
+    struct
+    {
+        uint16_t EVAUXACT   :2;
+        uint16_t EVOMODE    :2;
+        uint16_t            :1;
+        uint16_t EVAUXIE    :1;
+        uint16_t EVSTRIE    :1;
+        uint16_t EVOE       :1;
+        uint16_t            :8;
+    };
+    struct
+    {
+        uint16_t w          :16;
+    };
+} DMA_BDEVCTRLbits_t;
+
+typedef union
+{
+    struct
+    {
+        uint16_t CRCMD      :3;
+        uint16_t CRCAPP     :1;
+        uint16_t            :1;
+        uint16_t CRCXOR     :1;
+        uint16_t CRCROUT    :1;
+        uint16_t CRCRIN     :1;
+        uint16_t            :8;
+    };
+    struct
+    {
+        uint16_t w          :16;
+    };
+} DMA_BDCTRLCRCbits_t;
+
+/* MISRAC 2012 deviation block end */
+
+typedef union
+{
+    struct
+    {
+        unsigned int CSZ        :10;
+        unsigned int            :6;
+        unsigned int BLKSZ      :16;
+    };
+    struct
+    {
+        unsigned int w          :32;
+    };
+} DMA_BDXSIZbits_t;
+
+typedef union
+{
+    struct
+    {
+        unsigned int PDAT       :16;
+        unsigned int            :8;
+        unsigned int PIGN       :8;
+    };
+    struct
+    {
+        unsigned int w          :32;
+    };
+} DMA_BDPDATbits_t;
+
+/** \brief DMA_DESCRIPTOR register API structure */
+CACHE_ALIGN typedef struct
+{  /* Direct Memory Access Controller */
+    uint32_t                            DMA_BDNXT;
+    DMA_BDCFGbits_t                     DMA_BDCFG;
+    DMA_BDCTRLBbits_t                   DMA_BDCTRLB;
+    DMA_BDEVCTRLbits_t                  DMA_BDEVCTRL;
+    DMA_BDCTRLCRCbits_t                 DMA_BDCTRLCRC;
+    uint32_t                            DMA_BDSSA;
+    uint32_t                            DMA_BDDSA;
+    uint16_t                            DMA_BDSSTRD;
+    uint16_t                            DMA_BDDSTRD;
+    DMA_BDXSIZbits_t                    DMA_BDXSIZ;
+    DMA_BDPDATbits_t                    DMA_BDPDAT;
+    uint32_t                            DMA_BDCRCDAT;
+    uint8_t                             dummy_for_cache_align[CACHE_ALIGNED_SIZE_GET(40) - 40];
+} DMA_DESCRIPTOR_REGS
+
+#ifdef __GNUC__
+  __attribute__ ((aligned (4)))
+#endif
+;
+#endif
 
 typedef uint32_t DMA_CHANNEL_CONFIG;
 
@@ -186,6 +335,7 @@ typedef void (*DMA_CHANNEL_CALLBACK) (DMA_TRANSFER_EVENT event, uintptr_t contex
 
 void DMA_Initialize( void );
 bool DMA_ChannelTransfer( DMA_CHANNEL channel, const void *srcAddr, const void *destAddr, size_t blockSize );
+bool DMA_ChannelLinkedListTransfer (DMA_CHANNEL channel, DMA_DESCRIPTOR_REGS* channelDesc);
 void DMA_ChannelCallbackRegister( DMA_CHANNEL channel, const DMA_CHANNEL_CALLBACK callback, const uintptr_t context );
 bool DMA_ChannelIsBusy ( DMA_CHANNEL channel );
 void DMA_ChannelDisable ( DMA_CHANNEL channel );

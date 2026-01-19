@@ -112,13 +112,13 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/4.1.2/CMakeCCompiler.cmake"
   "CMakeFiles/4.1.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.1.2/CMakeSystem.cmake"
-  "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/.generated/file.cmake"
-  "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/.generated/main.cmake"
-  "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/.generated/overrides.cmake"
-  "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/.generated/rule.cmake"
-  "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/.generated/toolchain.cmake"
-  "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/CMakeLists.txt"
-  "D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/user.cmake"
+  "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/.generated/file.cmake"
+  "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/.generated/main.cmake"
+  "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/.generated/overrides.cmake"
+  "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/.generated/rule.cmake"
+  "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/.generated/toolchain.cmake"
+  "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/CMakeLists.txt"
+  "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/cmake/ML_OV7670_GFX/default/user.cmake"
   )
 
 # The corresponding makefile is:
@@ -145,6 +145,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/DependInfo.cmake"
   "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/DependInfo.cmake"
-  "CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/DependInfo.cmake"
+  "CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir/DependInfo.cmake"
   "CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir/DependInfo.cmake"
   )

@@ -1,6 +1,6 @@
-D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir
-D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir
-D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir
-D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir
-D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/edit_cache.dir
-D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/rebuild_cache.dir
+D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir
+D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir
+D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_image_kXfU1mUW.dir
+D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_Bin2Hex.dir
+D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/edit_cache.dir
+D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/rebuild_cache.dir

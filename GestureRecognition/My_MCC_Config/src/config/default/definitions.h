@@ -53,8 +53,8 @@
 #include "usb/usb_chapter_9.h"
 #include "usb/usb_device.h"
 #include "peripheral/rtc/plib_rtc.h"
-#include "driver/i2c/drv_i2c.h"
 #include "system/time/sys_time.h"
+#include "driver/i2c/drv_i2c.h"
 #include "peripheral/ebi/plib_ebi.h"
 #include "driver/usb/usbhs/drv_usbhs.h"
 #include "driver/input/drv_maxtouch.h"
@@ -62,8 +62,8 @@
 #include "system/cache/sys_cache.h"
 #include "osal/osal.h"
 #include "system/debug/sys_debug.h"
-#include "peripheral/sercom/i2c_master/plib_sercom0_i2c_master.h"
 #include "peripheral/evsys/plib_evsys.h"
+#include "peripheral/sercom/i2c_master/plib_sercom0_i2c_master.h"
 #include "gfx/legato/generated/le_gen_harmony.h"
 #include "peripheral/port/plib_port.h"
 #include "peripheral/clock/plib_clock.h"
@@ -76,8 +76,8 @@
 #include "system/input/sys_input.h"
 #include "peripheral/tcc/plib_tcc0.h"
 #include "peripheral/tcc/plib_tcc9.h"
+#include "peripheral/tcc/plib_tcc7.h"
 #include "app.h"
-#include "app_ml.h"
 
 
 

@@ -65,6 +65,60 @@
 // *****************************************************************************
 // *****************************************************************************
 
+/*** Macros for LED_PANEL_R2 pin ***/
+#define LED_PANEL_R2_Set()               (PORT_REGS->GROUP[3].PORT_OUTSET = ((uint32_t)1U << 27U))
+#define LED_PANEL_R2_Clear()             (PORT_REGS->GROUP[3].PORT_OUTCLR = ((uint32_t)1U << 27U))
+#define LED_PANEL_R2_Toggle()            (PORT_REGS->GROUP[3].PORT_OUTTGL = ((uint32_t)1U << 27U))
+#define LED_PANEL_R2_OutputEnable()      (PORT_REGS->GROUP[3].PORT_DIRSET = ((uint32_t)1U << 27U))
+#define LED_PANEL_R2_InputEnable()       (PORT_REGS->GROUP[3].PORT_DIRCLR = ((uint32_t)1U << 27U))
+#define LED_PANEL_R2_Get()               (((PORT_REGS->GROUP[3].PORT_IN >> 27U)) & 0x01U)
+#define LED_PANEL_R2_PIN                  PORT_PIN_PD27
+
+/*** Macros for LED_PANEL_G2 pin ***/
+#define LED_PANEL_G2_Set()               (PORT_REGS->GROUP[3].PORT_OUTSET = ((uint32_t)1U << 28U))
+#define LED_PANEL_G2_Clear()             (PORT_REGS->GROUP[3].PORT_OUTCLR = ((uint32_t)1U << 28U))
+#define LED_PANEL_G2_Toggle()            (PORT_REGS->GROUP[3].PORT_OUTTGL = ((uint32_t)1U << 28U))
+#define LED_PANEL_G2_OutputEnable()      (PORT_REGS->GROUP[3].PORT_DIRSET = ((uint32_t)1U << 28U))
+#define LED_PANEL_G2_InputEnable()       (PORT_REGS->GROUP[3].PORT_DIRCLR = ((uint32_t)1U << 28U))
+#define LED_PANEL_G2_Get()               (((PORT_REGS->GROUP[3].PORT_IN >> 28U)) & 0x01U)
+#define LED_PANEL_G2_PIN                  PORT_PIN_PD28
+
+/*** Macros for LED_PANEL_B1 pin ***/
+#define LED_PANEL_B1_Set()               (PORT_REGS->GROUP[3].PORT_OUTSET = ((uint32_t)1U << 26U))
+#define LED_PANEL_B1_Clear()             (PORT_REGS->GROUP[3].PORT_OUTCLR = ((uint32_t)1U << 26U))
+#define LED_PANEL_B1_Toggle()            (PORT_REGS->GROUP[3].PORT_OUTTGL = ((uint32_t)1U << 26U))
+#define LED_PANEL_B1_OutputEnable()      (PORT_REGS->GROUP[3].PORT_DIRSET = ((uint32_t)1U << 26U))
+#define LED_PANEL_B1_InputEnable()       (PORT_REGS->GROUP[3].PORT_DIRCLR = ((uint32_t)1U << 26U))
+#define LED_PANEL_B1_Get()               (((PORT_REGS->GROUP[3].PORT_IN >> 26U)) & 0x01U)
+#define LED_PANEL_B1_PIN                  PORT_PIN_PD26
+
+/*** Macros for LED_PANEL_G1 pin ***/
+#define LED_PANEL_G1_Set()               (PORT_REGS->GROUP[3].PORT_OUTSET = ((uint32_t)1U << 25U))
+#define LED_PANEL_G1_Clear()             (PORT_REGS->GROUP[3].PORT_OUTCLR = ((uint32_t)1U << 25U))
+#define LED_PANEL_G1_Toggle()            (PORT_REGS->GROUP[3].PORT_OUTTGL = ((uint32_t)1U << 25U))
+#define LED_PANEL_G1_OutputEnable()      (PORT_REGS->GROUP[3].PORT_DIRSET = ((uint32_t)1U << 25U))
+#define LED_PANEL_G1_InputEnable()       (PORT_REGS->GROUP[3].PORT_DIRCLR = ((uint32_t)1U << 25U))
+#define LED_PANEL_G1_Get()               (((PORT_REGS->GROUP[3].PORT_IN >> 25U)) & 0x01U)
+#define LED_PANEL_G1_PIN                  PORT_PIN_PD25
+
+/*** Macros for LED_PANEL_B2 pin ***/
+#define LED_PANEL_B2_Set()               (PORT_REGS->GROUP[3].PORT_OUTSET = ((uint32_t)1U << 29U))
+#define LED_PANEL_B2_Clear()             (PORT_REGS->GROUP[3].PORT_OUTCLR = ((uint32_t)1U << 29U))
+#define LED_PANEL_B2_Toggle()            (PORT_REGS->GROUP[3].PORT_OUTTGL = ((uint32_t)1U << 29U))
+#define LED_PANEL_B2_OutputEnable()      (PORT_REGS->GROUP[3].PORT_DIRSET = ((uint32_t)1U << 29U))
+#define LED_PANEL_B2_InputEnable()       (PORT_REGS->GROUP[3].PORT_DIRCLR = ((uint32_t)1U << 29U))
+#define LED_PANEL_B2_Get()               (((PORT_REGS->GROUP[3].PORT_IN >> 29U)) & 0x01U)
+#define LED_PANEL_B2_PIN                  PORT_PIN_PD29
+
+/*** Macros for LED_PANEL_R1 pin ***/
+#define LED_PANEL_R1_Set()               (PORT_REGS->GROUP[3].PORT_OUTSET = ((uint32_t)1U << 24U))
+#define LED_PANEL_R1_Clear()             (PORT_REGS->GROUP[3].PORT_OUTCLR = ((uint32_t)1U << 24U))
+#define LED_PANEL_R1_Toggle()            (PORT_REGS->GROUP[3].PORT_OUTTGL = ((uint32_t)1U << 24U))
+#define LED_PANEL_R1_OutputEnable()      (PORT_REGS->GROUP[3].PORT_DIRSET = ((uint32_t)1U << 24U))
+#define LED_PANEL_R1_InputEnable()       (PORT_REGS->GROUP[3].PORT_DIRCLR = ((uint32_t)1U << 24U))
+#define LED_PANEL_R1_Get()               (((PORT_REGS->GROUP[3].PORT_IN >> 24U)) & 0x01U)
+#define LED_PANEL_R1_PIN                  PORT_PIN_PD24
+
 /*** Macros for GPIO_PC14 pin ***/
 #define GPIO_PC14_Set()               (PORT_REGS->GROUP[2].PORT_OUTSET = ((uint32_t)1U << 14U))
 #define GPIO_PC14_Clear()             (PORT_REGS->GROUP[2].PORT_OUTCLR = ((uint32_t)1U << 14U))
@@ -101,6 +155,15 @@
 #define GFX_DISP_INTF_PIN_RESET_Get()               (((PORT_REGS->GROUP[4].PORT_IN >> 5U)) & 0x01U)
 #define GFX_DISP_INTF_PIN_RESET_PIN                  PORT_PIN_PE05
 
+/*** Macros for LED_PANEL_E pin ***/
+#define LED_PANEL_E_Set()               (PORT_REGS->GROUP[6].PORT_OUTSET = ((uint32_t)1U << 11U))
+#define LED_PANEL_E_Clear()             (PORT_REGS->GROUP[6].PORT_OUTCLR = ((uint32_t)1U << 11U))
+#define LED_PANEL_E_Toggle()            (PORT_REGS->GROUP[6].PORT_OUTTGL = ((uint32_t)1U << 11U))
+#define LED_PANEL_E_OutputEnable()      (PORT_REGS->GROUP[6].PORT_DIRSET = ((uint32_t)1U << 11U))
+#define LED_PANEL_E_InputEnable()       (PORT_REGS->GROUP[6].PORT_DIRCLR = ((uint32_t)1U << 11U))
+#define LED_PANEL_E_Get()               (((PORT_REGS->GROUP[6].PORT_IN >> 11U)) & 0x01U)
+#define LED_PANEL_E_PIN                  PORT_PIN_PG11
+
 /*** Macros for GPIO_PC15 pin ***/
 #define GPIO_PC15_Set()               (PORT_REGS->GROUP[2].PORT_OUTSET = ((uint32_t)1U << 15U))
 #define GPIO_PC15_Clear()             (PORT_REGS->GROUP[2].PORT_OUTCLR = ((uint32_t)1U << 15U))
@@ -109,6 +172,15 @@
 #define GPIO_PC15_InputEnable()       (PORT_REGS->GROUP[2].PORT_DIRCLR = ((uint32_t)1U << 15U))
 #define GPIO_PC15_Get()               (((PORT_REGS->GROUP[2].PORT_IN >> 15U)) & 0x01U)
 #define GPIO_PC15_PIN                  PORT_PIN_PC15
+
+/*** Macros for LED_PANEL_D pin ***/
+#define LED_PANEL_D_Set()               (PORT_REGS->GROUP[6].PORT_OUTSET = ((uint32_t)1U << 10U))
+#define LED_PANEL_D_Clear()             (PORT_REGS->GROUP[6].PORT_OUTCLR = ((uint32_t)1U << 10U))
+#define LED_PANEL_D_Toggle()            (PORT_REGS->GROUP[6].PORT_OUTTGL = ((uint32_t)1U << 10U))
+#define LED_PANEL_D_OutputEnable()      (PORT_REGS->GROUP[6].PORT_DIRSET = ((uint32_t)1U << 10U))
+#define LED_PANEL_D_InputEnable()       (PORT_REGS->GROUP[6].PORT_DIRCLR = ((uint32_t)1U << 10U))
+#define LED_PANEL_D_Get()               (((PORT_REGS->GROUP[6].PORT_IN >> 10U)) & 0x01U)
+#define LED_PANEL_D_PIN                  PORT_PIN_PG10
 
 /*** Macros for GFX_DISP_INTF_PIN_HSYNC pin ***/
 #define GFX_DISP_INTF_PIN_HSYNC_Set()               (PORT_REGS->GROUP[2].PORT_OUTSET = ((uint32_t)1U << 27U))
@@ -150,6 +222,33 @@
 #define PCLK_Get()               (((PORT_REGS->GROUP[0].PORT_IN >> 7U)) & 0x01U)
 #define PCLK_PIN                  PORT_PIN_PA07
 
+/*** Macros for LED_PANEL_C pin ***/
+#define LED_PANEL_C_Set()               (PORT_REGS->GROUP[6].PORT_OUTSET = ((uint32_t)1U << 9U))
+#define LED_PANEL_C_Clear()             (PORT_REGS->GROUP[6].PORT_OUTCLR = ((uint32_t)1U << 9U))
+#define LED_PANEL_C_Toggle()            (PORT_REGS->GROUP[6].PORT_OUTTGL = ((uint32_t)1U << 9U))
+#define LED_PANEL_C_OutputEnable()      (PORT_REGS->GROUP[6].PORT_DIRSET = ((uint32_t)1U << 9U))
+#define LED_PANEL_C_InputEnable()       (PORT_REGS->GROUP[6].PORT_DIRCLR = ((uint32_t)1U << 9U))
+#define LED_PANEL_C_Get()               (((PORT_REGS->GROUP[6].PORT_IN >> 9U)) & 0x01U)
+#define LED_PANEL_C_PIN                  PORT_PIN_PG09
+
+/*** Macros for LED_PANEL_B pin ***/
+#define LED_PANEL_B_Set()               (PORT_REGS->GROUP[6].PORT_OUTSET = ((uint32_t)1U << 7U))
+#define LED_PANEL_B_Clear()             (PORT_REGS->GROUP[6].PORT_OUTCLR = ((uint32_t)1U << 7U))
+#define LED_PANEL_B_Toggle()            (PORT_REGS->GROUP[6].PORT_OUTTGL = ((uint32_t)1U << 7U))
+#define LED_PANEL_B_OutputEnable()      (PORT_REGS->GROUP[6].PORT_DIRSET = ((uint32_t)1U << 7U))
+#define LED_PANEL_B_InputEnable()       (PORT_REGS->GROUP[6].PORT_DIRCLR = ((uint32_t)1U << 7U))
+#define LED_PANEL_B_Get()               (((PORT_REGS->GROUP[6].PORT_IN >> 7U)) & 0x01U)
+#define LED_PANEL_B_PIN                  PORT_PIN_PG07
+
+/*** Macros for LED_PANEL_A pin ***/
+#define LED_PANEL_A_Set()               (PORT_REGS->GROUP[6].PORT_OUTSET = ((uint32_t)1U << 6U))
+#define LED_PANEL_A_Clear()             (PORT_REGS->GROUP[6].PORT_OUTCLR = ((uint32_t)1U << 6U))
+#define LED_PANEL_A_Toggle()            (PORT_REGS->GROUP[6].PORT_OUTTGL = ((uint32_t)1U << 6U))
+#define LED_PANEL_A_OutputEnable()      (PORT_REGS->GROUP[6].PORT_DIRSET = ((uint32_t)1U << 6U))
+#define LED_PANEL_A_InputEnable()       (PORT_REGS->GROUP[6].PORT_DIRCLR = ((uint32_t)1U << 6U))
+#define LED_PANEL_A_Get()               (((PORT_REGS->GROUP[6].PORT_IN >> 6U)) & 0x01U)
+#define LED_PANEL_A_PIN                  PORT_PIN_PG06
+
 /*** Macros for GPIO_PC08 pin ***/
 #define GPIO_PC08_Set()               (PORT_REGS->GROUP[2].PORT_OUTSET = ((uint32_t)1U << 8U))
 #define GPIO_PC08_Clear()             (PORT_REGS->GROUP[2].PORT_OUTCLR = ((uint32_t)1U << 8U))
@@ -185,6 +284,15 @@
 #define GFX_DISP_INTF_PIN_DE_InputEnable()       (PORT_REGS->GROUP[2].PORT_DIRCLR = ((uint32_t)1U << 5U))
 #define GFX_DISP_INTF_PIN_DE_Get()               (((PORT_REGS->GROUP[2].PORT_IN >> 5U)) & 0x01U)
 #define GFX_DISP_INTF_PIN_DE_PIN                  PORT_PIN_PC05
+
+/*** Macros for LED_PANEL_CLK pin ***/
+#define LED_PANEL_CLK_Set()               (PORT_REGS->GROUP[0].PORT_OUTSET = ((uint32_t)1U << 13U))
+#define LED_PANEL_CLK_Clear()             (PORT_REGS->GROUP[0].PORT_OUTCLR = ((uint32_t)1U << 13U))
+#define LED_PANEL_CLK_Toggle()            (PORT_REGS->GROUP[0].PORT_OUTTGL = ((uint32_t)1U << 13U))
+#define LED_PANEL_CLK_OutputEnable()      (PORT_REGS->GROUP[0].PORT_DIRSET = ((uint32_t)1U << 13U))
+#define LED_PANEL_CLK_InputEnable()       (PORT_REGS->GROUP[0].PORT_DIRCLR = ((uint32_t)1U << 13U))
+#define LED_PANEL_CLK_Get()               (((PORT_REGS->GROUP[0].PORT_IN >> 13U)) & 0x01U)
+#define LED_PANEL_CLK_PIN                  PORT_PIN_PA13
 
 /*** Macros for GPIO_PA14 pin ***/
 #define GPIO_PA14_Set()               (PORT_REGS->GROUP[0].PORT_OUTSET = ((uint32_t)1U << 14U))
@@ -235,6 +343,15 @@
 #define PHY_TRISTATE_PULLDOWN_Get()               (((PORT_REGS->GROUP[1].PORT_IN >> 23U)) & 0x01U)
 #define PHY_TRISTATE_PULLDOWN_PIN                  PORT_PIN_PB23
 
+/*** Macros for LED_PANEL_OE pin ***/
+#define LED_PANEL_OE_Set()               (PORT_REGS->GROUP[1].PORT_OUTSET = ((uint32_t)1U << 28U))
+#define LED_PANEL_OE_Clear()             (PORT_REGS->GROUP[1].PORT_OUTCLR = ((uint32_t)1U << 28U))
+#define LED_PANEL_OE_Toggle()            (PORT_REGS->GROUP[1].PORT_OUTTGL = ((uint32_t)1U << 28U))
+#define LED_PANEL_OE_OutputEnable()      (PORT_REGS->GROUP[1].PORT_DIRSET = ((uint32_t)1U << 28U))
+#define LED_PANEL_OE_InputEnable()       (PORT_REGS->GROUP[1].PORT_DIRCLR = ((uint32_t)1U << 28U))
+#define LED_PANEL_OE_Get()               (((PORT_REGS->GROUP[1].PORT_IN >> 28U)) & 0x01U)
+#define LED_PANEL_OE_PIN                  PORT_PIN_PB28
+
 /*** Macros for SWITCH0 pin ***/
 #define SWITCH0_Set()               (PORT_REGS->GROUP[1].PORT_OUTSET = ((uint32_t)1U << 24U))
 #define SWITCH0_Clear()             (PORT_REGS->GROUP[1].PORT_OUTCLR = ((uint32_t)1U << 24U))
@@ -265,6 +382,15 @@
 #define LED1_InputEnable()       (PORT_REGS->GROUP[1].PORT_DIRCLR = ((uint32_t)1U << 22U))
 #define LED1_Get()               (((PORT_REGS->GROUP[1].PORT_IN >> 22U)) & 0x01U)
 #define LED1_PIN                  PORT_PIN_PB22
+
+/*** Macros for LED_PANEL_LAT pin ***/
+#define LED_PANEL_LAT_Set()               (PORT_REGS->GROUP[1].PORT_OUTSET = ((uint32_t)1U << 27U))
+#define LED_PANEL_LAT_Clear()             (PORT_REGS->GROUP[1].PORT_OUTCLR = ((uint32_t)1U << 27U))
+#define LED_PANEL_LAT_Toggle()            (PORT_REGS->GROUP[1].PORT_OUTTGL = ((uint32_t)1U << 27U))
+#define LED_PANEL_LAT_OutputEnable()      (PORT_REGS->GROUP[1].PORT_DIRSET = ((uint32_t)1U << 27U))
+#define LED_PANEL_LAT_InputEnable()       (PORT_REGS->GROUP[1].PORT_DIRCLR = ((uint32_t)1U << 27U))
+#define LED_PANEL_LAT_Get()               (((PORT_REGS->GROUP[1].PORT_IN >> 27U)) & 0x01U)
+#define LED_PANEL_LAT_PIN                  PORT_PIN_PB27
 
 /*** Macros for MCLK pin ***/
 #define MCLK_Get()               (((PORT_REGS->GROUP[1].PORT_IN >> 10U)) & 0x01U)

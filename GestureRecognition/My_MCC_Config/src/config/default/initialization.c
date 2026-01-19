@@ -500,9 +500,9 @@ void SYS_Initialize ( void* data )
 
     EBI_Initialize();
 
-    SERCOM0_I2C_Initialize();
-
     EVSYS_Initialize();
+
+    SERCOM0_I2C_Initialize();
 
     DMA_Initialize();
 
@@ -517,6 +517,8 @@ void SYS_Initialize ( void* data )
     TCC0_PWMInitialize();
 
     TCC9_PWMInitialize();
+
+    TCC7_PWMInitialize();
 
 
     /* MISRAC 2012 deviation block start */
@@ -559,7 +561,6 @@ void SYS_Initialize ( void* data )
     APP_Initialize();
 
     APP_ML_Initialize();
-
 
     NVIC_Initialize();
 

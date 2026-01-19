@@ -63,7 +63,9 @@ typedef enum
 
    EVSYS_CHANNEL_1 = 1,
 
+   EVSYS_CHANNEL_2 = 2,
 
+   EVSYS_CHANNEL_3 = 3,
 
 
 

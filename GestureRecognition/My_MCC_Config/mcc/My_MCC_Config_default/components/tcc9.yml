@@ -292,4 +292,39 @@ data:
           type: User
         type: Values
       type: Long
+    TCC_TIMER_PERIOD:
+      attributes:
+        id: TCC_TIMER_PERIOD
+      children:
+      - children:
+        - attributes:
+            id: tcc9
+            value: '149999'
+          type: Dynamic
+        type: Values
+      type: Long
+    TCC_MODULE_FREQUENCY:
+      attributes:
+        id: TCC_MODULE_FREQUENCY
+      children:
+      - children:
+        - attributes:
+            id: tcc9
+            value: '150000000'
+          type: Dynamic
+        type: Values
+      type: Integer
+    TCC_TIMER_TIME_MS:
+      attributes:
+        id: TCC_TIMER_TIME_MS
+      children:
+      - children:
+        - attributes:
+            id: max
+          children:
+          - type: Value
+            value: '28633.115'
+          type: Float
+        type: Attributes
+      type: Float
   userData: {}

@@ -53,7 +53,7 @@
 // *****************************************************************************
 // *****************************************************************************
 
-#define DMA_CHANNELS_NUMBER        (2U)
+#define DMA_CHANNELS_NUMBER        (3U)
 
 /* DMA channels object configuration structure */
 typedef struct
@@ -121,6 +121,23 @@ void DMA_Initialize( void )
    
 
 
+
+
+   /***************** Configure DMA channel 2 ********************/
+   DMA_REGS->CHANNEL[2].DMA_CHCTRLB = DMA_CHCTRLB_TRIG(1U) | DMA_CHCTRLB_PRI(DMA_CHCTRLB_PRI_PRI_1_Val) | DMA_CHCTRLB_RAS(DMA_CHCTRLB_RAS_BYTE_ADDR_INCR_Val) | DMA_CHCTRLB_WAS(DMA_CHCTRLB_WAS_FIXED_BYTE_ADDR_INCR_Val) | DMA_CHCTRLB_CASTEN(0U) ;
+   
+   DMA_REGS->CHANNEL[2].DMA_CHEVCTRL = DMA_CHEVCTRL_EVSTRIE(1U) | DMA_CHEVCTRL_EVOE_Msk | DMA_CHEVCTRL_EVOMODE(DMA_CHEVCTRL_EVOMODE_STRB_ON_CELL_XFER_Val) ;
+   
+
+   DMA_REGS->CHANNEL[2].DMA_CHXSIZ = DMA_CHXSIZ_CSZ(1U);
+
+   
+
+   DMA_REGS->CHANNEL[2].DMA_CHINTENSET = DMA_CHINTENSET_BC_Msk;
+
+   
+
+
     /* Global configuration */
     DMA_REGS->DMA_CTRLA = DMA_CTRLA_ENABLE_Msk;
 }
@@ -166,6 +183,27 @@ bool DMA_ChannelTransfer( DMA_CHANNEL channel, const void *srcAddr, const void *
     return returnStatus;
 }
 
+bool DMA_ChannelLinkedListTransfer (DMA_CHANNEL channel, DMA_DESCRIPTOR_REGS* channelDesc)
+{
+    bool returnStatus = false;
+
+    if (dmaChannelObj[channel].busyStatus == false)
+    {
+        dmaChannelObj[channel].busyStatus = true;
+
+        DMA_REGS->CHANNEL[channel].DMA_CHNXT = (uint32_t) channelDesc;
+
+        /* Enable linked list completed interrupt */
+        DMA_REGS->CHANNEL[channel].DMA_CHINTENSET = DMA_CHINTENSET_LL_Msk;
+
+        /* Enable loading of linked list descriptor */
+        DMA_REGS->CHANNEL[channel].DMA_CHCTRLA |= DMA_CHCTRLA_LLEN_Msk;
+
+        returnStatus = true;
+    }
+
+    return returnStatus;
+}
 
 /*******************************************************************************
     This function function allows a DMA PLIB client to set an event handler.
@@ -495,7 +533,7 @@ void __attribute__((used)) DMA_PRI0_InterruptHandler( void )
     /* Get the DMA channel interrupt status */
     dmaIntPriority1Status = DMA_REGS->DMA_INTSTAT1;
 
-    for (channel = 0U; channel < 2U; channel++)
+    for (channel = 0U; channel < 3U; channel++)
     {
         if ((dmaIntPriority1Status & ((uint32_t)1U << channel)) != (uint32_t)0U)
         {
@@ -511,7 +549,7 @@ void __attribute__((used)) DMA_PRI1_InterruptHandler( void )
     /* Get the DMA channel interrupt status */
     dmaIntPriority2Status = DMA_REGS->DMA_INTSTAT2;
 
-    for (channel = 0U; channel < 2U; channel++)
+    for (channel = 0U; channel < 3U; channel++)
     {
         if ((dmaIntPriority2Status & ((uint32_t)1U << channel)) != (uint32_t)0U)
         {
@@ -527,7 +565,7 @@ void __attribute__((used)) DMA_PRI2_InterruptHandler( void )
     /* Get the DMA channel interrupt status */
     dmaIntPriority3Status = DMA_REGS->DMA_INTSTAT3;
 
-    for (channel = 0U; channel < 2U; channel++)
+    for (channel = 0U; channel < 3U; channel++)
     {
         if ((dmaIntPriority3Status & ((uint32_t)1U << channel)) != (uint32_t)0U)
         {
@@ -543,7 +581,7 @@ void __attribute__((used)) DMA_PRI3_InterruptHandler( void )
     /* Get the DMA channel interrupt status */
     dmaIntPriority4Status = DMA_REGS->DMA_INTSTAT4;
 
-    for (channel = 0U; channel < 2U; channel++)
+    for (channel = 0U; channel < 3U; channel++)
     {
         if ((dmaIntPriority4Status & ((uint32_t)1U << channel)) != (uint32_t)0U)
         {

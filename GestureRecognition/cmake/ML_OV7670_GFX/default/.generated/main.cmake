@@ -1,4 +1,3 @@
-# cmake files support debug production
 include("${CMAKE_CURRENT_LIST_DIR}/rule.cmake")
 include("${CMAKE_CURRENT_LIST_DIR}/file.cmake")
 
@@ -54,33 +53,31 @@ endif()
 
 
 # Main target for this project
-add_executable(ML_OV7670_GFX_default_image_EhacTyBv ${ML_OV7670_GFX_default_library_list})
+add_executable(ML_OV7670_GFX_default_image_kXfU1mUW ${ML_OV7670_GFX_default_library_list})
 
 if(NOT CMAKE_HOST_WIN32)
-    set_target_properties(ML_OV7670_GFX_default_image_EhacTyBv PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${ML_OV7670_GFX_default_output_dir})
+    set_target_properties(ML_OV7670_GFX_default_image_kXfU1mUW PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${ML_OV7670_GFX_default_output_dir}")
 endif()
-set_target_properties(ML_OV7670_GFX_default_image_EhacTyBv PROPERTIES OUTPUT_NAME "default")
-set_target_properties(ML_OV7670_GFX_default_image_EhacTyBv PROPERTIES SUFFIX ".elf")
-
-target_link_libraries(ML_OV7670_GFX_default_image_EhacTyBv PRIVATE ${ML_OV7670_GFX_default_default_XC32_FILE_TYPE_link})
-
+set_target_properties(ML_OV7670_GFX_default_image_kXfU1mUW PROPERTIES
+    OUTPUT_NAME "default"
+    SUFFIX ".elf")
+target_link_libraries(ML_OV7670_GFX_default_image_kXfU1mUW PRIVATE ${ML_OV7670_GFX_default_default_XC32_FILE_TYPE_link})
 
 # Add the link options from the rule file.
-ML_OV7670_GFX_default_link_rule(ML_OV7670_GFX_default_image_EhacTyBv)
+ML_OV7670_GFX_default_link_rule( ML_OV7670_GFX_default_image_kXfU1mUW)
 
 # Call bin2hex function from the rule file
-ML_OV7670_GFX_default_bin2hex_rule(ML_OV7670_GFX_default_image_EhacTyBv)
-
+ML_OV7670_GFX_default_bin2hex_rule(ML_OV7670_GFX_default_image_kXfU1mUW)
 if(CMAKE_HOST_WIN32)
     add_custom_command(
-        TARGET ML_OV7670_GFX_default_image_EhacTyBv
+        TARGET ML_OV7670_GFX_default_image_kXfU1mUW
         POST_BUILD
         COMMAND ${CMAKE_COMMAND} -E make_directory ${ML_OV7670_GFX_default_output_dir}
-        COMMAND ${CMAKE_COMMAND} -E copy $<TARGET_FILE:ML_OV7670_GFX_default_image_EhacTyBv> ${ML_OV7670_GFX_default_output_dir}/${ML_OV7670_GFX_default_original_image_name}
+        COMMAND ${CMAKE_COMMAND} -E copy $<TARGET_FILE:ML_OV7670_GFX_default_image_kXfU1mUW> ${ML_OV7670_GFX_default_output_dir}/${ML_OV7670_GFX_default_original_image_name}
         BYPRODUCTS ${ML_OV7670_GFX_default_output_dir}/${ML_OV7670_GFX_default_original_image_name}
         COMMENT "Copying elf to out location")
     set_property(
-        TARGET ML_OV7670_GFX_default_image_EhacTyBv
+        TARGET ML_OV7670_GFX_default_image_kXfU1mUW
         APPEND PROPERTY ADDITIONAL_CLEAN_FILES
         ${ML_OV7670_GFX_default_output_dir}/${ML_OV7670_GFX_default_original_image_name})
 endif()

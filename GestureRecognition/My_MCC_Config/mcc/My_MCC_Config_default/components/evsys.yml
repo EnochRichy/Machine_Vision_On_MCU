@@ -35,7 +35,7 @@ data:
       - children:
         - attributes:
             id: evsys
-            value: 'false'
+            value: 'true'
           type: Dynamic
         type: Values
       type: Boolean
@@ -310,7 +310,7 @@ data:
       - children:
         - attributes:
             id: evsys
-            value: 'false'
+            value: 'true'
           type: Dynamic
         type: Values
       type: Boolean
@@ -508,7 +508,7 @@ data:
       - children:
         - attributes:
             id: evsys
-            value: 'false'
+            value: 'true'
           type: Dynamic
         type: Values
       type: Boolean
@@ -629,7 +629,7 @@ data:
       - children:
         - attributes:
             id: evsys
-            value: 'false'
+            value: 'true'
           type: Dynamic
         type: Values
       type: Boolean
@@ -847,6 +847,48 @@ data:
           type: Dynamic
         type: Values
       type: Boolean
+    USER_PORT_EV_0_READY:
+      attributes:
+        id: USER_PORT_EV_0_READY
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    GENERATOR_DMA_CH_2_ACTIVE:
+      attributes:
+        id: GENERATOR_DMA_CH_2_ACTIVE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_CHANNEL_2:
+      attributes:
+        id: EVSYS_CHANNEL_2
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    EVSYS_CHANNEL_2_GENERATOR:
+      attributes:
+        id: EVSYS_CHANNEL_2_GENERATOR
+      children:
+      - children:
+        - attributes:
+            value: '19'
+          type: User
+        type: Values
+      type: KeyValueSet
     EVSYS_USER_2:
       attributes:
         id: EVSYS_USER_2
@@ -857,13 +899,96 @@ data:
           type: User
         type: Values
       type: KeyValueSet
-    USER_PORT_EV_0_READY:
+    EVSYS_USER_3:
       attributes:
-        id: USER_PORT_EV_0_READY
+        id: EVSYS_USER_3
+      children:
+      - children:
+        - attributes:
+            value: '3'
+          type: User
+        type: Values
+      type: KeyValueSet
+    USER_PORT_EV_1_READY:
+      attributes:
+        id: USER_PORT_EV_1_READY
       children:
       - children:
         - attributes:
             id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    EVSYS_USER_8:
+      attributes:
+        id: EVSYS_USER_8
+      children:
+      - children:
+        - attributes:
+            value: '4'
+          type: User
+        type: Values
+      type: KeyValueSet
+    EVSYS_CHANNEL_3:
+      attributes:
+        id: EVSYS_CHANNEL_3
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    EVSYS_CHANNEL_3_GENERATOR:
+      attributes:
+        id: EVSYS_CHANNEL_3_GENERATOR
+      children:
+      - children:
+        - attributes:
+            value: '121'
+          type: User
+        type: Values
+      type: KeyValueSet
+    EVSYS_CHANNEL_3_EDGE:
+      attributes:
+        id: EVSYS_CHANNEL_3_EDGE
+      children:
+      - children:
+        - attributes:
+            value: '1'
+          type: User
+        type: Values
+      type: KeyValueSet
+    GENERATOR_TCC7_MC_0_ACTIVE:
+      attributes:
+        id: GENERATOR_TCC7_MC_0_ACTIVE
+      children:
+      - children:
+        - attributes:
+            id: tcc7
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    USER_DMA_CHSTRT_2_READY:
+      attributes:
+        id: USER_DMA_CHSTRT_2_READY
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    GENERATOR_TCC7_OVF_ACTIVE:
+      attributes:
+        id: GENERATOR_TCC7_OVF_ACTIVE
+      children:
+      - children:
+        - attributes:
+            id: tcc7
             value: 'true'
           type: Dynamic
         type: Values

@@ -4,7 +4,7 @@
 #ifndef FLATBUFFERS_GENERATED_SCHEMA_TFLITE_H_
 #define FLATBUFFERS_GENERATED_SCHEMA_TFLITE_H_
 
-#include "D:/MV_PIC32CZ_Git/TestProjects/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h"
+#include "D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/flatbuffers/include/flatbuffers/flatbuffers.h"
 
 // Ensure the included flatbuffers.h is the same version as when this file was
 // generated, otherwise it may not be compatible.
