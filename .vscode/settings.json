@@ -1,6 +1,0 @@
-{
-    "mplab.clangd.arguments": [
-        "--compile-commands-dir=${workspaceFolder}\\_build\\ML_OV7670_GFX\\default"
-    ],
-    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc32\\v4.60\\bin\\xc32-clangd.exe"
-}
