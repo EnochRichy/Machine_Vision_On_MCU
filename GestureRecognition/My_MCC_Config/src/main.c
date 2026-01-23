@@ -123,6 +123,8 @@ volatile uint32_t line_index = 0;
 
 extern uint8_t panda_scaled_data[38400];
 
+volatile uint8_t identified_gesture = 0;
+
 uint8_t greyscale_img[64*64];   // output grayscale downscaled image
 
 #define SRC_PORT_ADDR ((const void *)((uint8_t *)&PORT_REGS->GROUP[2].PORT_IN + 1)) // keep +1 if that reads correct bits
@@ -218,7 +220,7 @@ void ov7670_set_rgb565_QQVGA_Working(void)
    I2C_Write(0x00, 0x0B); // AGC
 
   // Color settings, recommended defaults
-  I2C_Write(0x11, 0x80);   // CLKRC: Prescaler /1
+  I2C_Write(0x11, 0x81);   // CLKRC: Prescaler /1
 
   I2C_Write(0x12, 0x14);   // COM7: RGB + QVGA scaling enabled
 
@@ -502,6 +504,216 @@ void DMA_LED_ROW_Complete_cb(DMA_TRANSFER_EVENT event, uintptr_t context)
 }
 
 
+
+// 5x7 font for required characters only (P A L M)
+// Each byte = one row, LSB on the left
+static const uint8_t font_5x7[][7] = {
+    // 'P'
+    {
+        0b11110,
+        0b10001,
+        0b10001,
+        0b11110,
+        0b10000,
+        0b10000,
+        0b10000
+    },
+    // 'A'
+    {
+        0b01110,
+        0b10001,
+        0b10001,
+        0b11111,
+        0b10001,
+        0b10001,
+        0b10001
+    },
+    // 'L'
+    {
+        0b10000,
+        0b10000,
+        0b10000,
+        0b10000,
+        0b10000,
+        0b10000,
+        0b11111
+    },
+    // 'M'
+    {
+        0b10001,
+        0b11011,
+        0b10101,
+        0b10001,
+        0b10001,
+        0b10001,
+        0b10001
+    },
+
+    // 'F'
+    {
+        0b11111,
+        0b10000,
+        0b10000,
+        0b11110,
+        0b10000,
+        0b10000,
+        0b10000
+    },
+    // 'I'
+    {
+        0b11111,
+        0b00100,
+        0b00100,
+        0b00100,
+        0b00100,
+        0b00100,
+        0b11111
+    },
+    // 'S'
+    {
+        0b01111,
+        0b10000,
+        0b10000,
+        0b01110,
+        0b00001,
+        0b00001,
+        0b11110
+    },
+    // 'T'
+    {
+        0b11111,
+        0b00100,
+        0b00100,
+        0b00100,
+        0b00100,
+        0b00100,
+        0b00100
+    }
+
+};
+
+static void draw_char_5x7(
+    int x0, int y0,
+    const uint8_t glyph[7],
+    uint8_t r, uint8_t g, uint8_t b)
+{
+    for (int y = 0; y < 7; y++) {
+        uint8_t row = glyph[y];
+
+        for (int x = 0; x < 5; x++) {
+            if (row & (1 << (4 - x))) {
+
+                int px = x0 + x;
+                int py = y0 + y;
+
+                if (px >= 0 && px < 64 && py >= 0 && py < 64) {
+                    buffer_R[py][px] = r;
+                    buffer_G[py][px] = g;
+                    buffer_B[py][px] = b;
+                }
+            }
+        }
+    }
+}
+
+static void draw_char_5x7_scaled(
+    int x0, int y0,
+    const uint8_t glyph[7],
+    uint8_t scale,
+    uint8_t r, uint8_t g, uint8_t b)
+{
+    for (int gy = 0; gy < 7; gy++) {
+        uint8_t row = glyph[gy];
+
+        for (int gx = 0; gx < 5; gx++) {
+            if (row & (1 << (4 - gx))) {
+
+                // Scale this pixel
+                for (int sy = 0; sy < scale; sy++) {
+                    for (int sx = 0; sx < scale; sx++) {
+
+                        int px = x0 + gx * scale + sx;
+                        int py = y0 + gy * scale + sy;
+
+                        if (px >= 0 && px < 64 && py >= 0 && py < 64) {
+                            buffer_R[py][px] = r;
+                            buffer_G[py][px] = g;
+                            buffer_B[py][px] = b;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+void draw_text_palm_overlay(void)
+{
+    // Position (top-center)
+    int x = 10;
+    int y = 5;
+
+    // Bright yellow text (high visibility)
+    uint8_t r = 31;
+    uint8_t g = 31;
+    uint8_t b = 0;
+
+    draw_char_5x7(x + 0,  y, font_5x7[0], r, g, b);  // P
+    draw_char_5x7(x + 6,  y, font_5x7[1], r, g, b);  // A
+    draw_char_5x7(x + 12, y, font_5x7[2], r, g, b);  // L
+    draw_char_5x7(x + 18, y, font_5x7[3], r, g, b);  // M
+}
+
+void draw_text_palm_overlay_scaled(void)
+{
+    const uint8_t scale = 2;
+
+    uint8_t r = 31, g = 0, b = 0;
+
+    int x = 6;
+    int y = 8;
+
+    // Shadow (black)
+    draw_char_5x7_scaled(x + 1, y + 1, font_5x7[0], scale, 0, 0, 0);
+    draw_char_5x7_scaled(x + 1 + 6 * scale, y + 1, font_5x7[1], scale, 0, 0, 0);
+    draw_char_5x7_scaled(x + 1 +12 * scale, y + 1, font_5x7[2], scale, 0, 0, 0);
+    draw_char_5x7_scaled(x + 1 +18 * scale, y + 1, font_5x7[3], scale, 0, 0, 0);
+
+    // Text (red)
+    draw_char_5x7_scaled(x +  0,            y, font_5x7[0], scale, r, g, b);
+    draw_char_5x7_scaled(x +  6 * scale,    y, font_5x7[1], scale, r, g, b);
+    draw_char_5x7_scaled(x + 12 * scale,    y, font_5x7[2], scale, r, g, b);
+    draw_char_5x7_scaled(x + 18 * scale,    y, font_5x7[3], scale, r, g, b);
+}
+
+void draw_text_fist_overlay_scaled(void)
+{
+    const uint8_t scale = 2;
+
+    uint8_t r = 31, g = 0, b = 0;
+
+    int x = 6;
+    int y = 8;
+
+    // Shadow (black)
+    draw_char_5x7_scaled(x + 1, y + 1, font_5x7[4], scale, 0, 0, 0);
+    draw_char_5x7_scaled(x + 1 + 6 * scale, y + 1, font_5x7[5], scale, 0, 0, 0);
+    draw_char_5x7_scaled(x + 1 +12 * scale, y + 1, font_5x7[6], scale, 0, 0, 0);
+    draw_char_5x7_scaled(x + 1 +18 * scale, y + 1, font_5x7[7], scale, 0, 0, 0);
+
+    // Text (red)
+    draw_char_5x7_scaled(x +  0,            y, font_5x7[4], scale, r, g, b);
+    draw_char_5x7_scaled(x +  6 * scale,    y, font_5x7[5], scale, r, g, b);
+    draw_char_5x7_scaled(x + 12 * scale,    y, font_5x7[6], scale, r, g, b);
+    draw_char_5x7_scaled(x + 18 * scale,    y, font_5x7[7], scale, r, g, b);
+}
+
+
+
+
+
+
 // *****************************************************************************
 // *****************************************************************************
 // Section: Main Entry Point
@@ -513,7 +725,7 @@ int main ( void )
     /* Initialize all modules */
     SYS_Initialize ( NULL );
 
-   // printf("Starting application...\r\n");
+    printf("Starting application...\r\n");
 
    
     TCC7_PWMStart();
@@ -542,6 +754,11 @@ int main ( void )
         if (frame_ready) {
             frame_ready = false;
             rgb565_to_gray64();
+
+            if (identified_gesture == 0)
+                draw_text_fist_overlay_scaled(); // <<< TEXT OVERLAY
+            else if (identified_gesture == 1)
+                draw_text_palm_overlay_scaled(); // <<< TEXT OVERLAY
 
             rgb_to_hub75_dma(hub75_dma_buf);
 

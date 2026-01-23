@@ -155,8 +155,8 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/clean:
 # Target rules for target CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir
 
 # All Build rule for target.
-CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/all: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/all
 CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/all: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/all
+CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/all: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/build.make CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/build.make CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=100 "Built target ML_OV7670_GFX_default_image_EhacTyBv"

@@ -100,7 +100,7 @@ void SYS_Tasks ( void )
 
     /* Maintain the application's state machine. */
         /* Call Application task APP. */
-   // APP_Tasks();
+    APP_Tasks();
 
     APP_ML_Tasks();
 

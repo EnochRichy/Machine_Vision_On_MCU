@@ -23,6 +23,7 @@
 #include "tensorflow/lite/micro/micro_log.h"
 #include "tensorflow/lite/micro/system_setup.h"
 #include "gfx/legato/generated/screen/le_gen_screen_Screen0.h"
+#include "app_ml.h"
 
 #include "peripheral/port/plib_port.h"
 
@@ -45,7 +46,7 @@ extern uint8_t Fist_data[21210];
 extern uint8_t palm_data[23108];
 
 extern leImageWidget* Screen0_ImageWidget_0;
-
+extern uint8_t identified_gesture;
 int number[10];
 
 int8_t prev_best = -1;
@@ -62,8 +63,7 @@ static tflite::MicroInterpreter *interpreter = NULL;
 static TfLiteTensor *input_tensor = NULL;
 static TfLiteTensor *output_tensor = NULL;
 
-const char *labels[] = {"Palm", "Fist"};
-
+const char *labels[] = {"Palm", "Fist", "Unknown"};
 
 // *****************************************************************************
 // NEW: Create a resolver matching your model ops
@@ -169,18 +169,35 @@ int predict_gesture_from_frame()
         return -2;
     }
 
-    uint8_t *scores = output_tensor->data.uint8;
+    int8_t *scores = output_tensor->data.int8;
 
-    int best = 0;
-    uint8_t best_score = scores[0];
-    
-    if (scores[1] > best_score) {
-                best = 1;
-                best_score = scores[1];
+        int best = 0;
+        int8_t best_score = scores[0];
+
+        for (int i = 1; i < 3; i++)
+        {
+            if (scores[i] > best_score)
+            {
+                best = i;
+                best_score = scores[i];
             }
+        }
 
-    if (best)
+    float out_scale = output_tensor->params.scale;
+    int32_t out_zero_point = output_tensor->params.zero_point;
+    float confidence = (best_score - out_zero_point) * out_scale;
+
+    printf("Pred: %s (score=%u, conf=%.2f)\r\n",
+           labels[best], best_score, confidence);
+
+    if(confidence < 0.5f)
     {
+        best = 2; // unknown
+    }
+
+    if (best == 1)
+    {
+        identified_gesture = 0;
             gesture =
                 {
                     {
@@ -208,8 +225,9 @@ int predict_gesture_from_frame()
                     NULL, // palette
                 };
     }
-    else
+    else if (best == 0)
     {
+        identified_gesture = 1;
         gesture =
                 {
                     {
@@ -238,11 +256,12 @@ int predict_gesture_from_frame()
                 };
     }
 
-    prev_best = best;
+    else
+    {
+        identified_gesture = 2; // unknown
+    }
 
-    float out_scale = output_tensor->params.scale;
-    int32_t out_zero_point = output_tensor->params.zero_point;
-    float confidence = (best_score - out_zero_point) * out_scale;
+    prev_best = best;
 
    printf("Pred: %s (score=%u, conf=%.2f)\r\n",
            labels[best], best_score, confidence);
