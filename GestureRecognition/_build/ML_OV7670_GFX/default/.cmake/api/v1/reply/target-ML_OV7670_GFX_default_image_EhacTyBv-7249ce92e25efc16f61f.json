@@ -91,10 +91,10 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "ML_OV7670_GFX_default_default_XC32_compile::@6890427a1f51a3e7e1df"
+			"id" : "ML_OV7670_GFX_default_default_XC32_compile_cpp::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "ML_OV7670_GFX_default_default_XC32_compile_cpp::@6890427a1f51a3e7e1df"
+			"id" : "ML_OV7670_GFX_default_default_XC32_compile::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "ML_OV7670_GFX_default_image_EhacTyBv::@6890427a1f51a3e7e1df",
