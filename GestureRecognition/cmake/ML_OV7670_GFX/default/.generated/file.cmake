@@ -17,6 +17,8 @@ endforeach()
 
 set(ML_OV7670_GFX_default_default_XC32_FILE_TYPE_compile
     "${CMAKE_CURRENT_SOURCE_DIR}/../../../My_MCC_Config/src/app.c"
+    "${CMAKE_CURRENT_SOURCE_DIR}/../../../My_MCC_Config/src/app_cam.c"
+    "${CMAKE_CURRENT_SOURCE_DIR}/../../../My_MCC_Config/src/app_display.c"
     "${CMAKE_CURRENT_SOURCE_DIR}/../../../My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c"
     "${CMAKE_CURRENT_SOURCE_DIR}/../../../My_MCC_Config/src/config/default/driver/input/drv_maxtouch.c"
     "${CMAKE_CURRENT_SOURCE_DIR}/../../../My_MCC_Config/src/config/default/driver/usb/usbhs/src/drv_usbhs.c"

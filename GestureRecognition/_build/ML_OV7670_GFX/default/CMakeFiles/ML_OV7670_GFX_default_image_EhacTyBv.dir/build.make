@@ -78,6 +78,8 @@ ML_OV7670_GFX_default_image_EhacTyBv_OBJECTS =
 # External object files for target ML_OV7670_GFX_default_image_EhacTyBv
 ML_OV7670_GFX_default_image_EhacTyBv_EXTERNAL_OBJECTS = \
 "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o" \
+"D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o" \
+"D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o" \
 "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c.o" \
 "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/input/drv_maxtouch.c.o" \
 "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/usb/usbhs/src/drv_usbhs.c.o" \
@@ -595,6 +597,8 @@ ML_OV7670_GFX_default_image_EhacTyBv_EXTERNAL_OBJECTS = \
 "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/tflite_bridge/micro_error_reporter.cpp.obj"
 
 default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o
+default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o
+default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o
 default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c.o
 default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/input/drv_maxtouch.c.o
 default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/usb/usbhs/src/drv_usbhs.c.o

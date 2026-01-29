@@ -91,10 +91,10 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "ML_OV7670_GFX_default_default_XC32_compile_cpp::@6890427a1f51a3e7e1df"
+			"id" : "ML_OV7670_GFX_default_default_XC32_compile::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "ML_OV7670_GFX_default_default_XC32_compile::@6890427a1f51a3e7e1df"
+			"id" : "ML_OV7670_GFX_default_default_XC32_compile_cpp::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "ML_OV7670_GFX_default_image_EhacTyBv::@6890427a1f51a3e7e1df",
@@ -668,7 +668,9 @@
 				512,
 				513,
 				514,
-				515
+				515,
+				516,
+				517
 			]
 		}
 	],
@@ -678,6 +680,18 @@
 			"backtrace" : 3,
 			"isGenerated" : true,
 			"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o",
 			"sourceGroupIndex" : 0
 		},
 		{

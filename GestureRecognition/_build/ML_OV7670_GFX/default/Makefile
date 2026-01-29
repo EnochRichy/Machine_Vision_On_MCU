@@ -3696,6 +3696,54 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.s
 
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.s
+
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.obj: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.cpp.obj
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.obj
 
@@ -13005,6 +13053,12 @@ help:
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.o"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.s"

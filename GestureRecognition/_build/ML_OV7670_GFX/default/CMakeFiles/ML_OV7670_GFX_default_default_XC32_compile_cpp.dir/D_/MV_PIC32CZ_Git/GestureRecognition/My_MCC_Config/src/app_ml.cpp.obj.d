@@ -412,4 +412,5 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\generated\le_gen_scheme.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\generated\le_gen_assets.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\peripheral\port\plib_port.h \
- d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\device.h
+ d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\device.h \
+ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.h

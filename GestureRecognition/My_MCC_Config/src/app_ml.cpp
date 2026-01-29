@@ -26,6 +26,8 @@
 #include "app_ml.h"
 
 #include "peripheral/port/plib_port.h"
+// Access camera greyscale buffer via API
+#include "app_cam.h"
 
 // *****************************************************************************
 // Global Data
@@ -36,7 +38,6 @@ APP_ML_DATA app_mlData;
 int8_t recognisedDigit=-1;
 int8_t recognitionThreshold=20;
 
-extern int8_t greyscale_img[];
 extern bool ml_input_ready;
 extern bool inference_complete;
 
@@ -46,7 +47,7 @@ extern uint8_t Fist_data[21210];
 extern uint8_t palm_data[23108];
 
 extern leImageWidget* Screen0_ImageWidget_0;
-extern uint8_t identified_gesture;
+// identified_gesture is owned by the camera module; use APP_Cam_SetIdentifiedGesture()
 int number[10];
 
 int8_t prev_best = -1;
@@ -160,8 +161,9 @@ int predict_gesture_from_frame()
     uint8_t *input_buf = input_tensor->data.uint8;
 
     // Copy & quantize input
+    const uint8_t *src_grey = APP_Cam_GetGreyscaleImg();
     for (int i = 0; i < 64 * 64; i++) {
-        input_buf[i] = quantize_pixel(greyscale_img[i], input_scale, input_zero_point);
+        input_buf[i] = quantize_pixel(src_grey[i], input_scale, input_zero_point);
     }
 
     if (interpreter->Invoke() != kTfLiteOk) {
@@ -190,14 +192,14 @@ int predict_gesture_from_frame()
     printf("Pred: %s (score=%u, conf=%.2f)\r\n",
            labels[best], best_score, confidence);
 
-    if(confidence < 0.5f)
+    if(confidence < 0.1f)
     {
         best = 2; // unknown
     }
 
     if (best == 1)
     {
-        identified_gesture = 0;
+        APP_Cam_SetIdentifiedGesture(0);
             gesture =
                 {
                     {
@@ -227,7 +229,7 @@ int predict_gesture_from_frame()
     }
     else if (best == 0)
     {
-        identified_gesture = 1;
+        APP_Cam_SetIdentifiedGesture(1);
         gesture =
                 {
                     {
@@ -258,7 +260,7 @@ int predict_gesture_from_frame()
 
     else
     {
-        identified_gesture = 2; // unknown
+        APP_Cam_SetIdentifiedGesture(2); // unknown
     }
 
     prev_best = best;

@@ -256,4 +256,5 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Gest
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\peripheral/tcc/plib_tcc0.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\peripheral/tcc/plib_tcc9.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\peripheral/tcc/plib_tcc7.h \
- d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\app.h
+ d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\app.h \
+ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.h

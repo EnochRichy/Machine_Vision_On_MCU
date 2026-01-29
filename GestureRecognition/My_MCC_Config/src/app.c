@@ -54,6 +54,8 @@
 // *****************************************************************************
 
 #include "app.h"
+// Access camera greyscale buffer via API
+#include "app_cam.h"
 
 
 // *****************************************************************************
@@ -93,7 +95,7 @@ uint8_t  transmitDataBuffer[512] CACHE_ALIGN;
 
 extern volatile bool frame_ready;
 
-extern uint8_t greyscale_img[64*64];
+// greyscale image is provided by the camera module; use APP_Cam_GetGreyscaleImg()
 
 #define FRAME_WIDTH          64
 #define FRAME_HEIGHT         64
@@ -213,7 +215,7 @@ void APP_USBDeviceEventHandler(USB_DEVICE_EVENT event, void * eventData, uintptr
                     appData.usbDevHandle,
                     &appData.writeTranferHandle,
                     appData.endpointTx,
-                    &greyscale_img[txPacketIndex * FRAME_PACKET_SIZE],
+                    (void *)(APP_Cam_GetGreyscaleImg() + (txPacketIndex * FRAME_PACKET_SIZE)),
                     FRAME_PACKET_SIZE,
                     flags
                 );
