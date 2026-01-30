@@ -72,24 +72,10 @@ include CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/flags.make
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/codegen:
 .PHONY : CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/codegen
 
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/flags.make
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o"
-	"c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe" $(C_DEFINES) $(C_INCLUDES) -x c $(C_FLAGS) -MD -MT CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o -MF CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o.d -o CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o -c D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c
-
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.i"
-	"c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe" $(C_DEFINES) $(C_INCLUDES) -x c $(C_FLAGS) -E D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c > CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.i
-
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.s"
-	"c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe" $(C_DEFINES) $(C_INCLUDES) -x c $(C_FLAGS) -S D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c -o CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.s
-
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/flags.make
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o"
 	"c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe" $(C_DEFINES) $(C_INCLUDES) -x c $(C_FLAGS) -MD -MT CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o -MF CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o.d -o CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o -c D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c
 
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.i: cmake_force
@@ -103,7 +89,7 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Gest
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/flags.make
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o"
 	"c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe" $(C_DEFINES) $(C_INCLUDES) -x c $(C_FLAGS) -MD -MT CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o -MF CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o.d -o CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o -c D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c
 
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.i: cmake_force
@@ -113,6 +99,20 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Gest
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.s"
 	"c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe" $(C_DEFINES) $(C_INCLUDES) -x c $(C_FLAGS) -S D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c -o CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.s
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/flags.make
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o"
+	"c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe" $(C_DEFINES) $(C_INCLUDES) -x c $(C_FLAGS) -MD -MT CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o -MF CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o.d -o CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o -c D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.i"
+	"c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe" $(C_DEFINES) $(C_INCLUDES) -x c $(C_FLAGS) -E D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c > CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.i
+
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.s"
+	"c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe" $(C_DEFINES) $(C_INCLUDES) -x c $(C_FLAGS) -S D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c -o CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.s
 
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c.o: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/flags.make
 CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c.o: D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c
@@ -4468,9 +4468,9 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Gest
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/tools/kiss_fftr.c.s"
 	"c:/Program Files/Microchip/xc32/v4.60/bin/xc32-gcc.exe" $(C_DEFINES) $(C_INCLUDES) -x c $(C_FLAGS) -S D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/tools/kiss_fftr.c -o CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/third_party/kissfft/tools/kiss_fftr.c.s
 
-ML_OV7670_GFX_default_default_XC32_compile: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o
 ML_OV7670_GFX_default_default_XC32_compile: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o
 ML_OV7670_GFX_default_default_XC32_compile: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o
+ML_OV7670_GFX_default_default_XC32_compile: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o
 ML_OV7670_GFX_default_default_XC32_compile: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c.o
 ML_OV7670_GFX_default_default_XC32_compile: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/input/drv_maxtouch.c.o
 ML_OV7670_GFX_default_default_XC32_compile: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/usb/usbhs/src/drv_usbhs.c.o

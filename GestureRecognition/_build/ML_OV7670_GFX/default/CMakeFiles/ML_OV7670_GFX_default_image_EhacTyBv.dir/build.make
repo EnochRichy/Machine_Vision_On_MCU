@@ -77,9 +77,9 @@ ML_OV7670_GFX_default_image_EhacTyBv_OBJECTS =
 
 # External object files for target ML_OV7670_GFX_default_image_EhacTyBv
 ML_OV7670_GFX_default_image_EhacTyBv_EXTERNAL_OBJECTS = \
-"D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o" \
 "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o" \
 "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o" \
+"D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o" \
 "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c.o" \
 "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/input/drv_maxtouch.c.o" \
 "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/usb/usbhs/src/drv_usbhs.c.o" \
@@ -596,9 +596,9 @@ ML_OV7670_GFX_default_image_EhacTyBv_EXTERNAL_OBJECTS = \
 "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/2d3237d3206a7e05a2356c39601fab6f/src/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.cpp.obj" \
 "D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/tensorflow/lite/micro/tflite_bridge/micro_error_reporter.cpp.obj"
 
-default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o
 default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o
 default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o
+default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o
 default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c.o
 default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/input/drv_maxtouch.c.o
 default.elf: CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/usb/usbhs/src/drv_usbhs.c.o
@@ -1119,7 +1119,7 @@ default.elf: D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/..
 default.elf: D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/CMSIS/CMSIS/DSP/Lib/GCC/libarm_cortexM7lfdp_math.a
 default.elf: CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX executable default.elf"
-	"c:/Program Files/Microchip/xc32/v4.60/bin/xc32-g++.exe" -g -mprocessor=32CZ8110CA90208 -mno-device-startup-code -Wl,--defsym=__MPLAB_BUILD=1,--script=D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/config/default/PIC32CZ8110CA90208.ld,--defsym=__MPLAB_DEBUG=1,--defsym=__DEBUG=1,--defsym=_min_heap_size=0,--gc-sections,-Map=mem.map,--report-mem,-DVECTOR_REGION=boot_rom,--memorysummary,memoryfile.xml -mdfp=C:/Users/I41645/.mchp_packs/Microchip/PIC32CZ-CA90_DFP/1.7.168/CA90 @CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/objects1.rsp -o default.elf  D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/CMSIS/CMSIS/DSP/Lib/GCC/libarm_cortexM4lf_math.a D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/CMSIS/CMSIS/DSP/Lib/GCC/libarm_cortexM7lfdp_math.a
+	"c:/Program Files/Microchip/xc32/v4.60/bin/xc32-g++.exe" -g -mprocessor=32CZ8110CA90208 -mno-device-startup-code -Wl,--defsym=__MPLAB_BUILD=1,--script=D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/config/default/PIC32CZ8110CA90208.ld,--defsym=__MPLAB_DEBUG=1,--defsym=__DEBUG=1,--defsym=_min_heap_size=512,--gc-sections,-Map=mem.map,--report-mem,-DVECTOR_REGION=boot_rom,--memorysummary,memoryfile.xml -mdfp=C:/Users/I41645/.mchp_packs/Microchip/PIC32CZ-CA90_DFP/1.7.168/CA90 @CMakeFiles/ML_OV7670_GFX_default_image_EhacTyBv.dir/objects1.rsp -o default.elf  D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/CMSIS/CMSIS/DSP/Lib/GCC/libarm_cortexM4lf_math.a D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../My_MCC_Config/src/packs/CMSIS/CMSIS/DSP/Lib/GCC/libarm_cortexM7lfdp_math.a
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Copying elf to out location"
 	"C:/Program Files/CMake/bin/cmake.exe" -E make_directory D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../out/ML_OV7670_GFX
 	"C:/Program Files/CMake/bin/cmake.exe" -E copy D:/MV_PIC32CZ_Git/GestureRecognition/_build/ML_OV7670_GFX/default/default.elf D:/MV_PIC32CZ_Git/GestureRecognition/cmake/ML_OV7670_GFX/default/../../../out/ML_OV7670_GFX/

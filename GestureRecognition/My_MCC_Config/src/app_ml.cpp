@@ -35,11 +35,14 @@
 
 APP_ML_DATA app_mlData;
 
-int8_t recognisedDigit=-1;
+/* Module-local: gesture classification result (0=fist, 1=palm, 2=unknown) */
+static volatile uint8_t identified_gesture_local = 0;
+
 int8_t recognitionThreshold=20;
 
-extern bool ml_input_ready;
-extern bool inference_complete;
+volatile bool inference_complete = true;
+
+extern APP_CAM_DATA app_camData;
 
 extern leImage gesture;
 
@@ -154,6 +157,7 @@ int predict_gesture_from_frame()
     if (!interpreter) return -1;
 
     inference_complete = false;
+    app_camData.processed_frame_data_ready = false;
 
     float input_scale = input_tensor->params.scale;
     int32_t input_zero_point = input_tensor->params.zero_point;
@@ -197,9 +201,9 @@ int predict_gesture_from_frame()
         best = 2; // unknown
     }
 
-    if (best == 1)
+    if (best == 0)
     {
-        APP_Cam_SetIdentifiedGesture(0);
+        APP_ML_SetIdentifiedGesture(0);
             gesture =
                 {
                     {
@@ -227,9 +231,9 @@ int predict_gesture_from_frame()
                     NULL, // palette
                 };
     }
-    else if (best == 0)
+    else if (best == 1)
     {
-        APP_Cam_SetIdentifiedGesture(1);
+        APP_ML_SetIdentifiedGesture(1);
         gesture =
                 {
                     {
@@ -260,7 +264,7 @@ int predict_gesture_from_frame()
 
     else
     {
-        APP_Cam_SetIdentifiedGesture(2); // unknown
+        APP_ML_SetIdentifiedGesture(2); // unknown
     }
 
     prev_best = best;
@@ -292,8 +296,7 @@ void APP_ML_Tasks(void)
             break;
 
         case APP_ML_STATE_SERVICE_TASKS:
-            if (ml_input_ready) {
-                ml_input_ready = false;
+            if (app_camData.processed_frame_data_ready) {
                 predict_gesture_from_frame();
             }
             break;
@@ -303,13 +306,35 @@ void APP_ML_Tasks(void)
     }
 }
 
-int8_t APP_ML_GetRecognisedDigit(void)
+/**
+ * APP_Cam_GetIdentifiedGesture - Retrieve last gesture classification result
+ *
+ * Returns the gesture ID most recently set by the ML inference engine.
+ *
+ * Returns:
+ *   0 = Fist
+ *   1 = Palm
+ *   2 = Unknown/unclassified
+ */
+uint8_t APP_ML_GetIdentifiedGesture(void)
 {
-    return recognisedDigit;
+    return (uint8_t)identified_gesture_local;
 }
 
-void APP_ML_ClearRecognisedDigit(void)
+/**
+ * APP_Cam_SetIdentifiedGesture - Update gesture classification result
+ *
+ * Called by the ML inference engine (app_ml.cpp) to store classification result.
+ *
+ * Parameters:
+ *   id - Gesture ID (0=fist, 1=palm, 2=unknown)
+ */
+void APP_ML_SetIdentifiedGesture(uint8_t id)
 {
-    recognisedDigit = -1;
+    identified_gesture_local = id;
 }
 
+bool APP_ML_IsInferenceComplete(void)
+{
+    return inference_complete;
+}

@@ -192,8 +192,10 @@ void APP_ML_Initialize ( void );
  */
 
 void APP_ML_Tasks( void );
-int8_t APP_ML_GetRecognisedDigit(void);
-void APP_ML_ClearRecognisedDigit(void);
+uint8_t APP_ML_GetIdentifiedGesture(void);
+void APP_ML_SetIdentifiedGesture(uint8_t id);
+
+bool APP_ML_IsInferenceComplete(void);
 
 //DOM-IGNORE-BEGIN
 #ifdef __cplusplus

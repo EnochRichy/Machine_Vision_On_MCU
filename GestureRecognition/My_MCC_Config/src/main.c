@@ -41,23 +41,16 @@ int main ( void )
     /* Initialize all modules */
     SYS_Initialize ( NULL );
 
-    TCC7_PWMStart();
-
-    TCC1_PWMStart();
-
-    APP_Cam_Initialize();
-    APP_Display_Initialize();
-
     while ( true )
     {
         /* Maintain state machines of all polled MPLAB Harmony modules. */
         SYS_Tasks ( );
 
-        if (APP_Cam_HandleFrame())
-        {
-            APP_Display_ShowOverlay(APP_Cam_GetIdentifiedGesture());
-        }
+        /* Call Application task APP_CAM. */
+        APP_CAM_Tasks();
 
+        /* Call Application task APP_DISPLAY. */
+        APP_DISPLAY_Tasks();
     }
 
     /* Execution should not come here during normal operation */

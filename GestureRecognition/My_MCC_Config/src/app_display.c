@@ -1,9 +1,31 @@
 /*******************************************************************************
- * APP_DISPLAY.C - HUB75 LED Panel Display Implementation
- *
- * Implements HUB75 control, bitplane DMA, color conversion, and text overlay
- * rendering for the 64x64 RGB LED matrix.
- ******************************************************************************/
+  MPLAB Harmony Application Source File
+
+  Company:
+    Microchip Technology Inc.
+
+  File Name:
+    app_display.c
+
+  Summary:
+    This file contains the source code for the MPLAB Harmony application.
+
+  Description:
+    This file contains the source code for the MPLAB Harmony application.  It
+    implements the logic of the application's state machine and it may call
+    API routines of other MPLAB Harmony modules in the system, such as drivers,
+    system services, and middleware.  However, it does not call any of the
+    system interfaces (such as the "Initialize" and "Tasks" functions) of any of
+    the modules in the system or make any assumptions about when those functions
+    are called.  That is the responsibility of the configuration-specific system
+    files.
+ *******************************************************************************/
+
+// *****************************************************************************
+// *****************************************************************************
+// Section: Included Files
+// *****************************************************************************
+// *****************************************************************************
 
 #include "app_display.h"
 #include "definitions.h"
@@ -11,10 +33,13 @@
 #include "app_cam.h"
 #include <stdint.h>
 #include <stdbool.h>
+#include "app_ml.h"
 
-/* ============================================================================
- * Hardware Definitions - GPIO and DMA Configuration
- * ============================================================================ */
+// *****************************************************************************
+// *****************************************************************************
+// Section: Global Data Definitions
+// *****************************************************************************
+// *****************************************************************************
 
 /**
  * HUB75 GPIO Pin Masks for RGB Data Lines
@@ -31,30 +56,7 @@
 #define PIN_G2   (1u << 4)
 #define PIN_B2   (1u << 5)
 
-/* Base address for HUB75 RGB output port (GPIO group 3, upper byte) */
-#define LED_RGB_PORT_ADDR    ((const void *)((uint8_t *)&PORT_REGS->GROUP[3].PORT_OUT + 3))
 
-/* DMA buffer size: BCM_BITS bitplanes × ROW_PAIRS × PANEL_WIDTH pixels */
-/* Use PANEL_WIDTH/PANEL_HEIGHT/ROW_PAIRS as defined in app_cam.h */
-#define DMA_BUF_SIZE (BCM_BITS * ROW_PAIRS * PANEL_WIDTH)
-
-/* ============================================================================
- * Color Buffers (Source for LED Panel Rendering)
- * ============================================================================ */
-
-/**
- * buffer_R, buffer_G, buffer_B - RGB color buffers (64x64 pixels)
- *
- * Intermediate representation after camera capture and color conversion.
- * Values are 5-bit color components (0-31 range) used for DMA bitplane
- * decomposition. Filled by camera module during rgb565_to_gray64().
- */
-uint8_t buffer_R[PANEL_HEIGHT][PANEL_WIDTH];
-uint8_t buffer_G[PANEL_HEIGHT][PANEL_WIDTH];
-uint8_t buffer_B[PANEL_HEIGHT][PANEL_WIDTH];
-
-/* HUB75 DMA ring buffer: stores bitplane-encoded data for DMA transfer */
-static uint8_t hub75_dma_buf[DMA_BUF_SIZE];
 
 /* ============================================================================
  * Gamma Correction Table (for LED brightness control)
@@ -71,6 +73,33 @@ static const uint8_t gamma5[32] = {
     4,5,7,9,11,13,15,17,
     19,21,23,25,27,28,29,30,
     31,31,31,31,31,31,31,31
+};
+
+/* ============================================================================
+ * Text Rendering - 5x7 Font and Helpers
+ * ============================================================================ */
+
+/**
+ * font_5x7[][] - Minimal 5×7 bitmap font (8 glyphs)
+ *
+ * Subset containing: F(0) a(1) l(2) m(3) and P(4) a(5) l(6) m(7).
+ * Each glyph is 7 bytes (rows), each byte is 5 bits (columns, MSB=leftmost).
+ * Glyphs form labels "Fal m" (Palm) and "Palm" (Fist placeholder).
+ *
+ * Layout:
+ *   Row 0 (top):    0b10000 = leftmost pixel set
+ *   Row 1:          0b01000 = next pixel to right
+ *   ...continuing for 7 rows total
+ */
+static const uint8_t font_5x7[][7] = {
+    /* 0: 'F' */ {0b11110,0b10001,0b10001,0b11110,0b10000,0b10000,0b10000},
+    /* 1: 'a' */ {0b01110,0b10001,0b10001,0b11111,0b10001,0b10001,0b10001},
+    /* 2: 'l' */ {0b10000,0b10000,0b10000,0b10000,0b10000,0b10000,0b11111},
+    /* 3: 'm' */ {0b10001,0b11011,0b10101,0b10001,0b10001,0b10001,0b10001},
+    /* 4: 'P' */ {0b11111,0b10000,0b10000,0b11110,0b10000,0b10000,0b10000},
+    /* 5: 'a' */ {0b11111,0b00100,0b00100,0b00100,0b00100,0b00100,0b11111},
+    /* 6: 'l' */ {0b01111,0b10000,0b10000,0b01110,0b00001,0b00001,0b11110},
+    /* 7: 'm' */ {0b11111,0b00100,0b00100,0b00100,0b00100,0b00100,0b00100}
 };
 
 /* ============================================================================
@@ -93,6 +122,35 @@ static const uint16_t bcm_time[BCM_BITS] = { 1, 2, 4, 8, 12 };
 
 /* Camera module: raw RGB565 frame buffer (for cache coherency) */
 extern uint8_t panda_scaled_data[FRAME_BYTES];
+
+extern APP_CAM_DATA app_camData;
+
+
+// *****************************************************************************
+/* Application Data
+
+  Summary:
+    Holds application data
+
+  Description:
+    This structure holds the application's data.
+
+  Remarks:
+    This structure should be initialized by the APP_DISPLAY_Initialize function.
+
+    Application strings and buffers are be defined outside this structure.
+*/
+
+APP_DISPLAY_DATA app_displayData;
+
+
+
+// *****************************************************************************
+// *****************************************************************************
+// Section: Application Local Functions
+// *****************************************************************************
+// *****************************************************************************
+
 
 /* ============================================================================
  * Helper Functions - HUB75 Data Conversion
@@ -165,12 +223,12 @@ void rgb_to_hub75_dma(uint8_t *dma_buf)
     uint32_t idx = 0;
     for (uint8_t bit = 0; bit < BCM_BITS; bit++) {
         for (uint8_t row = 0; row < ROW_PAIRS; row++) {
-            uint8_t *r_top = buffer_R[row];
-            uint8_t *g_top = buffer_G[row];
-            uint8_t *b_top = buffer_B[row];
-            uint8_t *r_bot = buffer_R[row + ROW_PAIRS];
-            uint8_t *g_bot = buffer_G[row + ROW_PAIRS];
-            uint8_t *b_bot = buffer_B[row + ROW_PAIRS];
+            uint8_t *r_top = app_displayData.buffer_R[row];
+            uint8_t *g_top = app_displayData.buffer_G[row];
+            uint8_t *b_top = app_displayData.buffer_B[row];
+            uint8_t *r_bot = app_displayData.buffer_R[row + ROW_PAIRS];
+            uint8_t *g_bot = app_displayData.buffer_G[row + ROW_PAIRS];
+            uint8_t *b_bot = app_displayData.buffer_B[row + ROW_PAIRS];
             for (uint8_t x = 0; x < PANEL_WIDTH; x++) {
                 dma_buf[idx++] = hub75_pixel_to_gpio_rgb(
                     r_top[x], g_top[x], b_top[x],
@@ -245,98 +303,6 @@ static inline void set_row(uint8_t row)
     if (row & 0x10) LED_PANEL_E_Set();
 }
 
-/* ============================================================================
- * DMA Interrupt Handler (BCM State Machine)
- * ============================================================================ */
-
-/**
- * DMA_LED_ROW_Complete_cb - DMA completion callback for LED panel refresh
- *
- * Implements BCM state machine: advances through bitplanes (0-4) and rows (0-31).
- * For each bitplane × row combination:
- *   1. Set row address (A-E pins)
- *   2. Latch data into shift registers (LAT pulse)
- *   3. Enable output with BCM-controlled ON time (OE pulse)
- *   4. Queue next DMA transfer for following bitplane
- *
- * Static variables track current row/bit position across ISR invocations.
- * Full refresh cycle: 5 bitplanes × 32 rows × PANEL_WIDTH pixels.
- *
- * Context:
- *   event - DMA event type (block complete, error, etc.)
- *   context - Unused context pointer
- */
-void DMA_LED_ROW_Complete_cb(DMA_TRANSFER_EVENT event, uintptr_t context)
-{
-    static uint8_t row = 0;         /* Current row pair (0-31) */
-    static uint8_t bit = 0;         /* Current bitplane (0-4) */
-    static uint32_t idx = 0;        /* Current index in DMA buffer */
-
-    if (event == DMA_TRANSFER_EVENT_BLOCK_TRANSFER_COMPLETE) {
-        /* Compute LED ON time for current bitplane (exponential BCM) */
-        uint32_t on_time = bcm_time[bit] * BCM_BASE_TIME;
-
-        /* Select row address (sets A-E pins) */
-        set_row(row);
-
-        /* Latch data into shift registers (LAT pulse: ~2 NOPs) */
-        LED_PANEL_LAT_Set();
-        delay_nops(2);
-        LED_PANEL_LAT_Clear();
-
-        /* Enable output for BCM duration, then disable for next bitplane */
-        LED_PANEL_OE_Clear();
-        delay_nops(on_time);
-        LED_PANEL_OE_Set();
-
-        /* Advance state machine: next row, wrap to next bitplane at row 31 */
-        row++;
-        if (row >= ROW_PAIRS) {
-            row = 0;
-            bit++;
-            if (bit >= BCM_BITS) {
-                bit = 0;  /* Full refresh cycle complete, start over */
-            }
-        }
-
-        /* Compute buffer index for next DMA transfer */
-            idx = (bit * ROW_PAIRS * PANEL_WIDTH) + (row * PANEL_WIDTH);
-
-        /* Queue next row's data transfer */
-        DMA_ChannelDisable(DMA_CHANNEL_2);
-    DMA_ChannelTransfer(DMA_CHANNEL_2, &hub75_dma_buf[idx], LED_RGB_PORT_ADDR, PANEL_WIDTH);
-    } else if (event == DMA_TRANSFER_EVENT_ERROR) {
-        /* Error handling: log and optionally halt/restart */
-    }
-}
-
-/* ============================================================================
- * Text Rendering - 5x7 Font and Helpers
- * ============================================================================ */
-
-/**
- * font_5x7[][] - Minimal 5×7 bitmap font (8 glyphs)
- *
- * Subset containing: F(0) a(1) l(2) m(3) and P(4) a(5) l(6) m(7).
- * Each glyph is 7 bytes (rows), each byte is 5 bits (columns, MSB=leftmost).
- * Glyphs form labels "Fal m" (Palm) and "Palm" (Fist placeholder).
- *
- * Layout:
- *   Row 0 (top):    0b10000 = leftmost pixel set
- *   Row 1:          0b01000 = next pixel to right
- *   ...continuing for 7 rows total
- */
-static const uint8_t font_5x7[][7] = {
-    /* 0: 'F' */ {0b11110,0b10001,0b10001,0b11110,0b10000,0b10000,0b10000},
-    /* 1: 'a' */ {0b01110,0b10001,0b10001,0b11111,0b10001,0b10001,0b10001},
-    /* 2: 'l' */ {0b10000,0b10000,0b10000,0b10000,0b10000,0b10000,0b11111},
-    /* 3: 'm' */ {0b10001,0b11011,0b10101,0b10001,0b10001,0b10001,0b10001},
-    /* 4: 'P' */ {0b11111,0b10000,0b10000,0b11110,0b10000,0b10000,0b10000},
-    /* 5: 'a' */ {0b11111,0b00100,0b00100,0b00100,0b00100,0b00100,0b11111},
-    /* 6: 'l' */ {0b01111,0b10000,0b10000,0b01110,0b00001,0b00001,0b11110},
-    /* 7: 'm' */ {0b11111,0b00100,0b00100,0b00100,0b00100,0b00100,0b00100}
-};
-
 /**
  * draw_char_5x7 - Render a single 5×7 character at (x0, y0)
  *
@@ -357,9 +323,9 @@ static void draw_char_5x7(int x_offset, int y_offset, const uint8_t glyph[7], ui
                 int px = x_offset + x;
                 int py = y_offset + y;
                 if (px >= 0 && px < PANEL_WIDTH && py >= 0 && py < PANEL_HEIGHT) {
-                    buffer_R[py][px] = r;
-                    buffer_G[py][px] = g;
-                    buffer_B[py][px] = b;
+                    app_displayData.buffer_R[py][px] = r;
+                    app_displayData.buffer_G[py][px] = g;
+                    app_displayData.buffer_B[py][px] = b;
                 }
             }
         }
@@ -390,9 +356,9 @@ static void draw_char_5x7_scaled(int x_offset, int y_offset, const uint8_t glyph
                         int px = x_offset + gx * scale + sx;
                         int py = y_offset + gy * scale + sy;
                         if (px >= 0 && px < PANEL_WIDTH && py >= 0 && py < PANEL_HEIGHT) {
-                            buffer_R[py][px] = r;
-                            buffer_G[py][px] = g;
-                            buffer_B[py][px] = b;
+                            app_displayData.buffer_R[py][px] = r;
+                            app_displayData.buffer_G[py][px] = g;
+                            app_displayData.buffer_B[py][px] = b;
                         }
                     }
                 }
@@ -452,53 +418,6 @@ void draw_text_fist_overlay_scaled(void)
     draw_char_5x7_scaled(x + 18 * scale, y, font_5x7[3], scale, r, g, b);
 }
 
-/* ============================================================================
- * Public API - Initialization and Display Control
- * ============================================================================ */
-
-/**
- * APP_Display_Initialize - Initialize HUB75 LED panel and DMA
- *
- * Registers DMA completion callback and primes the first DMA transfer
- * to start the BCM refresh state machine.
- */
-void APP_Display_Initialize(void)
-{
-    /* Register DMA callback for LED panel BCM state machine */
-    DMA_ChannelCallbackRegister(DMA_CHANNEL_2, DMA_LED_ROW_Complete_cb, 0);
-
-    /* Prime the DMA state machine with first transfer */
-    DMA_ChannelTransfer(DMA_CHANNEL_2, &hub75_dma_buf[0], LED_RGB_PORT_ADDR, PANEL_WIDTH);
-}
-
-/**
- * APP_Display_ShowOverlay - Render gesture label and refresh display
- *
- * Draws gesture classification text overlay ("Fist" or "Palm") and
- * converts RGB buffer to bitplane DMA data. Initiates panel refresh cycle.
- *
- * Parameters:
- *   ident - Gesture ID (0=Fist, 1=Palm, other=no label)
- */
-void APP_Display_ShowOverlay(uint8_t ident)
-{
-    /* Draw gesture label overlay based on classification ID */
-    if (ident == 0) {
-        draw_text_fist_overlay_scaled();
-    } else if (ident == 1) {
-        draw_text_palm_overlay_scaled();
-    }
-
-    /* Convert RGB color buffers to HUB75 bitplane DMA buffer */
-    rgb_to_hub75_dma(hub75_dma_buf);
-
-    /* Initiate panel refresh (DMA state machine advances via ISR) */
-    DMA_ChannelTransfer(DMA_CHANNEL_2, &hub75_dma_buf[0], LED_RGB_PORT_ADDR, PANEL_WIDTH);
-
-    /* Ensure cache coherency for camera frame buffer (if applicable) */
-    DCACHE_CLEAN_BY_ADDR((uint32_t *)panda_scaled_data, APP_Cam_GetFrameBytes());
-}
-
 /**
  * APP_Display_GetHub75Buf - Return pointer to HUB75 DMA ring buffer
  *
@@ -509,5 +428,168 @@ void APP_Display_ShowOverlay(uint8_t ident)
  */
 const uint8_t *APP_Display_GetHub75Buf(void)
 {
-    return hub75_dma_buf;
+    return app_displayData.hub75_dma_buf;
 }
+
+// *****************************************************************************
+// *****************************************************************************
+// Section: Application Callback Functions
+// *****************************************************************************
+// *****************************************************************************
+
+/* ============================================================================
+ * DMA Interrupt Handler (BCM State Machine)
+ * ============================================================================ */
+
+/**
+ * DMA_LED_ROW_Complete_cb - DMA completion callback for LED panel refresh
+ *
+ * Implements BCM state machine: advances through bitplanes (0-4) and rows (0-31).
+ * For each bitplane × row combination:
+ *   1. Set row address (A-E pins)
+ *   2. Latch data into shift registers (LAT pulse)
+ *   3. Enable output with BCM-controlled ON time (OE pulse)
+ *   4. Queue next DMA transfer for following bitplane
+ *
+ * Static variables track current row/bit position across ISR invocations.
+ * Full refresh cycle: 5 bitplanes × 32 rows × PANEL_WIDTH pixels.
+ *
+ * Context:
+ *   event - DMA event type (block complete, error, etc.)
+ *   context - Unused context pointer
+ */
+void DMA_LED_ROW_Complete_cb(DMA_TRANSFER_EVENT event, uintptr_t context)
+{
+    static uint8_t row = 0;         /* Current row pair (0-31) */
+    static uint8_t bit = 0;         /* Current bitplane (0-4) */
+    static uint32_t idx = 0;        /* Current index in DMA buffer */
+
+    if (event == DMA_TRANSFER_EVENT_BLOCK_TRANSFER_COMPLETE) {
+        /* Compute LED ON time for current bitplane (exponential BCM) */
+        uint32_t on_time = bcm_time[bit] * BCM_BASE_TIME;
+
+        /* Select row address (sets A-E pins) */
+        set_row(row);
+
+        /* Latch data into shift registers (LAT pulse: ~2 NOPs) */
+        LED_PANEL_LAT_Set();
+        delay_nops(2);
+        LED_PANEL_LAT_Clear();
+
+        /* Enable output for BCM duration, then disable for next bitplane */
+        LED_PANEL_OE_Clear();
+        delay_nops(on_time);
+        LED_PANEL_OE_Set();
+
+        /* Advance state machine: next row, wrap to next bitplane at row 31 */
+        row++;
+        if (row >= ROW_PAIRS) {
+            row = 0;
+            bit++;
+            if (bit >= BCM_BITS) {
+                bit = 0;  /* Full refresh cycle complete, start over */
+            }
+        }
+
+        /* Compute buffer index for next DMA transfer */
+            idx = (bit * ROW_PAIRS * PANEL_WIDTH) + (row * PANEL_WIDTH);
+
+        /* Queue next row's data transfer */
+        DMA_ChannelDisable(DMA_CHANNEL_2);
+    DMA_ChannelTransfer(DMA_CHANNEL_2, &app_displayData.hub75_dma_buf[idx], LED_RGB_PORT_ADDR, PANEL_WIDTH);
+    } else if (event == DMA_TRANSFER_EVENT_ERROR) {
+        /* Error handling: log and optionally halt/restart */
+    }
+}
+
+// *****************************************************************************
+// *****************************************************************************
+// Section: Application Initialization and State Machine Functions
+// *****************************************************************************
+// *****************************************************************************
+
+/*******************************************************************************
+  Function:
+    void APP_DISPLAY_Initialize ( void )
+
+  Remarks:
+    See prototype in app_display.h.
+ */
+
+void APP_DISPLAY_Initialize ( void )
+{
+    /* Place the App state machine in its initial state. */
+    app_displayData.state = APP_DISPLAY_STATE_INIT;
+
+
+
+    /* TODO: Initialize your application's state machine and other
+     * parameters.
+     */
+}
+
+
+/******************************************************************************
+  Function:
+    void APP_DISPLAY_Tasks ( void )
+
+  Remarks:
+    See prototype in app_display.h.
+ */
+
+void APP_DISPLAY_Tasks ( void )
+{
+
+    /* Check the application's current state. */
+    switch ( app_displayData.state )
+    {
+        /* Application's initial state. */
+        case APP_DISPLAY_STATE_INIT:
+        {
+            bool appInitialized = true;
+
+            /* Register DMA callback for LED panel BCM state machine */
+            DMA_ChannelCallbackRegister(DMA_CHANNEL_2, DMA_LED_ROW_Complete_cb, 0);
+
+            /* Prime the DMA state machine with first transfer */
+            DMA_ChannelTransfer(DMA_CHANNEL_2, &app_displayData.hub75_dma_buf[0], LED_RGB_PORT_ADDR, PANEL_WIDTH);
+
+            if (appInitialized)
+            {
+
+                app_displayData.state = APP_DISPLAY_STATE_SERVICE_TASKS;
+            }
+            break;
+        }
+
+        case APP_DISPLAY_STATE_SERVICE_TASKS:
+        {
+            /* Draw gesture label overlay based on classification ID */
+            if (APP_ML_GetIdentifiedGesture() == 0) {
+                draw_text_fist_overlay_scaled();
+            } else if (APP_ML_GetIdentifiedGesture() == 1) {
+                draw_text_palm_overlay_scaled();
+            }
+
+            /* Convert RGB color buffers to HUB75 bitplane DMA buffer */
+            rgb_to_hub75_dma(app_displayData.hub75_dma_buf);
+
+            /* Initiate panel refresh (DMA state machine advances via ISR) */
+            DMA_ChannelTransfer(DMA_CHANNEL_2, &app_displayData.hub75_dma_buf[0], LED_RGB_PORT_ADDR, PANEL_WIDTH);
+
+            break;
+        }
+
+        /* The default state should never be executed. */
+        default:
+        {
+            /* TODO: Handle error in application's state machine. */
+            break;
+        }
+    }
+}
+
+
+/*******************************************************************************
+ End of File
+ */

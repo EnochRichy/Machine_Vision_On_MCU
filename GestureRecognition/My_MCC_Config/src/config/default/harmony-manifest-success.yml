@@ -4,13 +4,13 @@
 
 
 project: My_MCC_Config_default
-creation_date: 2026-01-19T17:40:35.939+05:30[Asia/Calcutta]    # ISO 8601 format: https://www.w3.org/TR/NOTE-datetime
+creation_date: 2026-01-29T12:01:01.441+05:30[Asia/Calcutta]    # ISO 8601 format: https://www.w3.org/TR/NOTE-datetime
 operating_system: Windows 11
 mcc_mode: VSCodePlugin            # [IDE|Standalone|Headless]
-mcc_version: v5.6.3
-mcc_core_version: v5.8.3
+mcc_version: v5.6.4
+mcc_core_version: v5.8.4
 mplabx_version: NA        # if MPLAB X plugin only
-harmony_version: v5.6.3
+harmony_version: v5.6.4
 compiler: NA
 
 modules:

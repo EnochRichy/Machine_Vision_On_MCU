@@ -1,19 +1,43 @@
 /*******************************************************************************
- * APP_CAM.C - Camera and Frame Processing Implementation
- *
- * Implements OV7670 camera driver, DMA frame capture, and RGB565→grayscale
- * conversion. Manages interrupts (HSYNC/VSYNC), I2C register writes, and
- * gesture classification result storage.
- ******************************************************************************/
+  MPLAB Harmony Application Source File
+
+  Company:
+    Microchip Technology Inc.
+
+  File Name:
+    app_cam.c
+
+  Summary:
+    This file contains the source code for the MPLAB Harmony application.
+
+  Description:
+    This file contains the source code for the MPLAB Harmony application.  It
+    implements the logic of the application's state machine and it may call
+    API routines of other MPLAB Harmony modules in the system, such as drivers,
+    system services, and middleware.  However, it does not call any of the
+    system interfaces (such as the "Initialize" and "Tasks" functions) of any of
+    the modules in the system or make any assumptions about when those functions
+    are called.  That is the responsibility of the configuration-specific system
+    files.
+ *******************************************************************************/
+
+// *****************************************************************************
+// *****************************************************************************
+// Section: Included Files
+// *****************************************************************************
+// *****************************************************************************
 
 #include "app_cam.h"
+#include "app_display.h"
 #include "definitions.h"
 #include <stdint.h>
 #include <stdbool.h>
 
-/* ============================================================================
- * Internal Constants
- * ============================================================================ */
+// *****************************************************************************
+// *****************************************************************************
+// Section: Global Data Definitions
+// *****************************************************************************
+// *****************************************************************************
 
 /* OV7670 I2C addresses */
 #define OV7670_I2C_ADDR_WRITE       0x21    /* 0x42 >> 1 for 7-bit addressing */
@@ -29,24 +53,9 @@
 /* Busy-wait loop iterations for timing (conservative approximation) */
 #define I2C_WRITE_DELAY_LOOPS       100000
 
-/* ============================================================================
- * Module State and Shared Buffers
- * ============================================================================ */
-
-/* Frame capture state machine flags */
-volatile bool frame_ready = false;           /* Set by DMA ISR when frame complete */
-volatile bool inference_complete = true;     /* Gate for conversion; set by ML when done */
-volatile bool ml_input_ready = false;        /* Set by conversion when grayscale ready */
-volatile uint32_t line_index = 0;            /* Current HSYNC line counter */
-
 /* Extern buffers (provided by display module) */
 extern uint8_t panda_scaled_data[FRAME_BYTES];      /* DMA target: raw RGB565 frame */
-extern uint8_t buffer_R[PANEL_HEIGHT][PANEL_WIDTH];
-extern uint8_t buffer_G[PANEL_HEIGHT][PANEL_WIDTH];
-extern uint8_t buffer_B[PANEL_HEIGHT][PANEL_WIDTH];
-
-/* Module-local: gesture classification result (0=fist, 1=palm, 2=unknown) */
-static volatile uint8_t identified_gesture_local = 0;
+extern APP_DISPLAY_DATA app_displayData;
 
 /* Module-local: 64x64 grayscale image for ML inference */
 static uint8_t greyscale_img_local[ML_IMG_W * ML_IMG_H];
@@ -81,9 +90,29 @@ static const uint8_t gamma5_boosted[32] = {
     30,30,31,31,31,31,31,31
 };
 
-/* ============================================================================
- * Interrupt Handlers (DMA and External Interrupts)
- * ============================================================================ */
+
+// *****************************************************************************
+/* Application Data
+
+  Summary:
+    Holds application data
+
+  Description:
+    This structure holds the application's data.
+
+  Remarks:
+    This structure should be initialized by the APP_CAM_Initialize function.
+
+    Application strings and buffers are be defined outside this structure.
+*/
+
+APP_CAM_DATA app_camData;
+
+// *****************************************************************************
+// *****************************************************************************
+// Section: Application Callback Functions
+// *****************************************************************************
+// *****************************************************************************
 
 /**
  * DMA_EventHandler - Camera DMA transfer completion callback
@@ -98,10 +127,10 @@ static const uint8_t gamma5_boosted[32] = {
 void DMA_EventHandler(DMA_TRANSFER_EVENT event, uintptr_t context)
 {
     if (event == DMA_TRANSFER_EVENT_BLOCK_TRANSFER_COMPLETE) {
-        frame_ready = true;
+        app_camData.frame_ready = true;
     } else if (event == DMA_TRANSFER_EVENT_ERROR) {
         /* Simple error handling: log and continue (original behavior) */
-        frame_ready = true;
+        app_camData.frame_ready = true;
     }
 }
 
@@ -113,7 +142,7 @@ void DMA_EventHandler(DMA_TRANSFER_EVENT event, uintptr_t context)
  */
 void HSYNC_ISR(void)
 {
-    line_index++;
+    app_camData.line_index++;
 }
 
 /**
@@ -124,7 +153,7 @@ void HSYNC_ISR(void)
  */
 void VSYNC_ISR(void)
 {
-        if (line_index >= (IMG_HEIGHT - 5))
+        if (app_camData.line_index >= (IMG_HEIGHT - 5))
     {
       DMA_ChannelDisable(DMA_CHANNEL_1);
       DMA_ChannelTransfer(DMA_CHANNEL_1,
@@ -132,10 +161,18 @@ void VSYNC_ISR(void)
                           &panda_scaled_data[0],
                                                     FRAME_BYTES);
 
-      line_index = 0;
-      frame_ready = false;
+      app_camData.line_index = 0;
+      app_camData.frame_ready = false;
     }
 }
+
+
+// *****************************************************************************
+// *****************************************************************************
+// Section: Application Local Functions
+// *****************************************************************************
+// *****************************************************************************
+
 
 /* ============================================================================
  * I2C Register Access (OV7670 Camera Control)
@@ -194,7 +231,7 @@ void I2C_Read(uint8_t reg_addr)
  * ============================================================================ */
 
 /**
- * ov7670_set_rgb565_QQVGA_Working - Initialize OV7670 for RGB565 QQVGA mode
+ * ov7670_init - Initialize OV7670 for RGB565 QQVGA mode
  *
  * Configures OV7670 camera via I2C for:
  *   - RGB565 color format (16-bit output)
@@ -206,7 +243,7 @@ void I2C_Read(uint8_t reg_addr)
  * Resets camera, applies register configuration, and includes settling delays.
  * Called once during application startup via APP_Cam_Initialize().
  */
-void ov7670_set_rgb565_QQVGA_Working(void)
+void ov7670_init(void)
 {
    /* Reset OV7670 via GPIO */
   RST_OV_Clear();
@@ -272,6 +309,7 @@ void ov7670_set_rgb565_QQVGA_Working(void)
   while(!SYS_TIME_DelayIsComplete(delayHandle));
 }
 
+
 /* ============================================================================
  * Frame Processing: RGB565 → Grayscale Conversion
  * ============================================================================ */
@@ -299,11 +337,11 @@ void rgb565_to_gray64(void)
     const int x_scale = (IMG_WIDTH * 1000) / ML_IMG_W;   /* (160 * 1000) / 64 = 2500 */
     const int y_scale = (IMG_HEIGHT * 1000) / ML_IMG_H;  /* (120 * 1000) / 64 = 1875 */
 
-    if(inference_complete == false)
-    {
-        /* Skip conversion while ML engine is reading the current frame */
-        return;
-    }
+    // if( APP_ML_IsInferenceComplete() == false)
+    // {
+    //     /* Skip conversion while ML engine is reading the current frame */
+    //     return;
+    // }
 
     for (int dst_y = 0; dst_y < ML_IMG_H; dst_y++)
     {
@@ -335,7 +373,6 @@ void rgb565_to_gray64(void)
 
             /* Store grayscale value for ML inference */
             greyscale_img_local[dst_y * ML_IMG_W + dst_x] = grayscale;
-            ml_input_ready = true;
 
             /* Also populate display buffers with scaled RGB values */
             r_5bit = (pixel >> 11) & 0x1F;
@@ -353,54 +390,13 @@ void rgb565_to_gray64(void)
             if (g_scaled > 31) g_scaled = 31;
             if (b_scaled > 31) b_scaled = 31;
 
-            buffer_R[dst_y][dst_x] = gamma5[r_scaled];
-            buffer_G[dst_y][dst_x] = gamma5[g_scaled];
-            buffer_B[dst_y][dst_x] = gamma5[b_scaled];
+            app_displayData.buffer_R[dst_y][dst_x] = gamma5[r_scaled];
+            app_displayData.buffer_G[dst_y][dst_x] = gamma5[g_scaled];
+            app_displayData.buffer_B[dst_y][dst_x] = gamma5[b_scaled];
+
+            app_camData.processed_frame_data_ready = true;
         }
     }
-}
-
-/* ============================================================================
- * Public API - Initialization and Frame Processing
- * ============================================================================ */
-
-/**
- * APP_Cam_Initialize - Initialize camera hardware and register callbacks
- *
- * Configures OV7670 registers, enables DMA channel 1, and registers
- * HSYNC/VSYNC interrupt handlers.
- */
-void APP_Cam_Initialize(void)
-{
-    /* Configure camera registers for RGB565 QQVGA output */
-    ov7670_set_rgb565_QQVGA_Working();
-
-    /* Register DMA completion callback for frame capture */
-    DMA_ChannelCallbackRegister(DMA_CHANNEL_1, DMA_EventHandler, 0);
-
-    /* Register external interrupt handlers for HSYNC/VSYNC line/frame sync */
-    EIC_CallbackRegister(EIC_PIN_1, (EIC_CALLBACK)VSYNC_ISR, 0);
-    EIC_CallbackRegister(EIC_PIN_2, (EIC_CALLBACK)HSYNC_ISR, 0);
-}
-
-/**
- * APP_Cam_HandleFrame - Process pending camera frame if available
- *
- * Call this from the main application loop. Converts RGB565 to 64x64 grayscale
- * if a complete frame has been captured via DMA.
- *
- * Returns:
- *   true  - Frame was processed and grayscale/color buffers updated
- *   false - No frame ready; grayscale/color buffers unchanged
- */
-bool APP_Cam_HandleFrame(void)
-{
-    if (!frame_ready) return false;
-
-    /* Clear flag and perform conversion */
-    frame_ready = false;
-    rgb565_to_gray64();
-    return true;
 }
 
 /* ============================================================================
@@ -421,30 +417,101 @@ const uint8_t *APP_Cam_GetGreyscaleImg(void)
     return greyscale_img_local;
 }
 
-/**
- * APP_Cam_GetIdentifiedGesture - Retrieve last gesture classification result
- *
- * Returns the gesture ID most recently set by the ML inference engine.
- *
- * Returns:
- *   0 = Fist
- *   1 = Palm
- *   2 = Unknown/unclassified
+// *****************************************************************************
+// *****************************************************************************
+// Section: Application Initialization and State Machine Functions
+// *****************************************************************************
+// *****************************************************************************
+
+/*******************************************************************************
+  Function:
+    void APP_CAM_Initialize ( void )
+
+  Remarks:
+    See prototype in app_cam.h.
  */
-uint8_t APP_Cam_GetIdentifiedGesture(void)
+
+void APP_CAM_Initialize ( void )
 {
-    return (uint8_t)identified_gesture_local;
+    /* Place the App state machine in its initial state. */
+    app_camData.state = APP_CAM_STATE_INIT;
+    app_camData.frame_ready = false;
+    app_camData.line_index = 0;
+    app_camData.processed_frame_data_ready = false;
 }
 
-/**
- * APP_Cam_SetIdentifiedGesture - Update gesture classification result
- *
- * Called by the ML inference engine (app_ml.cpp) to store classification result.
- *
- * Parameters:
- *   id - Gesture ID (0=fist, 1=palm, 2=unknown)
+
+/******************************************************************************
+  Function:
+    void APP_CAM_Tasks ( void )
+
+  Remarks:
+    See prototype in app_cam.h.
  */
-void APP_Cam_SetIdentifiedGesture(uint8_t id)
+
+void APP_CAM_Tasks ( void )
 {
-    identified_gesture_local = id;
+
+    /* Check the application's current state. */
+    switch ( app_camData.state )
+    {
+        /* Application's initial state. */
+        case APP_CAM_STATE_INIT:
+        {
+            bool appInitialized = true;
+
+            TCC7_PWMStart();
+
+            TCC1_PWMStart();
+
+            /* Configure camera registers for RGB565 QQVGA output */
+            ov7670_init();
+
+            /* Register DMA completion callback for frame capture */
+            DMA_ChannelCallbackRegister(DMA_CHANNEL_1, DMA_EventHandler, 0);
+
+            /* Register external interrupt handlers for HSYNC/VSYNC line/frame sync */
+            EIC_CallbackRegister(EIC_PIN_1, (EIC_CALLBACK)VSYNC_ISR, 0);
+            EIC_CallbackRegister(EIC_PIN_2, (EIC_CALLBACK)HSYNC_ISR, 0);
+
+
+            if (appInitialized)
+            {
+                app_camData.state = APP_CAM_STATE_SERVICE_TASKS;
+            }
+            break;
+        }
+
+        case APP_CAM_STATE_SERVICE_TASKS:
+        {
+
+            if (app_camData.frame_ready)
+            {
+                /* Process the captured frame */
+                /* Clear flag and perform conversion */
+                app_camData.frame_ready = false;
+                rgb565_to_gray64();
+                legato_showScreen(screenID_Screen0);
+                /* Ensure cache coherency for camera frame buffer (if applicable) */
+                DCACHE_CLEAN_BY_ADDR((uint32_t *)panda_scaled_data, APP_Cam_GetFrameBytes());
+            }         
+
+            break;
+        }
+
+        /* TODO: implement your application state machine.*/
+
+
+        /* The default state should never be executed. */
+        default:
+        {
+            /* TODO: Handle error in application's state machine. */
+            break;
+        }
+    }
 }
+
+
+/*******************************************************************************
+ End of File
+ */

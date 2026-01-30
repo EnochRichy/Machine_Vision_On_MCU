@@ -71,7 +71,7 @@
                     "My_MCC_Config/src/packs/CMSIS/CMSIS/Core/Include",
                     "My_MCC_Config/src/packs/PIC32CZ8110CA90208_DFP"
                 ],
-                "linker.heap-size": "0",
+                "linker.heap-size": "512",
                 "linker.remove-unused-sections": true,
                 "linker.no-device-startup-code": "true",
                 "linker.preprocessor-macros": [
@@ -231,12 +231,6 @@
                 "My_MCC_Config/src/config/default/osal/osal.h",
                 "My_MCC_Config/src/config/default/osal/osal_definitions.h",
                 "My_MCC_Config/src/config/default/osal/osal_impl_basic.h",
-                "My_MCC_Config/src/app.c",
-                "My_MCC_Config/src/app.h",
-                "My_MCC_Config/src/app_cam.c",
-                "My_MCC_Config/src/app_cam.h",
-                "My_MCC_Config/src/app_display.c",
-                "My_MCC_Config/src/app_display.h",
                 "My_MCC_Config/src/config/default/user.h",
                 "My_MCC_Config/src/config/default/configuration.h",
                 "My_MCC_Config/src/config/default/sys_tasks.h",
@@ -874,7 +868,13 @@
                 "My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/transpose_conv.cpp",
                 "My_MCC_Config/src/tensorflow/lite/micro/kernels/cmsis_nn/unidirectional_sequence_lstm.cpp",
                 "My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc7.h",
-                "My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc7.c"
+                "My_MCC_Config/src/config/default/peripheral/tcc/plib_tcc7.c",
+                "My_MCC_Config/src/app_usb.c",
+                "My_MCC_Config/src/app_usb.h",
+                "My_MCC_Config/src/app_cam.c",
+                "My_MCC_Config/src/app_cam.h",
+                "My_MCC_Config/src/app_display.c",
+                "My_MCC_Config/src/app_display.h"
             ]
         }
     ]

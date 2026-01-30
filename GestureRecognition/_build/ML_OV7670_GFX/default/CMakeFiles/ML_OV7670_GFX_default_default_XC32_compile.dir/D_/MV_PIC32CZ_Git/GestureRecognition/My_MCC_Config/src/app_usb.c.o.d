@@ -1,6 +1,6 @@
-CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o: \
- D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c \
- D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.h \
+CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o: \
+ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c \
+ D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.h \
  c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\stdint.h \
  c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\bits\alltypes.h \
  c:\program\ files\microchip\xc32\v4.60\pic32c\include\musl\bits\stdint.h \
@@ -188,9 +188,9 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Gest
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\system/cache/sys_cache.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\osal/osal.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\system/debug/sys_debug.h \
+ d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\peripheral/evsys/plib_evsys.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\peripheral/sercom/i2c_master/plib_sercom0_i2c_master.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\peripheral/sercom/i2c_master/plib_sercom_i2c_master_common.h \
- d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\peripheral/evsys/plib_evsys.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\gfx/legato/generated/le_gen_harmony.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\generated\le_gen_init.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\gfx\legato\legato.h \
@@ -256,5 +256,7 @@ CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/Gest
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\peripheral/tcc/plib_tcc0.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\peripheral/tcc/plib_tcc9.h \
  d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\config\default\peripheral/tcc/plib_tcc7.h \
- d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\app.h \
+ d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\app_usb.h \
+ d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\app_cam.h \
+ d:\mv_pic32cz_git\gesturerecognition\my_mcc_config\src\app_display.h \
  D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.h

@@ -2,13 +2,13 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o"
-		},
-		{
 			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o"
 		},
 		{
 			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c.o"
+		},
+		{
+			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o"
 		},
 		{
 			"path" : "CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c.o"
@@ -1786,12 +1786,6 @@
 		{
 			"backtrace" : 3,
 			"compileGroupIndex" : 0,
-			"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 3,
-			"compileGroupIndex" : 0,
 			"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c",
 			"sourceGroupIndex" : 0
 		},
@@ -1799,6 +1793,12 @@
 			"backtrace" : 3,
 			"compileGroupIndex" : 0,
 			"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_display.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c",
 			"sourceGroupIndex" : 0
 		},
 		{

@@ -500,9 +500,9 @@ void SYS_Initialize ( void* data )
 
     EBI_Initialize();
 
-    SERCOM0_I2C_Initialize();
-
     EVSYS_Initialize();
+
+    SERCOM0_I2C_Initialize();
 
     DMA_Initialize();
 
@@ -558,6 +558,9 @@ void SYS_Initialize ( void* data )
 
 
     /* MISRAC 2012 deviation block end */
+    APP_USB_Initialize();
+    APP_CAM_Initialize();
+    APP_DISPLAY_Initialize();
     APP_ML_Initialize();
 
 

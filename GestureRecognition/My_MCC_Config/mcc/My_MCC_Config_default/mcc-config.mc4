@@ -1,6 +1,6 @@
 configVersion: 1.0.0
-coreVersion: 5.8.3
-spaHostVersion: 1.2.0
+coreVersion: 5.8.4
+spaHostVersion: 1.2.1
 device: PIC32CZ8110CA90208
 deviceLibrary: {}
 groupModules:
@@ -41,16 +41,24 @@ modules:
 - usb_device_vendor
 - usb_device_vendor_0
 generatedFileHashHistoryMap:
-- file: ..\src\app.c
-  hash: 632c78c323cb9f8c6359f20337440c08f8461eb4b0304552b6a3cfd5c4052620
-- file: ..\src\app.h
-  hash: 8e35d8509552a4d1d6e6f123ad75694cf784a707f7dac592ed33b55121aa8e28
+- file: ..\src\app_cam.c
+  hash: 564c1c645bd002fba53f150d729cd5956952dd7d9b2f98162b56313e5f2e9810
+- file: ..\src\app_cam.h
+  hash: afcb237ef48e403020c4139ca332b1a9e402eafdbfcbbed2918d0ba563c822d2
+- file: ..\src\app_display.c
+  hash: 8c45e2fb7ae2f90d55dee2ed0499e72e75d061dca724dc3dbc6a57fed729fe3d
+- file: ..\src\app_display.h
+  hash: 3be34262e5bceb19857c6cc902d9800fcb9ab532b87e1bfa57f17313193c3f6c
+- file: ..\src\app_usb.c
+  hash: 77d47dee1ebf3179c70c29ec42bd9a6c79abb5ff528c2b51e2c9157210a6855d
+- file: ..\src\app_usb.h
+  hash: e0ccf2c84c85798f6f7ab7c245a7e43d83241bc3d9f80e6d99cda6a0e23b55de
 - file: ..\src\config\default\PIC32CZ8110CA90208.ld
   hash: 188ba19d8da9dfc895bf22b4d46d9f87b8ff0cdda50f619a3021b36e144abe82
 - file: ..\src\config\default\configuration.h
   hash: 7edfb16a6fe0383ebc1b284dc7bc5c9564df3524e68cc5d653b51140f7385077
 - file: ..\src\config\default\definitions.h
-  hash: 6f226cf7b5f57a1f21971fa08c28a7491aa8a242c564d7506342c152cafabdb5
+  hash: 791f0b20fde7ea39ae329401a7e70289899d8ab66aad94e81042b0a2792f97e9
 - file: ..\src\config\default\device.h
   hash: dc53d76f68355827fd146558b23bffb156697207880ccc4cc8946bf55258fbc8
 - file: ..\src\config\default\device_cache.h
@@ -646,7 +654,7 @@ generatedFileHashHistoryMap:
 - file: ..\src\config\default\gfx\legato\widget\window\legato_widget_window_skin_classic.c
   hash: dd6b3e7c710431206685fc51459a31358dae4e99be8dd14849be4fe858ba4cc8
 - file: ..\src\config\default\initialization.c
-  hash: 42decb8b4e222d51578f6d3227701b33d8c49f7901d578da5c333ecb7661a8f3
+  hash: 82a1a46fff34a4d8802d00471bb35b6d0cc6334f185439a30f3e96ad455717c2
 - file: ..\src\config\default\interrupts.c
   hash: c41d17f27ee4f35d8002ee6cebdf0ff0426f4ec0aa6621a0f0fb95896f25037d
 - file: ..\src\config\default\interrupts.h
@@ -776,7 +784,7 @@ generatedFileHashHistoryMap:
 - file: ..\src\config\default\system\time\sys_time_definitions.h
   hash: cc0d00616cb683322f8a66b8c5afce4d65e5a5b972c613d6e562f9a5a5d47c8f
 - file: ..\src\config\default\tasks.c
-  hash: d9e4dcd499b298f7c9e064fbb78e4f1abc7024f0cc9df9ca56b01d10eaa7c0a7
+  hash: 650152b844364cc94d888ef4f10f89efb9b336f1e6b84842d8e5ef5d580c5c4c
 - file: ..\src\config\default\toolchain_specifics.h
   hash: 406ef48ae415706beb0796977cab09342077f7b1efc3f24767bd97bbd5e5a433
 - file: ..\src\config\default\usb\src\usb_device.c

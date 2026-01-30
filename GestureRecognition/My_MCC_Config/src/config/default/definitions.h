@@ -62,8 +62,8 @@
 #include "system/cache/sys_cache.h"
 #include "osal/osal.h"
 #include "system/debug/sys_debug.h"
-#include "peripheral/sercom/i2c_master/plib_sercom0_i2c_master.h"
 #include "peripheral/evsys/plib_evsys.h"
+#include "peripheral/sercom/i2c_master/plib_sercom0_i2c_master.h"
 #include "gfx/legato/generated/le_gen_harmony.h"
 #include "peripheral/port/plib_port.h"
 #include "peripheral/clock/plib_clock.h"
@@ -77,7 +77,9 @@
 #include "peripheral/tcc/plib_tcc0.h"
 #include "peripheral/tcc/plib_tcc9.h"
 #include "peripheral/tcc/plib_tcc7.h"
-#include "app.h"
+#include "app_usb.h"
+#include "app_cam.h"
+#include "app_display.h"
 
 
 

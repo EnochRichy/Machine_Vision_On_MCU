@@ -1,6 +1,6 @@
 configVersion: 1.0.0
 componentName: HarmonyCore
-coreVersion: 5.8.3
+coreVersion: 5.8.4
 device: PIC32CZ8110CA90208
 library: []
 dependency:
@@ -39,6 +39,12 @@ data:
           - type: Value
             value: 'true'
           type: Boolean
+        - attributes:
+            id: name
+          children:
+          - type: Value
+            value: app_usb.c
+          type: String
         type: Attributes
       type: File
     APP0_H:
@@ -52,6 +58,12 @@ data:
           - type: Value
             value: 'true'
           type: Boolean
+        - attributes:
+            id: name
+          children:
+          - type: Value
+            value: app_usb.h
+          type: String
         type: Attributes
       type: File
     CONFIGURATION_H:
@@ -446,4 +458,120 @@ data:
           type: Boolean
         type: Attributes
       type: File
+    APP1_C:
+      attributes:
+        id: APP1_C
+      children:
+      - children:
+        - attributes:
+            id: enabled
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        - attributes:
+            id: name
+          children:
+          - type: Value
+            value: app_cam.c
+          type: String
+        type: Attributes
+      type: File
+    APP2_C:
+      attributes:
+        id: APP2_C
+      children:
+      - children:
+        - attributes:
+            id: enabled
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        - attributes:
+            id: name
+          children:
+          - type: Value
+            value: app_display.c
+          type: String
+        type: Attributes
+      type: File
+    APP1_H:
+      attributes:
+        id: APP1_H
+      children:
+      - children:
+        - attributes:
+            id: enabled
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        - attributes:
+            id: name
+          children:
+          - type: Value
+            value: app_cam.h
+          type: String
+        type: Attributes
+      type: File
+    APP2_H:
+      attributes:
+        id: APP2_H
+      children:
+      - children:
+        - attributes:
+            id: enabled
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        - attributes:
+            id: name
+          children:
+          - type: Value
+            value: app_display.h
+          type: String
+        type: Attributes
+      type: File
+    GEN_APP_TASK_COUNT:
+      attributes:
+        id: GEN_APP_TASK_COUNT
+      children:
+      - children:
+        - attributes:
+            value: '3'
+          type: User
+        type: Values
+      type: Integer
+    GEN_APP_TASK_NAME_0:
+      attributes:
+        id: GEN_APP_TASK_NAME_0
+      children:
+      - children:
+        - attributes:
+            value: app_usb
+          type: User
+        type: Values
+      type: String
+    GEN_APP_TASK_NAME_1:
+      attributes:
+        id: GEN_APP_TASK_NAME_1
+      children:
+      - children:
+        - attributes:
+            value: app_cam
+          type: User
+        type: Values
+      type: String
+    GEN_APP_TASK_NAME_2:
+      attributes:
+        id: GEN_APP_TASK_NAME_2
+      children:
+      - children:
+        - attributes:
+            value: app_display
+          type: User
+        type: Values
+      type: String
   userData: {}

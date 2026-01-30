@@ -1,18 +1,18 @@
 /*******************************************************************************
   MPLAB Harmony Application Source File
-  
+
   Company:
     Microchip Technology Inc.
-  
+
   File Name:
-    app.c
+    app_usb.c
 
   Summary:
     This file contains the source code for the MPLAB Harmony application.
 
   Description:
-    This file contains the source code for the MPLAB Harmony application.  It 
-    implements the logic of the application's state machine and it may call 
+    This file contains the source code for the MPLAB Harmony application.  It
+    implements the logic of the application's state machine and it may call
     API routines of other MPLAB Harmony modules in the system, such as drivers,
     system services, and middleware.  However, it does not call any of the
     system interfaces (such as the "Initialize" and "Tasks" functions) of any of
@@ -21,55 +21,22 @@
     files.
  *******************************************************************************/
 
-// DOM-IGNORE-BEGIN
-/*******************************************************************************
-* Copyright (C) 2018 Microchip Technology Inc. and its subsidiaries.
-*
-* Subject to your compliance with these terms, you may use Microchip software
-* and any derivatives exclusively with Microchip products. It is your
-* responsibility to comply with third party license terms applicable to your
-* use of third party software (including open source software) that may
-* accompany Microchip software.
-*
-* THIS SOFTWARE IS SUPPLIED BY MICROCHIP "AS IS". NO WARRANTIES, WHETHER
-* EXPRESS, IMPLIED OR STATUTORY, APPLY TO THIS SOFTWARE, INCLUDING ANY IMPLIED
-* WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR A
-* PARTICULAR PURPOSE.
-*
-* IN NO EVENT WILL MICROCHIP BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE,
-* INCIDENTAL OR CONSEQUENTIAL LOSS, DAMAGE, COST OR EXPENSE OF ANY KIND
-* WHATSOEVER RELATED TO THE SOFTWARE, HOWEVER CAUSED, EVEN IF MICROCHIP HAS
-* BEEN ADVISED OF THE POSSIBILITY OR THE DAMAGES ARE FORESEEABLE. TO THE
-* FULLEST EXTENT ALLOWED BY LAW, MICROCHIP'S TOTAL LIABILITY ON ALL CLAIMS IN
-* ANY WAY RELATED TO THIS SOFTWARE WILL NOT EXCEED THE AMOUNT OF FEES, IF ANY,
-* THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS SOFTWARE.
- *******************************************************************************/
-// DOM-IGNORE-END
-
-
 // *****************************************************************************
 // *****************************************************************************
-// Section: Included Files 
+// Section: Included Files
 // *****************************************************************************
 // *****************************************************************************
 
-#include "app.h"
-// Access camera greyscale buffer via API
+#include "app_usb.h"
 #include "app_cam.h"
-
 
 // *****************************************************************************
 // *****************************************************************************
 // Section: Global Data Definitions
 // *****************************************************************************
 // *****************************************************************************
-#if defined (__PIC32MZ__) || defined (__PIC32MX__) || defined(__PIC32CX1025SG41128__) || defined (_SAMD21J18A_H_) || defined (_SAME54P20A_H_) ||  defined (__PIC32MM__) ||  defined (_PIC32CM5164LE00100_H_) || defined (DRV_USBHS_DEVICE_SUPPORT) || defined (DRV_USBFS_DEVICE_SUPPORT)|| defined (__PIC32CK2051GC01144__) || defined (_PIC32CM5112GC00100_H_)
 #define APP_EP_BULK_OUT 1
 #define APP_EP_BULK_IN 1
-#else
-#define APP_EP_BULK_OUT 1
-#define APP_EP_BULK_IN 2
-#endif 
 // *****************************************************************************
 /* Application Data
 
@@ -80,12 +47,12 @@
     This structure holds the application's data.
 
   Remarks:
-    This structure should be initialized by the APP_Initialize function.
-    
+    This structure should be initialized by the APP_USB_Initialize function.
+
     Application strings and buffers are be defined outside this structure.
 */
 
-APP_DATA appData;
+APP_USB_DATA app_usbData;
 
 /* Receive data buffer */
 uint8_t receivedDataBuffer[512] CACHE_ALIGN;
@@ -93,7 +60,7 @@ uint8_t receivedDataBuffer[512] CACHE_ALIGN;
 /* Transmit data buffer */
 uint8_t  transmitDataBuffer[512] CACHE_ALIGN;
 
-extern volatile bool frame_ready;
+extern APP_CAM_DATA app_camData;
 
 // greyscale image is provided by the camera module; use APP_Cam_GetGreyscaleImg()
 
@@ -117,9 +84,8 @@ static bool     streamingInProgress = false;
 // *****************************************************************************
 // *****************************************************************************
 
-/*********************************************
- * Application USB Device Layer Event Handler
- *********************************************/
+/* TODO:  Add any necessary callback functions.
+*/
 
 void APP_USBDeviceEventHandler(USB_DEVICE_EVENT event, void * eventData, uintptr_t context)
 {
@@ -133,7 +99,7 @@ void APP_USBDeviceEventHandler(USB_DEVICE_EVENT event, void * eventData, uintptr
             /* Device is reset or deconfigured. Provide LED indication.*/
             LED0_Set();
 
-            appData.deviceIsConfigured = false;
+            app_usbData.deviceIsConfigured = false;
 
             break;
 
@@ -147,7 +113,7 @@ void APP_USBDeviceEventHandler(USB_DEVICE_EVENT event, void * eventData, uintptr
                 LED0_Clear();
 
                 /* Reset endpoint data send & receive flag  */
-                appData.deviceIsConfigured = true;
+                app_usbData.deviceIsConfigured = true;
             }
             break;
 
@@ -161,13 +127,13 @@ void APP_USBDeviceEventHandler(USB_DEVICE_EVENT event, void * eventData, uintptr
         case USB_DEVICE_EVENT_POWER_DETECTED:
 
             /* VBUS is detected. Attach the device */
-            USB_DEVICE_Attach(appData.usbDevHandle);
+            USB_DEVICE_Attach(app_usbData.usbDevHandle);
             break;
 
         case USB_DEVICE_EVENT_POWER_REMOVED:
 
             /* VBUS is removed. Detach the device */
-            USB_DEVICE_Detach (appData.usbDevHandle);
+            USB_DEVICE_Detach (app_usbData.usbDevHandle);
             LED0_Clear();
             break;
 
@@ -179,30 +145,30 @@ void APP_USBDeviceEventHandler(USB_DEVICE_EVENT event, void * eventData, uintptr
                 /* If we have got the SET_INTERFACE request, we just acknowledge
                  for now. This demo has only one alternate setting which is already
                  active. */
-                USB_DEVICE_ControlStatus(appData.usbDevHandle,USB_DEVICE_CONTROL_STATUS_OK);
+                USB_DEVICE_ControlStatus(app_usbData.usbDevHandle,USB_DEVICE_CONTROL_STATUS_OK);
             }
             else if(setupPacket->bRequest == USB_REQUEST_GET_INTERFACE)
             {
                 /* We have only one alternate setting and this setting 0. So
                  * we send this information to the host. */
 
-                USB_DEVICE_ControlSend(appData.usbDevHandle, &appData.altSetting, 1);
+                USB_DEVICE_ControlSend(app_usbData.usbDevHandle, &app_usbData.altSetting, 1);
             }
             else
             {
                 /* We have received a request that we cannot handle. Stall it*/
-                USB_DEVICE_ControlStatus(appData.usbDevHandle, USB_DEVICE_CONTROL_STATUS_ERROR);
+                USB_DEVICE_ControlStatus(app_usbData.usbDevHandle, USB_DEVICE_CONTROL_STATUS_ERROR);
             }
             break;
 
         case USB_DEVICE_EVENT_ENDPOINT_READ_COMPLETE:
            /* Endpoint read is complete */
-            appData.epDataReadPending = false;
+            app_usbData.epDataReadPending = false;
             break;
 
         case USB_DEVICE_EVENT_ENDPOINT_WRITE_COMPLETE:
             /* Endpoint write is complete */
-            appData.epDataWritePending = false;
+            app_usbData.epDataWritePending = false;
             if (txPacketIndex < FRAME_NUM_PACKETS)
             {
                 // Choose flag: MORE_DATA for all but last, DATA_COMPLETE for last
@@ -212,9 +178,9 @@ void APP_USBDeviceEventHandler(USB_DEVICE_EVENT event, void * eventData, uintptr
                     USB_DEVICE_TRANSFER_FLAGS_MORE_DATA_PENDING;
 
                 USB_DEVICE_EndpointWrite(
-                    appData.usbDevHandle,
-                    &appData.writeTranferHandle,
-                    appData.endpointTx,
+                    app_usbData.usbDevHandle,
+                    &app_usbData.writeTranferHandle,
+                    app_usbData.endpointTx,
                     (void *)(APP_Cam_GetGreyscaleImg() + (txPacketIndex * FRAME_PACKET_SIZE)),
                     FRAME_PACKET_SIZE,
                     flags
@@ -233,7 +199,7 @@ void APP_USBDeviceEventHandler(USB_DEVICE_EVENT event, void * eventData, uintptr
 
         /* These events are not used in this demo. */
         case USB_DEVICE_EVENT_RESUMED:
-            if(appData.deviceIsConfigured == true)
+            if(app_usbData.deviceIsConfigured == true)
             {
                 LED0_Clear();
             }
@@ -245,12 +211,12 @@ void APP_USBDeviceEventHandler(USB_DEVICE_EVENT event, void * eventData, uintptr
 }
 
 
-
 // *****************************************************************************
 // *****************************************************************************
 // Section: Application Local Functions
 // *****************************************************************************
 // *****************************************************************************
+
 
 /* TODO:  Add any necessary local functions.
 */
@@ -264,49 +230,52 @@ void APP_USBDeviceEventHandler(USB_DEVICE_EVENT event, void * eventData, uintptr
 
 /*******************************************************************************
   Function:
-    void APP_Initialize ( void )
+    void APP_USB_Initialize ( void )
 
   Remarks:
-    See prototype in app.h.
+    See prototype in app_usb.h.
  */
 
-void APP_Initialize ( void )
+void APP_USB_Initialize ( void )
 {
     /* Place the App state machine in its initial state. */
-    appData.state = APP_STATE_INIT;
-    appData.usbDevHandle = USB_DEVICE_HANDLE_INVALID;
-    appData.deviceIsConfigured = false;
-    appData.endpointRx = (APP_EP_BULK_OUT | USB_EP_DIRECTION_OUT);
-    appData.endpointTx = (APP_EP_BULK_IN | USB_EP_DIRECTION_IN);
-    appData.epDataReadPending = false;
-    appData.epDataWritePending = false;
-    appData.altSetting = 0;
+    app_usbData.state = APP_USB_STATE_INIT;
+    app_usbData.usbDevHandle = USB_DEVICE_HANDLE_INVALID;
+    app_usbData.deviceIsConfigured = false;
+    app_usbData.endpointRx = (APP_EP_BULK_OUT | USB_EP_DIRECTION_OUT);
+    app_usbData.endpointTx = (APP_EP_BULK_IN | USB_EP_DIRECTION_IN);
+    app_usbData.epDataReadPending = false;
+    app_usbData.epDataWritePending = false;
+    app_usbData.altSetting = 0;
+    /* TODO: Initialize your application's state machine and other
+     * parameters.
+     */
 }
 
 
 /******************************************************************************
   Function:
-    void APP_Tasks ( void )
+    void APP_USB_Tasks ( void )
 
   Remarks:
-    See prototype in app.h.
+    See prototype in app_usb.h.
  */
 
-void APP_Tasks (void )
+void APP_USB_Tasks (void )
 {
-    switch(appData.state)
+    switch(app_usbData.state)
     {
-        case APP_STATE_INIT:
+        case APP_USB_STATE_INIT:
             /* Open the device layer */
-            appData.usbDevHandle = USB_DEVICE_Open( USB_DEVICE_INDEX_0,
+            app_usbData.usbDevHandle = USB_DEVICE_Open( USB_DEVICE_INDEX_0,
                     DRV_IO_INTENT_READWRITE );
 
-            if(appData.usbDevHandle != USB_DEVICE_HANDLE_INVALID)
+            if(app_usbData.usbDevHandle != USB_DEVICE_HANDLE_INVALID)
             {
                 /* Register a callback with device layer to get event notification (for end point 0) */
-                USB_DEVICE_EventHandlerSet(appData.usbDevHandle,  APP_USBDeviceEventHandler, 0);
+                USB_DEVICE_EventHandlerSet(app_usbData.usbDevHandle,  APP_USBDeviceEventHandler, 0);
 
-                appData.state = APP_STATE_WAIT_FOR_CONFIGURATION;
+                app_usbData.state = APP_USB_STATE_WAIT_FOR_CONFIGURATION;
             }
             else
             {
@@ -316,63 +285,63 @@ void APP_Tasks (void )
 
             break;
 
-        case APP_STATE_WAIT_FOR_CONFIGURATION:
+        case APP_USB_STATE_WAIT_FOR_CONFIGURATION:
 
             /* Check if the device is configured */
-            if(appData.deviceIsConfigured == true)
+            if(app_usbData.deviceIsConfigured == true)
             {
-                if (USB_DEVICE_ActiveSpeedGet(appData.usbDevHandle) == USB_SPEED_FULL)
+                if (USB_DEVICE_ActiveSpeedGet(app_usbData.usbDevHandle) == USB_SPEED_FULL)
                 {
-                    appData.endpointMaxPktSize = 64;
+                    app_usbData.endpointMaxPktSize = 64;
                 }
-                else if (USB_DEVICE_ActiveSpeedGet(appData.usbDevHandle) == USB_SPEED_HIGH)
+                else if (USB_DEVICE_ActiveSpeedGet(app_usbData.usbDevHandle) == USB_SPEED_HIGH)
                 {
-                    appData.endpointMaxPktSize = 512;
+                    app_usbData.endpointMaxPktSize = 512;
                 }
-                if (USB_DEVICE_EndpointIsEnabled(appData.usbDevHandle, appData.endpointRx) == false )
+                if (USB_DEVICE_EndpointIsEnabled(app_usbData.usbDevHandle, app_usbData.endpointRx) == false )
                 {
                     /* Enable Read Endpoint */
-                    USB_DEVICE_EndpointEnable(appData.usbDevHandle, 0, appData.endpointRx,
-                            USB_TRANSFER_TYPE_BULK, appData.endpointMaxPktSize);
+                    USB_DEVICE_EndpointEnable(app_usbData.usbDevHandle, 0, app_usbData.endpointRx,
+                            USB_TRANSFER_TYPE_BULK, app_usbData.endpointMaxPktSize);
                 }
-                if (USB_DEVICE_EndpointIsEnabled(appData.usbDevHandle, appData.endpointTx) == false )
+                if (USB_DEVICE_EndpointIsEnabled(app_usbData.usbDevHandle, app_usbData.endpointTx) == false )
                 {
                     /* Enable Write Endpoint */
-                    USB_DEVICE_EndpointEnable(appData.usbDevHandle, 0, appData.endpointTx,
-                            USB_TRANSFER_TYPE_BULK, appData.endpointMaxPktSize);
+                    USB_DEVICE_EndpointEnable(app_usbData.usbDevHandle, 0, app_usbData.endpointTx,
+                            USB_TRANSFER_TYPE_BULK, app_usbData.endpointMaxPktSize);
                 }
                 /* Indicate that we are waiting for read */
-                appData.epDataReadPending = true;
+                app_usbData.epDataReadPending = true;
 
                 /* Place a new read request. */
-                USB_DEVICE_EndpointRead(appData.usbDevHandle, &appData.readTranferHandle,
-                        appData.endpointRx, &receivedDataBuffer[0], sizeof(receivedDataBuffer) );
+                USB_DEVICE_EndpointRead(app_usbData.usbDevHandle, &app_usbData.readTranferHandle,
+                        app_usbData.endpointRx, &receivedDataBuffer[0], sizeof(receivedDataBuffer) );
 
                 /* Device is ready to run the main task */
-                appData.state = APP_STATE_MAIN_TASK;
+                app_usbData.state = APP_USB_STATE_MAIN_TASK;
             }
             break;
 
-        case APP_STATE_MAIN_TASK:
+        case APP_USB_STATE_MAIN_TASK:
 
-            if(!appData.deviceIsConfigured)
+            if(!app_usbData.deviceIsConfigured)
             {
                 /* This means the device got deconfigured. Change the
                  * application state back to waiting for configuration. */
-                appData.state = APP_STATE_WAIT_FOR_CONFIGURATION;
+                app_usbData.state = APP_USB_STATE_WAIT_FOR_CONFIGURATION;
 
                 /* Disable the endpoint*/
-                USB_DEVICE_EndpointDisable(appData.usbDevHandle, appData.endpointRx);
-                USB_DEVICE_EndpointDisable(appData.usbDevHandle, appData.endpointTx);
-                appData.epDataReadPending = false;
-                appData.epDataWritePending = false;
+                USB_DEVICE_EndpointDisable(app_usbData.usbDevHandle, app_usbData.endpointRx);
+                USB_DEVICE_EndpointDisable(app_usbData.usbDevHandle, app_usbData.endpointTx);
+                app_usbData.epDataReadPending = false;
+                app_usbData.epDataWritePending = false;
             }
 
-            else if(appData.epDataWritePending == false)
+            else if(app_usbData.epDataWritePending == false)
             {  
 
 
-              if (frame_ready) {
+              if (app_camData.frame_ready) {
 
                 // Build header: marker + frame counter (little endian)
                 frameHeader[0] = 0xAA;
@@ -388,24 +357,24 @@ void APP_Tasks (void )
 
                 streamingInProgress        = true;
                 txPacketIndex              = 0;            // next: payload packet 0
-                appData.epDataWritePending = true;
+                app_usbData.epDataWritePending = true;
 
-                USB_DEVICE_EndpointWrite ( appData.usbDevHandle, &appData.writeTranferHandle,
-                        appData.endpointTx, frameHeader,
+                USB_DEVICE_EndpointWrite ( app_usbData.usbDevHandle, &app_usbData.writeTranferHandle,
+                        app_usbData.endpointTx, frameHeader,
                         FRAME_HEADER_SIZE,
                         USB_DEVICE_TRANSFER_FLAGS_MORE_DATA_PENDING);
                 }
             }
             break;
 
-        case APP_STATE_ERROR:
+        case APP_USB_STATE_ERROR:
             break;
 
         default:
             break;
     }
 }
- 
+
 
 /*******************************************************************************
  End of File

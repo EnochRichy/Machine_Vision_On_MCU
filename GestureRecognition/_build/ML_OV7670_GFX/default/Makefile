@@ -3672,30 +3672,6 @@ ML_OV7670_GFX_default_Bin2Hex/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.s
 .PHONY : 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.c.s
 
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.o
-
-# target to build an object file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.o
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.i
-
-# target to preprocess a source file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.i
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.i
-
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.s
-
-# target to generate assembly for a file
-D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.s
-.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.c.s
-
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.c.o
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.o
 
@@ -3767,6 +3743,30 @@ D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.s: D_/MV_PIC32CZ_G
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile_cpp.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.cpp.s
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.cpp.s
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.o
+
+# target to build an object file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.o
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.i: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.i
+
+# target to preprocess a source file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.i
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.i
+
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.s: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.s
+
+# target to generate assembly for a file
+D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/build.make CMakeFiles/ML_OV7670_GFX_default_default_XC32_compile.dir/D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.s
+.PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.c.s
 
 D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.o: D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.c.o
 .PHONY : D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.o
@@ -13050,9 +13050,6 @@ help:
 	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.o"
 	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.i"
 	@echo "... 767c907890a8f0d7608db77407014f39/packs/CMSIS/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mat_mult_nt_interleaved_t_even_s4.s"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.o"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.i"
-	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.o"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_cam.s"
@@ -13062,6 +13059,9 @@ help:
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.obj"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_ml.s"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.o"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.i"
+	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/app_usb.s"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.o"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.i"
 	@echo "... D_/MV_PIC32CZ_Git/GestureRecognition/My_MCC_Config/src/config/default/driver/i2c/src/drv_i2c.s"
